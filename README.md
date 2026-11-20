@@ -1,330 +1,190 @@
-# PromoPilot AI 🎬
-### AI-Assisted Promo Discovery for Timestamped Microdrama Screenplays
+# PromoPilot AI
 
-PromoPilot AI is an AI-assisted tool that automatically identifies, evaluates, validates, and ranks potential promotional clips from timestamped microdrama screenplays.
+**AI-assisted promo discovery for timestamped microdrama screenplays.**
 
-It helps editors discover compelling **20–60 second promotional moments** that can be used on platforms such as Instagram Reels, YouTube Shorts, and TikTok.
+[Open the live Streamlit app](https://promopilot-ai-vc6y9bvhexchxl89pdsnck.streamlit.app/)
 
-The system combines optional Gemini-based semantic analysis with an explainable offline heuristic engine, ensuring that promo discovery works even without an API key.
+PromoPilot AI recommends and ranks 20–60 second moments from screenplay text. It provides candidate timestamps, the opening hook, the ending payoff or cliffhanger, an explanation, and screenplay evidence. The editor remains responsible for checking the actual footage and making the final selection.
 
----
+## Assignment deliverables
 
-## 🚀 Key Features
+- [Two-page solution document](submission/PromoPilot_AI_Solution.pdf)
+- [Full-pack raw output archive (50 episodes)](submission/PromoPilot_AI_Raw_Outputs.zip)
+- [Ranked candidate JSON](outputs/ranked_promos.json)
+- [Ranked candidate CSV](outputs/ranked_promos.csv)
+- [Per-episode processing summary](outputs/episode_summary.json)
+- [Per-episode raw JSON folder](outputs/raw/)
 
-- **Screenplay Parsing:** Extracts timestamped dialogue, camera directions, action, and sound effects from screenplay files.
-- **Automated Promo Detection:** Identifies potential 20–60 second promotional windows.
-- **AI-Powered Analysis:** Optionally uses Google's Gemini API to identify dramatic hooks, cliffhangers, and compelling story moments.
-- **Offline Heuristic Detection:** Provides an independent rule-based detection mechanism when Gemini is unavailable.
-- **Multi-Dimensional Scoring:** Evaluates candidates based on seven criteria: hook, payoff, context, coherence, emotional intensity, promo-arc completeness, and duration suitability.
-- **Validation Engine:** Rejects invalid, overlapping, out-of-order, out-of-bounds, and incorrectly sized segments.
-- **Global Ranking:** Ranks valid promotional candidates across multiple episodes.
-- **Interactive Streamlit Interface:** Supports screenplay uploads, progress tracking, result explanations, and downloadable outputs.
-- **Batch Processing:** Processes multiple episodes and generates structured JSON and CSV reports.
+The raw JSON outputs include parsed screenplay text. Share them publicly only if you have permission to distribute the screenplay content.
 
----
+## Features
 
-## 🛠️ Tech Stack
+- Upload one or more UTF-8 `.txt` screenplays and review ranked promo candidates.
+- Retain overlapping CAMERA, ACTION, DIALOGUE, and SOUND FX evidence as parallel descriptions of one timeline.
+- Run with an offline heuristic detector; Gemini is optional.
+- Check candidate duration, timestamp order, and episode boundaries deterministically.
+- Report a significant gap between declared episode duration and the final screenplay event.
+- Download ranked results as JSON or CSV.
+- Review a normalized score breakdown and evidence excerpt for each candidate.
 
-| Component | Technology |
-|---|---|
-| Programming Language | Python |
-| User Interface | Streamlit |
-| AI Model | Google Gemini 2.0 Flash (Optional) |
-| AI Integration | Google GenAI SDK |
-| Data Processing | JSON, CSV |
-| Testing | Pytest |
-| Configuration | Environment Variables |
-| Logging | Python Logging |
+## Quick start
 
----
-
-## 🏗️ System Architecture
-
-The project follows a modular architecture:
-
-1. **Screenplay Parser (`screenplay_parser.py`)**
-   - Reads UTF-8 screenplay files.
-   - Extracts timestamped CAMERA, ACTION, dialogue, and SOUND FX events.
-   - Supports MM:SS and HH:MM:SS timestamp formats.
-   - Preserves overlapping events as independent timeline layers.
-
-2. **Promo Detector (`promo_detector.py`)**
-   - Generates candidate promotional windows.
-   - Uses Gemini when an API key is available.
-   - Falls back to an offline heuristic approach when Gemini is unavailable.
-   - Identifies hooks, cliffhangers, and supporting evidence.
-
-3. **Scoring Engine (`scoring.py`)**
-   - Independently validates candidate segments.
-   - Checks duration and episode boundaries.
-   - Calculates weighted scores.
-   - Ranks valid promotional candidates.
-
-4. **Batch Processing (`run_analysis.py`)**
-   - Processes multiple screenplay files.
-   - Generates individual episode outputs.
-   - Produces globally ranked JSON and CSV reports.
-   - Records episode-level processing information.
-
-5. **Interactive Application (`app.py`)**
-   - Provides a Streamlit-based interface.
-   - Accepts one or more `.txt` screenplay files.
-   - Displays detected promos and their explanations.
-   - Allows users to download results.
-
----
-
-## 📊 Scoring Methodology
-
-Each candidate is evaluated using a weighted scoring system with individual component scores ranging from 0 to 5.
-
-| Evaluation Criteria | Weight |
-|---|---:|
-| Hook | 18% |
-| Cliffhanger / Payoff | 24% |
-| First-time Viewer Context | 12% |
-| Narrative Coherence | 14% |
-| Emotional Intensity | 12% |
-| Promo Arc Completeness | 14% |
-| Duration Suitability | 6% |
-| **Total** | **100%** |
-
-The same scoring formula is used to recompute and rank candidates from both Gemini and heuristic detection.
-
-The heuristic engine uses explainable lexical and timeline-based signals rather than a trained machine learning model.
-
-**Note:** Scores indicate editorial suitability, not predicted virality or actual audience engagement.
-
----
-
-## 📁 Project Structure
-
-```text
-PromoPilot-AI/
-│
-├── app.py
-├── screenplay_parser.py
-├── promo_detector.py
-├── scoring.py
-├── run_analysis.py
-│
-├── data/
-│   └── input/
-│       └── screenplay_*.txt
-│
-├── outputs/
-│   ├── raw/
-│   │   ├── episode_*.json
-│   │   └── ...
-│   │
-│   ├── ranked_promos.json
-│   ├── ranked_promos.csv
-│   └── episode_summary.json
-│
-├── tests/
-│   └── ...
-│
-├── requirements.txt
-├── requirements-dev.txt
-├── .env.example
-├── .gitignore
-└── README.md
-```
-
----
-
-## 📂 Output Location and Generated Files
-
-All batch-processing results are automatically saved inside the **`outputs/` directory** in the project root.
-
-After running the analysis, the following files are generated:
-
-| Output Location | Description |
-|---|---|
-| `outputs/raw/` | Individual JSON files containing parsed events and promo results for each episode. |
-| `outputs/ranked_promos.json` | Globally ranked promotional candidates in JSON format. |
-| `outputs/ranked_promos.csv` | Globally ranked promotional candidates in CSV format for spreadsheet analysis. |
-| `outputs/episode_summary.json` | Episode-level parsing summaries and processing information. |
-
-### Understanding the Outputs
-
-**1. Raw Episode Outputs**
-
-The `outputs/raw/` directory stores individual episode-level JSON files, including parsed screenplay events, detected candidates, validation information, and scoring details.
-
-**2. Global Ranked Results**
-
-`ranked_promos.json` and `ranked_promos.csv` contain promotional candidates ranked across all processed episodes.
-
-**3. Episode Summary**
-
-`episode_summary.json` contains episode-level processing information and parsing summaries.
-
-The Streamlit application also provides downloadable results through its interface.
-
----
-
-## ⚙️ Installation and Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Komalsingh7/PromoPilot-AI.git
-cd PromoPilot-AI
-```
-
-### 2. Create a Virtual Environment
-
-**Windows (PowerShell):**
+### Windows PowerShell
 
 ```powershell
-python -m venv .venv
-.venv\Scripts\Activate.ps1
-```
-
-**macOS / Linux:**
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-```
-
-### 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the Streamlit Application
-
-```bash
+Set-Location 'C:\path\to\PromoPilot-AI'
+py -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Open the local URL displayed in the terminal and upload one or more `.txt` screenplay files.
+### macOS or Linux
 
----
-
-## 🤖 Gemini API Configuration (Optional)
-
-PromoPilot AI supports Google's Gemini API for semantic promo analysis.
-
-To enable Gemini:
-
-1. Obtain a Gemini API key.
-2. Set the `GEMINI_API_KEY` environment variable.
-3. Optionally configure `GEMINI_MODEL`.
-
-Example for Windows PowerShell:
-
-```powershell
-$env:GEMINI_API_KEY="your_api_key"
-$env:GEMINI_MODEL="gemini-2.0-flash"
+```bash
+cd /path/to/PromoPilot-AI
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+streamlit run app.py
 ```
 
-The default model is `gemini-2.0-flash`.
+Open the local URL printed by Streamlit, normally `http://localhost:8501`. Upload a screenplay `.txt` file, select **Analyze screenplays**, then inspect the ranked candidates. The app limits each uploaded file to 10 MB.
 
-**Fallback Mechanism:**
+The app does not load `.env` files automatically. Without `GEMINI_API_KEY`, it uses the offline heuristic and does not require credentials or network access for detection.
 
-- If no API key is configured, the system automatically uses heuristic detection.
-- If the Gemini request fails or returns malformed output, the system falls back to offline detection.
-- API keys are never displayed in the application or included in generated outputs.
+## Supported screenplay format
 
-The Gemini client uses a 30-second request timeout.
+The parser intentionally supports the supplied **Kuku block format** only. A screenplay contains scene metadata and blocks like:
 
----
+```text
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: A family secret changes everything.
 
-## ▶️ Running the Full Input Pack
+SCENE 01
+Scene heading: INT. HOUSE
+Scene start: 00:00
+Scene end: 01:00
+**CAMERA:**
+Start: (00:00.00) | End: (00:03.00)
+Close-up on the locked door.
+**ACTION:**
+Start: (00:00.00) | End: (00:03.00)
+Maya freezes as someone knocks.
+**CHARACTER NAME (Urgent):**
+Start: (00:02.00) | End: (00:05.00)
+Who is there?
+```
 
-The project includes a supplied pack of 50 screenplay episodes.
+Accepted timestamps are `MM:SS`, `MM:SS.fraction`, and `HH:MM:SS.fraction`; seconds and hour-based minutes must be less than 60. A UTF-8 BOM is accepted. Invalid or empty event blocks are skipped and described in parser warnings.
 
-To process all episodes using the offline heuristic engine:
+**Parallel evidence is not sequential dialogue.** Events that overlap or share timestamps remain separate. Their durations are not summed. Inline records such as `[00:00] CAMERA: ...` are not supported by this parser.
+
+## How it works
+
+1. **Parse — [screenplay_parser.py](screenplay_parser.py):** Extract episode metadata, scenes, timestamps, labels, and event text. Preserve parallel evidence layers and calculate the final event time.
+2. **Generate and detect — [promo_detector.py](promo_detector.py):** Search event-boundary windows between 20 and 60 seconds. The heuristic assesses the opening hook, development, emotional intensity, and ending payoff; it suppresses near-duplicate candidates. When configured, Gemini can propose candidates, with the heuristic retained as a fallback.
+3. **Validate and rank — [scoring.py](scoring.py):** Reject invalid durations, timestamps, ordering, overlaps, or episode bounds. Recompute the weighted score for Gemini candidates and rank valid candidates.
+4. **Review — [app.py](app.py):** Show upload progress, parser warnings, ranked candidates, score breakdowns, explanations, evidence, and downloads.
+5. **Batch — [run_analysis.py](run_analysis.py):** Process all `.txt` files in a directory and write per-episode JSON, a global ranking, and a summary.
+
+Candidate starts and ends are selected from screenplay event boundaries; the prototype does not search arbitrary video frames. If the last event ends significantly before the declared duration, a warning is recorded and candidate generation does not use the empty tail as footage. The discrepancy threshold is the greater of 10 seconds or 5% of the declared duration.
+
+## Scoring
+
+Every factor is scored from 0 to 5. The composite score is:
+
+| Factor | Weight | Intent |
+|---|---:|---|
+| Hook | 18% | Curiosity, tension, surprise, or emotional engagement near the start |
+| Cliffhanger/payoff | 24% | Meaningful reveal, threat, reversal, confession, or unresolved question |
+| First-time-viewer context | 12% | How understandable the people and situation are without prior episodes |
+| Narrative coherence | 14% | Whether selected events form a connected progression |
+| Emotional intensity | 12% | Evidence of emotional or dramatic intensity |
+| Promo-arc completeness | 14% | Strength of the opening-to-build-to-ending progression |
+| Duration suitability | 6% | A modest preference for the middle of the allowed duration range |
+
+These are explainable ranking signals, **not calibrated probabilities or evidence of predicted audience performance**. The heuristic is rule- and lexicon-based, not a trained machine-learning model.
+
+## Run the supplied 50-episode pack
+
+Run from the project root:
 
 ```bash
 python run_analysis.py --heuristic
 ```
 
-To run with Gemini enabled:
+The offline run avoids Gemini requests. To process a different input directory or write outputs elsewhere:
 
 ```bash
-python run_analysis.py
+python run_analysis.py --heuristic --input path/to/screenplays --output path/to/results
 ```
 
-For Gemini execution, configure `GEMINI_API_KEY` first.
+`--input` must contain `.txt` files. By default, inputs come from `data/input/` and outputs are written to `outputs/`.
 
-Generated files are saved in the `outputs/` directory.
+### Output files
 
----
+- `outputs/raw/<episode>.json`: parsed episode, warnings, candidates, and per-candidate validation.
+- `outputs/ranked_promos.json`: globally ranked valid candidates, including score components and evidence.
+- `outputs/ranked_promos.csv`: tabular view of the global ranking.
+- `outputs/episode_summary.json`: event and promo counts, declared/final-event durations, gap warnings, and processing time.
 
-## 🧪 Testing
+## Gemini (optional)
 
-Install development dependencies:
+Set `GEMINI_API_KEY` in the process environment and optionally set `GEMINI_MODEL` (default: `gemini-2.0-flash`). The official `google-genai` SDK is installed from `requirements.txt`. The request timeout is 30 seconds. Missing keys, malformed responses, and request failures fall back to the offline heuristic. When Gemini is enabled, screenplay event text and timestamps are sent to Google's Gemini API; only use this mode when you are authorized to send that content.
 
-```bash
-pip install -r requirements-dev.txt
+PowerShell example:
+
+```powershell
+$env:GEMINI_API_KEY = '<your-key>'
+$env:GEMINI_MODEL = 'gemini-2.0-flash'
+streamlit run app.py
 ```
 
-Run the test suite:
+Never commit a real key or put it in source code. `.env.example` contains placeholders only, and the application does not load `.env` files. The deployed app works in offline mode without a key. The current detector reads `GEMINI_API_KEY` from the process environment; before using a hosting provider's secrets store, confirm that it exposes the value as an environment variable or update the app to read that provider's secret API.
+
+## Tests and verification
+
+Install development dependencies and run the test suite:
 
 ```bash
+python -m pip install -r requirements-dev.txt
 python -m pytest -q
 ```
 
-### Quality Checks
+Tests cover timestamp conversion, parallel evidence, malformed input, gap warnings, deterministic duration/boundary checks, scoring/ranking, near-duplicate handling, Gemini response parsing and failure fallback, heuristic behavior, and end-to-end processing. Gemini API tests are mocked; tests do not require a key or network access.
 
-The solution supports the following quality checks:
+Latest recorded local offline run:
 
-- Processing all 50 supplied episodes.
-- Checking parser event counts and raw episode outputs.
-- Validating that every selected promo is between 20 and 60 seconds.
-- Ensuring candidate timestamps remain within episode boundaries.
-- Reviewing hooks and cliffhangers against the original screenplay evidence.
-- Checking candidate validation status and global ranking.
+- 50 episodes and 3,727 parsed events
+- 34 valid promo candidates; zero failed duration or episode-boundary validation
+- Candidate durations: 26.50–58.90 seconds
+- Batch elapsed time: approximately 3.29 seconds on the recorded local environment
+- The bundled pack had no significant duration-gap warnings
 
----
+This is technical validation only. The project has no editor-labeled ground-truth set, so precision, recall, and recommendation quality have not been established.
 
-## ⚠️ Assumptions and Limitations
+## Deploy on Streamlit Community Cloud
 
-- The system assumes screenplay timestamps are episode-relative.
-- Promo duration is calculated as end timestamp minus start timestamp.
-- Overlapping dialogue, camera, and action events are preserved as parallel timeline evidence.
-- The current implementation generates candidates within individual episodes and does not support cross-episode promotional sequences.
-- Heuristic detection relies on lexical and timeline signals and may miss subtle emotional context, irony, or nuanced cliffhangers.
-- Gemini-generated candidates undergo structural and timestamp validation, but still require human editorial review.
-- The system analyzes screenplay text, not actual video or audio footage. Therefore, it cannot verify visual quality, actor performance, sound, or final editing suitability.
-- Rankings represent editorial triage and should not be interpreted as guaranteed audience performance.
+The live app is [promopilot-ai-vc6y9bvhexchxl89pdsnck.streamlit.app](https://promopilot-ai-vc6y9bvhexchxl89pdsnck.streamlit.app/). It was verified to load the upload interface in offline heuristic mode.
 
----
+For a new deployment, push the app source to a GitHub repository, then create a Community Cloud app using the repository, branch, and `app.py` as the entry point. Community Cloud installs dependencies from `requirements.txt`. See the [official deployment guide](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app).
 
-## 🔍 Future Improvements
+## Assumptions and limitations
 
-- Introduce human editor feedback to build a labelled evaluation dataset.
-- Add candidate-window search across adjacent scenes.
-- Support controlled cross-episode promotional sequences.
-- Evaluate precision@k against manually selected promotional clips.
-- Introduce stronger interchangeable AI models through a modular model adapter.
-- Track editor acceptance rates and actual audience engagement metrics.
+- The supported screenplay format is the Kuku block format described above.
+- The offline heuristic emits one contiguous segment per candidate. The Gemini response schema can represent multiple ordered segments within an episode, but neither detector combines episodes or performs video editing.
+- The screenplay describes events but does not prove what the filmed footage looks or sounds like. Editors should verify shot quality, performance, pacing, audio, and continuity.
+- Lexical rules may miss subtle, culturally specific, ironic, or context-dependent hooks and payoffs. Candidate scores require human review.
+- No human labels or audience outcomes are available. The score must not be interpreted as virality or predictive accuracy.
+- The Rohan/Naina train screenplay used for example reference windows was not available during the latest offline run; those specific examples remain unverified.
 
----
+## Scaling and future evaluation
 
-## 🤝 AI Tools and Disclosure
+The current batch runner processes episodes sequentially and independently, which keeps the prototype simple. For a substantially larger slate, episodes can be sent to bounded parallel workers while retaining per-episode retries, model rate limits, deterministic post-validation, and structured JSON results. A queue or database is unnecessary until throughput or persistence requirements justify one.
 
-- **Google Gemini:** Optional semantic analysis of screenplay content.
-- **ChatGPT:** Assisted with project scaffolding, code drafting, and documentation.
+The next quality step is to collect editor accept/reject decisions and reasons, then evaluate candidate ranking against held-out editor selections. Useful measures include precision@K, recall, and temporal intersection-over-union. Do not claim recommendation accuracy until this evaluation data exists.
 
-One important correction during development involved screenplay parsing. An early approach treated screenplay blocks as a sequential transcript. However, inspection revealed that CAMERA, ACTION, and dialogue events could overlap. The parser was consequently designed to preserve them as independent timestamped evidence.
+## AI assistance
 
-AI-generated results are not trusted blindly. The implementation independently validates timestamps, duration, boundaries, and scoring, while flagging candidates for human review.
-
----
-
-## 🎯 Assignment Context
-
-**Organization:** Kuku
-
-**Assignment:** AI Generalist – Problem 1: Find the Promos
-
-**Objective:** Build a reusable tool that discovers, evaluates, validates, and ranks 20–60 second promotional moments from timestamped microdrama screenplays.
-
-**Repository:** https://github.com/Komalsingh7/PromoPilot-AI
-
+Gemini integration is optional and its output is validated in code. The included full-pack results were generated offline with the heuristic detector. AI-assisted drafting helped develop the project; the final implementation preserves CAMERA, ACTION, DIALOGUE, and SOUND FX as parallel timeline evidence rather than treating them as sequential transcript blocks.
