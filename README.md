@@ -164,11 +164,6 @@ Latest recorded local offline run:
 
 This is technical validation only. The project has no editor-labeled ground-truth set, so precision, recall, and recommendation quality have not been established.
 
-## Deploy on Streamlit Community Cloud
-
-The live app is [promopilot-ai-vc6y9bvhexchxl89pdsnck.streamlit.app](https://promopilot-ai-vc6y9bvhexchxl89pdsnck.streamlit.app/). It was verified to load the upload interface in offline heuristic mode.
-
-For a new deployment, push the app source to a GitHub repository, then create a Community Cloud app using the repository, branch, and `app.py` as the entry point. Community Cloud installs dependencies from `requirements.txt`. See the [official deployment guide](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app).
 
 ## Assumptions and limitations
 
