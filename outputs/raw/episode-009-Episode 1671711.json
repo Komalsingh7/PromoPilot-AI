@@ -1,0 +1,728 @@
+{
+  "episode": {
+    "source_file": "episode-009-Episode 1671711.txt",
+    "episode": "Episode 9",
+    "logline": "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly igniting dangerous rumors that reach the ears of the Blond Nobleman.",
+    "continuity_notes": "Picks up immediately after Episode 8, continuing the peaceful evening inside the cottage before an urgent knock shatters the calm.",
+    "declared_duration_seconds": 115.5,
+    "last_event_seconds": 115.5,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 115.5,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 2.8,
+        "text": "Medium close-up of Juliana at the wooden table by candlelight, grinding dried herbs with a pestle inside a stone mortar.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 0.0,
+        "end": 2.8,
+        "text": "Juliana methodically crushes herbs in the mortar beside her open herbal grimoire.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 2.0,
+        "end": 3.5,
+        "text": "Heavy, frantic pounding echoes against the heavy wooden cottage door.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 2.8,
+        "end": 4.0,
+        "text": "Juliana stops grinding and lifts her head sharply toward the entrance in alarm.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 3.5,
+        "end": 5.5,
+        "text": "Close-up of Alexander turning toward the doorway, his eyes sharp and vigilant.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ALEXANDER (Authoritative, Protective):",
+        "start": 3.6,
+        "end": 5.0,
+        "text": "\"Stay back. I'll open it.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 4.8,
+        "end": 6.6,
+        "text": "Alexander steps forward and unlatches the cottage door, opening it into the pouring rain.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 5.5,
+        "end": 11.2,
+        "text": "Medium shot framing the doorway as a soaked, distraught peasant mother steps across the threshold clutching a swaddled child.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "PEASANT MOTHER (Frantic, Weeping):",
+        "start": 6.3,
+        "end": 11.1,
+        "text": "\"Please! They told me there was a woman here who knows herbs. My boy is burning with fever!\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 11.2,
+        "end": 13.5,
+        "text": "Medium shot of Juliana rushing to the front of the table, extending her arms urgently.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "JULIANA (Urgent, Compassionate):",
+        "start": 11.4,
+        "end": 13.3,
+        "text": "\"Bring him here. Quickly.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 12.0,
+        "end": 14.2,
+        "text": "The trembling mother gently lays the feverish boy down atop the wooden table as Juliana leans in close.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 13.8,
+        "end": 15.2,
+        "text": "Close-up of Juliana gently placing her fingers against the boy's burning forehead.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 15.2,
+        "end": 17.8,
+        "text": "Medium close-up of Juliana examining the boy's breathing, looking up toward the frantic mother.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "JULIANA (Reassuring, Focused):",
+        "start": 15.5,
+        "end": 19.8,
+        "text": "\"He seems very unwell, but he is resting steadily. How long has he been like this?\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 17.8,
+        "end": 20.0,
+        "text": "Medium two-shot of Alexander watching anxiously over the child's shoulder as Juliana tends to him.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 20.0,
+        "end": 24.0,
+        "text": "Medium close-up of the peasant mother clutching her shawl, tears running down her cheeks.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "PEASANT MOTHER (Trembling, Anxious):",
+        "start": 20.5,
+        "end": 23.9,
+        "text": "\"Since yesterday morning. He has barely eaten since sunset.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 24.0,
+        "end": 27.5,
+        "text": "Close-up of Juliana resting two fingers against the boy's wrist, measuring his shallow pulse.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 27.2,
+        "end": 28.8,
+        "text": "Juliana lifts the weathered herbal book and rapidly browses the handwritten pages.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 28.8,
+        "end": 31.0,
+        "text": "Insert close-up of the open page illustrated with botanical drawings labeled 'Feverfew'.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "JULIANA (Muttering, Intent):",
+        "start": 29.0,
+        "end": 30.8,
+        "text": "\"Feverfew... Not alone.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 31.0,
+        "end": 34.0,
+        "text": "Profile close-up of Juliana studying the grimoire's remedies intently while the mother weeps in the soft background.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "JULIANA (Determined):",
+        "start": 31.8,
+        "end": 33.8,
+        "text": "\"Chamomile... and willow bark.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 34.0,
+        "end": 36.0,
+        "text": "Close-up of Alexander leaning over the table, gazing at her with intense concern.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ALEXANDER (Grave):",
+        "start": 34.9,
+        "end": 35.8,
+        "text": "\"You're certain?\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 36.0,
+        "end": 38.0,
+        "text": "Close-up of Juliana looking up into his eyes with resolute conviction.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "JULIANA (Resolute):",
+        "start": 36.3,
+        "end": 37.4,
+        "text": "\"I have to be.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 38.0,
+        "end": 39.8,
+        "text": "Juliana quickly grabs bundles of dried herbs from the table and turns to Alexander.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "JULIANA (Urgent):",
+        "start": 38.2,
+        "end": 39.8,
+        "text": "\"Alexander, I need hot water.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ALEXANDER (Prompt):",
+        "start": 39.9,
+        "end": 40.8,
+        "text": "\"I'm on it.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 40.8,
+        "end": 42.5,
+        "text": "Alexander hurries to the hearth and lifts a boiling iron kettle from the hearth chain, while the mother buries her face in her hands.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "PEASANT MOTHER (Sobbing):",
+        "start": 41.0,
+        "end": 42.5,
+        "text": "\"Please save him.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 42.2,
+        "end": 43.5,
+        "text": "Alexander returns and pours steaming hot water into the stone mortar as Juliana prepares the remedy.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 43.0,
+        "end": 46.0,
+        "text": "Medium close-up of Juliana clasping the mother's trembling hand across the wooden table.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "JULIANA (Gentle, Steadfast):",
+        "start": 43.8,
+        "end": 45.6,
+        "text": "\"He is not beyond saving.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 46.0,
+        "end": 48.0,
+        "text": "Close-up of Juliana carefully administering the herbal brew with a small wooden spoon into the sick boy's mouth.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 47.0,
+        "end": 48.2,
+        "text": "The child swallows weakly and lets out a soft cough.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 48.0,
+        "end": 50.5,
+        "text": "Close-up of the mother clutching her chest in anxious suspense.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 50.5,
+        "end": 52.5,
+        "text": "Medium close-up of Juliana sitting quietly beside the boy, holding two fingers over his wrist to monitor his pulse.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 52.5,
+        "end": 54.0,
+        "text": "Over-the-shoulder shot from behind the mother leaning across the table in panic.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "PEASANT MOTHER (Despairing):",
+        "start": 52.5,
+        "end": 54.0,
+        "text": "\"Why isn't it working?\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 54.0,
+        "end": 56.0,
+        "text": "Close-up of Juliana raising a calm finger, urging patience.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "JULIANA (Quiet, Focused):",
+        "start": 54.3,
+        "end": 55.2,
+        "text": "\"Wait.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 56.0,
+        "end": 58.5,
+        "text": "Close-up of the sleeping boy as beads of sweat form on his forehead, his breathing deepening.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 58.5,
+        "end": 62.0,
+        "text": "Close-up of the mother gently caressing her son's cheek, sobbing with relief.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "PEASANT MOTHER (Overcome with Emotion):",
+        "start": 58.8,
+        "end": 61.8,
+        "text": "\"His fever... it's breaking.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 62.0,
+        "end": 64.0,
+        "text": "Close-up of Juliana exhaling a deep breath of relief, smiling gently.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 64.0,
+        "end": 65.6,
+        "text": "Close-up of the mother looking up at Juliana with overwhelming gratitude.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "PEASANT MOTHER (Tearful, Grateful):",
+        "start": 64.2,
+        "end": 65.5,
+        "text": "\"You saved him.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 65.6,
+        "end": 68.5,
+        "text": "Medium close-up of Juliana grasping the mother's hand with warm modesty.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "JULIANA (Soft, Gracious):",
+        "start": 65.8,
+        "end": 68.2,
+        "text": "\"The herbs did their work. Let him rest.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 68.0,
+        "end": 70.5,
+        "text": "Juliana places a comforting hand over the mother's hands.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 70.5,
+        "end": 73.0,
+        "text": "The mother gathers her sleeping son in her arms and steps back toward the rainy doorway.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 71.0,
+        "end": 74.8,
+        "text": "Medium shot from inside the cottage framing the mother standing at the open door looking back.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "PEASANT MOTHER (Reverent, Vowing):",
+        "start": 71.2,
+        "end": 74.8,
+        "text": "\"I will tell the village what you did. They will never forget you.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 74.5,
+        "end": 75.5,
+        "text": "The mother exits into the rainy twilight as Alexander pushes the door shut.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 74.8,
+        "end": 77.5,
+        "text": "Close-up of Alexander turning from the door, his expression deeply troubled.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ALEXANDER (Stern, Warning):",
+        "start": 75.1,
+        "end": 77.5,
+        "text": "\"You cannot let the whole village start talking about you.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 77.5,
+        "end": 79.5,
+        "text": "Medium close-up of Juliana placing the mortar back onto the table, unflinching.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "JULIANA (Defiant, Principled):",
+        "start": 77.6,
+        "end": 79.4,
+        "text": "\"A child's life matters more than gossip.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 79.5,
+        "end": 81.7,
+        "text": "Close-up of Alexander, his jaw clenched with protective anxiety.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "ALEXANDER (Dark, Cautionary):",
+        "start": 79.6,
+        "end": 81.6,
+        "text": "\"Gossip has a way of becoming dangerous.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 81.7,
+        "end": 83.8,
+        "text": "Medium two-shot profile of Juliana stepping directly in front of Alexander, looking steadfastly up into his eyes.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "JULIANA (Committed, Unshakable):",
+        "start": 82.0,
+        "end": 83.8,
+        "text": "\"Then we will face it together.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 83.8,
+        "end": 86.5,
+        "text": "Wide shot of an opulent gothic manor study. The Blond Nobleman sits in a velvet armchair beside a roaring fireplace, reading an open leather-bound book.",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 84.0,
+        "end": 86.5,
+        "text": "The Former Groom, soaked from the rain and clutching his hat, walks nervously through the double doors into the study.",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 86.5,
+        "end": 88.0,
+        "text": "Medium shot framing the Blond Nobleman in the foreground as The Former Groom halts respectfully behind his chair.",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Aloof, Without Looking Up):",
+        "start": 86.6,
+        "end": 87.4,
+        "text": "\"What is it?\"",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 88.0,
+        "end": 90.2,
+        "text": "Medium close-up of The Former Groom, damp dark hair plastered to his forehead.",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "THE FORMER GROOM (Hesitant, Deferential):",
+        "start": 88.0,
+        "end": 90.3,
+        "text": "\"There is a rumor going around, my Lord.\"",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 90.2,
+        "end": 92.0,
+        "text": "Close-up of the Blond Nobleman lowering his book, gazing across with mild annoyance.",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Coldly Curious):",
+        "start": 90.6,
+        "end": 91.4,
+        "text": "\"What rumor?\"",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 92.0,
+        "end": 95.0,
+        "text": "Close-up of The Former Groom speaking cautiously.",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "THE FORMER GROOM (Uneasy):",
+        "start": 92.1,
+        "end": 95.1,
+        "text": "\"About a war veteran. Some say he resembles the late Duke.\"",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 95.0,
+        "end": 97.2,
+        "text": "Medium close-up of the Blond Nobleman scoffing dismissively as he closes the book.",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Mocking, Arrogant):",
+        "start": 95.3,
+        "end": 97.3,
+        "text": "\"People see ghosts whenever they want a story.\"",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 97.2,
+        "end": 101.0,
+        "text": "Extreme close-up of The Former Groom's eyes widening with urgent dread.",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "THE FORMER GROOM (Tense, Solemn):",
+        "start": 97.5,
+        "end": 101.2,
+        "text": "\"The man is said to have the same kind of scar the Duke carried after the war.\"",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 101.0,
+        "end": 102.2,
+        "text": "Close-up of the Blond Nobleman snapping his head around, his smug expression freezing into sudden alarm.",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Sharp, Demanding):",
+        "start": 101.4,
+        "end": 101.9,
+        "text": "\"Where?\"",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 102.2,
+        "end": 104.0,
+        "text": "Medium close-up of The Former Groom shifting uncomfortably.",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "THE FORMER GROOM (Cautious):",
+        "start": 102.3,
+        "end": 103.6,
+        "text": "\"No one seems certain.\"",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 104.0,
+        "end": 106.0,
+        "text": "Close-up of the Blond Nobleman composing his features into cold disdain, though tension trembles beneath his tone.",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Dismissive, Masking Panic):",
+        "start": 104.2,
+        "end": 105.9,
+        "text": "\"Then let it remain a rumor.\"",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 106.0,
+        "end": 108.0,
+        "text": "Medium shot as The Former Groom turns and retreats silently out of the study, leaving the doors closed.",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 108.0,
+        "end": 112.0,
+        "text": "Side profile shot of the Blond Nobleman seated alone before the roaring fire, staring blankly into the flames in creeping paranoia.",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Whispering, Shaken):",
+        "start": 109.8,
+        "end": 111.2,
+        "text": "\"Impossible.\"",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 112.0,
+        "end": 115.5,
+        "text": "Extreme close-up macro shot of the Blond Nobleman's eye, the flickering fireplace flames dancing across his widening iris as dark dread paralyzes him, holding until the screen cuts to black.",
+        "scene": "02",
+        "scene_heading": "INT. LORD'S STUDY – NIGHT"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

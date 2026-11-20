@@ -1,0 +1,573 @@
+{
+  "episode": {
+    "source_file": "episode-005-Episode 1671707.txt",
+    "episode": "Episode 5",
+    "logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family.",
+    "continuity_notes": "Follows directly from Episode 4's ending where Juliana and the Mysterious Bearded Man walked out of the chapel doors into the daylight after completing their wedding vows.",
+    "declared_duration_seconds": 110.5,
+    "last_event_seconds": 110.5,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 110.5,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 2.5,
+        "text": "Close-up on Lady Juliana's hands clutching an ancient, brass-bound leather ledger against the skirt of her white wedding gown as she walks.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 0.0,
+        "end": 2.5,
+        "text": "Juliana grips the heirloom ledger tightly against her waist, her posture resolute despite the tension.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 2.5,
+        "end": 6.0,
+        "text": "Wide shot tracking Juliana and the Mysterious Bearded Man descending the grand stone steps of the cathedral courtyard. Behind them, Lord Ashcroft emerges from the vaulted doorway leaning on his cane.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "LORD ASHCROFT (Stern, Commanding):",
+        "start": 4.2,
+        "end": 5.8,
+        "text": "\"Miss Ashcroft.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 5.5,
+        "end": 6.6,
+        "text": "Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 6.6,
+        "end": 10.5,
+        "text": "Close-up of Lord Ashcroft, his weathered face rigid with aristocratic pride and disgust.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "LORD ASHCROFT (Cold, Condemnatory):",
+        "start": 6.8,
+        "end": 10.4,
+        "text": "\"You will not leave this church carrying the Ashcroft name.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 10.5,
+        "end": 15.8,
+        "text": "Medium close-up of Juliana looking up at her father. Her hand rises to touch the amethyst heirloom pendant resting at her throat.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "JULIANA (Defiant, Steadfast):",
+        "start": 11.7,
+        "end": 15.5,
+        "text": "\"The vows are spoken, Father. I am his wife now.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 15.8,
+        "end": 20.8,
+        "text": "Medium shot of Lord Ashcroft standing rigid outside the chapel archway, unforgiving and unyielding.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "LORD ASHCROFT (Harsh, Final):",
+        "start": 16.0,
+        "end": 18.0,
+        "text": "\"Then leave as his wife.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "LORD ASHCROFT (Harsh, Final):",
+        "start": 18.5,
+        "end": 20.8,
+        "text": "\"You leave as no daughter of mine.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 20.8,
+        "end": 25.0,
+        "text": "Low-angle shot tracking Lord Ashcroft's polished black boots as he slowly descends the stone steps toward them.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "LORD ASHCROFT (O.S. / Continues):",
+        "start": 21.0,
+        "end": 23.0,
+        "text": "\"Your dowry is revoked.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "LORD ASHCROFT (O.S. / Continues):",
+        "start": 23.1,
+        "end": 25.1,
+        "text": "\"Your inheritance is revoked.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 25.0,
+        "end": 29.0,
+        "text": "Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "LORD ASHCROFT (O.S. / Continues):",
+        "start": 25.4,
+        "end": 28.9,
+        "text": "\"From this moment, you are dead to the Ashcroft family.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "JULIANA (Shaking, Tearful):",
+        "start": 29.5,
+        "end": 33.4,
+        "text": "\"You truly mean it? You are my father!\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 33.5,
+        "end": 36.5,
+        "text": "Close-up of the Mysterious Bearded Man, observing Lord Ashcroft with an unblinking, quietly threatening stare.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "LORD ASHCROFT (O.S.):",
+        "start": 33.8,
+        "end": 36.8,
+        "text": "\"And you have chosen to become a stranger.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 36.5,
+        "end": 41.5,
+        "text": "Profile medium two-shot of Juliana and Lord Ashcroft standing face-to-face against the backdrop of the towering gothic facade.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "JULIANA (Quietly Resolute):",
+        "start": 37.6,
+        "end": 41.5,
+        "text": "\"No, Father. You chose that long before today.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 41.5,
+        "end": 46.0,
+        "text": "Medium close-up of Lady Ashcroft, resplendent in navy velvet and jewels, stepping forward with a smirk of malicious authority.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "LADY ASHCROFT (Sharply Dismissive):",
+        "start": 42.5,
+        "end": 44.2,
+        "text": "\"Enough sentiment.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "LADY ASHCROFT (Cold, Demanding):",
+        "start": 44.3,
+        "end": 45.8,
+        "text": "\"And the ledger...\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 46.0,
+        "end": 48.8,
+        "text": "Medium shot as Lady Ashcroft approaches Juliana menacingly.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "LADY ASHCROFT (Venomous):",
+        "start": 46.8,
+        "end": 48.8,
+        "text": "\"...that belongs to this family.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "JULIANA (Alarmed, Protective):",
+        "start": 49.0,
+        "end": 51.8,
+        "text": "\"It belonged to my mother! It is all I have left of her.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 51.8,
+        "end": 54.0,
+        "text": "Close-up of Lady Ashcroft laying a jeweled hand firmly on the bound book.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "LADY ASHCROFT (Cruel):",
+        "start": 52.0,
+        "end": 54.0,
+        "text": "\"Then you should have guarded it better.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 54.0,
+        "end": 57.8,
+        "text": "Close-up on the ledger as Lady Ashcroft violently wrenches it out of Juliana's grip.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 54.5,
+        "end": 57.5,
+        "text": "Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "JULIANA (Screaming, Desperate):",
+        "start": 55.5,
+        "end": 56.8,
+        "text": "\"Barbara, don't!\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 57.0,
+        "end": 58.2,
+        "text": "A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 57.8,
+        "end": 63.0,
+        "text": "Medium shot of Clarissa and Gerald standing together on the cathedral steps. Clarissa clasps a gloved hand to her mouth in mock shock before bursting into gleeful laughter.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CLARISSA (Gleeful, Mocking):",
+        "start": 59.0,
+        "end": 62.5,
+        "text": "\"Even your mother's precious legacy has been cast into the dirt!\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "GERALD (Smug, Cruel):",
+        "start": 62.4,
+        "end": 64.6,
+        "text": "\"Perhaps that is where it belongs.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 63.0,
+        "end": 66.5,
+        "text": "Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 65.5,
+        "end": 68.5,
+        "text": "Juliana drops to her knees onto the wet courtyard pavement, oblivious to the dirt soaking through her white bridal gown.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 66.5,
+        "end": 69.0,
+        "text": "Low-angle close-up of Juliana's trembling hand reaching toward the leather ledger resting in the puddle.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 69.0,
+        "end": 72.5,
+        "text": "Wide shot of Juliana kneeling on the damp ground as the tall Mysterious Bearded Man strides purposefully into frame toward her.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 70.5,
+        "end": 74.5,
+        "text": "The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 74.5,
+        "end": 76.0,
+        "text": "Close-up of his large, weathered hands gently lifting the wet, embossed leather book from the ground.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 76.0,
+        "end": 80.0,
+        "text": "Medium two-shot as he holds out the retrieved ledger and places it into Juliana's trembling hands.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Low, Gentle):",
+        "start": 77.8,
+        "end": 79.0,
+        "text": "\"Here you go.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 80.0,
+        "end": 85.5,
+        "text": "Close-up of the Mysterious Bearded Man looking warmly down at Juliana, his rugged face full of quiet sincerity.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "JULIANA (Choked, Weeping):",
+        "start": 80.5,
+        "end": 82.0,
+        "text": "\"They destroyed it.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Calm, Grounded):",
+        "start": 82.5,
+        "end": 85.4,
+        "text": "\"They dirtied it. That is not the same thing.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 85.5,
+        "end": 91.0,
+        "text": "Medium two-shot of Juliana pressing the soiled book tightly against her chest, weeping softly.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "JULIANA (Broken):",
+        "start": 86.5,
+        "end": 87.8,
+        "text": "\"It was my mother's.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Gentle, Protective):",
+        "start": 87.9,
+        "end": 89.0,
+        "text": "\"Then keep it.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 88.5,
+        "end": 91.0,
+        "text": "The Mysterious Bearded Man reaches out with both hands, clasping his strong hands tenderly over hers and the book.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Firm, Comforting):",
+        "start": 89.4,
+        "end": 91.0,
+        "text": "\"Let them keep everything else.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 91.0,
+        "end": 96.5,
+        "text": "Low-angle shot of Gerald standing high on the stone steps, grinning arrogantly as he points an accusatory finger down at them.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "GERALD (Mocking, Arrogant):",
+        "start": 91.5,
+        "end": 92.8,
+        "text": "\"Look at you.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "GERALD (Scornful, Spiteful):",
+        "start": 93.0,
+        "end": 96.5,
+        "text": "\"A noblewoman reduced to a beggar's wife!\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 96.5,
+        "end": 101.5,
+        "text": "Over-the-shoulder shot behind the Mysterious Bearded Man looking up toward Gerald on the stairs. Gerald's arrogant grin slowly wavers.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Low, Lethally Cold):",
+        "start": 98.0,
+        "end": 100.8,
+        "text": "\"Choose your next words carefully.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 101.5,
+        "end": 105.5,
+        "text": "Extreme close-up of the Mysterious Bearded Man's scarred hand completely covering and protecting Juliana's hands where they clasp the book.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Soft, Reassuring):",
+        "start": 104.2,
+        "end": 105.2,
+        "text": "\"Come.\"",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 105.5,
+        "end": 110.5,
+        "text": "High wide shot from above the courtyard archway. Juliana, holding her mother's book, and the Mysterious Bearded Man, holding her hand firmly, walk together down the wet cobblestone path and through the towering iron gates into the misty rain, leaving her former family behind as the screen fades out.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 106.0,
+        "end": 110.5,
+        "text": "Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral swell that slowly fades to black.",
+        "scene": "01",
+        "scene_heading": "EXT. CATHEDRAL STEPS – DAY"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": [
+    {
+      "episode": "Episode 5",
+      "segments": [
+        {
+          "start": "00:04.20",
+          "end": "00:48.80"
+        }
+      ],
+      "duration_seconds": 44.6,
+      "hook": "Wide shot tracking Juliana and the Mysterious Bearded Man descending the grand stone steps of the cathedral courtyard. Behind them, Lord Ashcroft emerges from the vaulted doorway leaning on his cane.",
+      "cliffhanger": "\"...that belongs to this family.\"",
+      "why_it_works": "Opens on \"Wide shot tracking Juliana and the Mysterious Bearded Man descending the grand stone steps of the cathedral courtyard. Behind them, Lord Ashcroft emerges from the vaulted doorway l\", builds through \"Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest.\", and cuts on \"...that belongs to this family.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.52,
+      "score_breakdown": {
+        "hook": 1.5,
+        "cliffhanger": 1.8,
+        "context": 4.0,
+        "coherence": 5.0,
+        "emotional_intensity": 1.2,
+        "arc_completeness": 1.42,
+        "duration_suitability": 4.95
+      },
+      "evidence_excerpt": "Hook (00:04.20): CAMERA: Wide shot tracking Juliana and the Mysterious Bearded Man descending the grand stone steps of the cathedral courtyard. Behind them, Lord Ashcroft emerges from the vaulted doorway leaning on his cane. | Hook context (00:04.20): LORD ASHCROFT (Stern, Commanding): \"Miss Ashcroft.\" | Build (00:25.00): CAMERA: Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest. | Build context (00:23.10): LORD ASHCROFT (O.S. / Continues): \"Your inheritance is revoked.\" | Payoff (00:46.80): LADY ASHCROFT (Venomous): \"...that belongs to this family.\" | Payoff context (00:46.00): CAMERA: Medium shot as Lady Ashcroft approaches Juliana menacingly.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    },
+    {
+      "episode": "Episode 5",
+      "segments": [
+        {
+          "start": "00:06.60",
+          "end": "00:57.50"
+        }
+      ],
+      "duration_seconds": 50.9,
+      "hook": "Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft.",
+      "cliffhanger": "\"...that belongs to this family.\"",
+      "why_it_works": "Opens on \"Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft.\", builds through \"Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest.\", and cuts on \"...that belongs to this family.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.48,
+      "score_breakdown": {
+        "hook": 1.5,
+        "cliffhanger": 1.8,
+        "context": 4.0,
+        "coherence": 5.0,
+        "emotional_intensity": 1.2,
+        "arc_completeness": 1.42,
+        "duration_suitability": 4.21
+      },
+      "evidence_excerpt": "Hook (00:06.60): ACTION: Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft. | Hook context (00:06.80): LORD ASHCROFT (Cold, Condemnatory): \"You will not leave this church carrying the Ashcroft name.\" | Build (00:25.00): CAMERA: Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest. | Build context (00:23.10): LORD ASHCROFT (O.S. / Continues): \"Your inheritance is revoked.\" | Payoff (00:46.80): LADY ASHCROFT (Venomous): \"...that belongs to this family.\" | Payoff context (00:46.00): CAMERA: Medium shot as Lady Ashcroft approaches Juliana menacingly.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    }
+  ]
+}

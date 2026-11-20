@@ -1,0 +1,776 @@
+{
+  "episode": {
+    "source_file": "episode-027-Episode 1678580.txt",
+    "episode": "Episode 27",
+    "logline": "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess.",
+    "continuity_notes": "Picks up immediately from Episode 26's cliffhanger where the Dowager Duchess gripped Juliana's hand upon recognizing the family signet ring, frantically questioning her origin.",
+    "declared_duration_seconds": 150.5,
+    "last_event_seconds": 150.5,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 150.5,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 2.1,
+        "text": "Tight close-up of the Dowager Duchess's aged, trembling hands clutching Juliana's hand, examining the worn metal band on her finger.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "DOWAGER DUCHESS (Shaken, Breathless):",
+        "start": 1.3,
+        "end": 3.2,
+        "text": "\"This ring...\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 2.1,
+        "end": 5.8,
+        "text": "Low-angle medium close-up of the Dowager Duchess lying propped against her pillows, gripping Juliana's wrist firmly as she gazes up in desperate demand.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "DOWAGER DUCHESS (Urgent, Demanding):",
+        "start": 3.4,
+        "end": 5.8,
+        "text": "\"Look at me, girl. Who gave this to you?\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 5.8,
+        "end": 9.4,
+        "text": "Medium shot of Juliana in her maid's apron, startled and anxious as she answers.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "JULIANA (Hesitant, Sincere):",
+        "start": 6.4,
+        "end": 9.3,
+        "text": "\"My husband. He gave it to me when we wed.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 9.4,
+        "end": 13.2,
+        "text": "Low angle on the Dowager Duchess, her eyes burning with intensity.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "DOWAGER DUCHESS (Incredulous, Intense):",
+        "start": 9.7,
+        "end": 12.8,
+        "text": "\"He is no commoner. What does he do?\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 13.2,
+        "end": 16.8,
+        "text": "Close-up of Juliana, trying to keep her composure.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "JULIANA (Earnest, Defending):",
+        "start": 13.4,
+        "end": 16.4,
+        "text": "\"He is a soldier. A veteran from the Peninsula.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 16.8,
+        "end": 21.6,
+        "text": "Medium two-shot as the Duchess leans forward slightly, staring at the ring between their joined hands.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "DOWAGER DUCHESS (Trembling, Revelatory):",
+        "start": 17.2,
+        "end": 21.2,
+        "text": "\"That is no ordinary band. It bears the Ashbourne crest.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 21.6,
+        "end": 26.1,
+        "text": "Close-up on Juliana, shaking her head in disbelief and growing confusion.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "JULIANA (Confused, Gentle):",
+        "start": 21.8,
+        "end": 25.8,
+        "text": "\"No. He lives in a barn. He has nothing but his word.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 26.1,
+        "end": 31.8,
+        "text": "Low-angle shot on the Duchess, tears welling in her eyes as grief and shock overtake her.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "DOWAGER DUCHESS (Emotionally Strained, Weeping):",
+        "start": 26.6,
+        "end": 31.4,
+        "text": "\"My lost son wore that exact ring. He went to war...\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 31.8,
+        "end": 34.9,
+        "text": "Close-up of Juliana's eyes widening in stunned revelation.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "JULIANA (Shocked, Breathless):",
+        "start": 32.1,
+        "end": 34.8,
+        "text": "\"Your son? He told me he was only a sergeant.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 34.9,
+        "end": 37.4,
+        "text": "Side-angle medium shot of the bed, the Duchess holding onto Juliana's forearm with fierce insistence.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "DOWAGER DUCHESS (Desperate, Clinging):",
+        "start": 35.2,
+        "end": 37.6,
+        "text": "\"My lost son wore that ring!\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 37.4,
+        "end": 40.4,
+        "text": "Close-up of Juliana looking down with compassionate concern.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "DOWAGER DUCHESS (O.S.) (Pleading):",
+        "start": 37.8,
+        "end": 40.2,
+        "text": "\"Did your husband serve beside him?\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "JULIANA (Soft, Reverent):",
+        "start": 41.0,
+        "end": 44.2,
+        "text": "\"He never spoke of his officers. He only spoke of survival.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 44.2,
+        "end": 46.4,
+        "text": "Close-up of the Duchess gazing up at Juliana, her voice barely a whisper.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "DOWAGER DUCHESS (Hushed, Desperate):",
+        "start": 44.5,
+        "end": 46.4,
+        "text": "\"What is your husband's name?\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 46.4,
+        "end": 48.3,
+        "text": "Loud, violent pounding echoes on the wooden double doors.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 46.5,
+        "end": 48.8,
+        "text": "Juliana gasps, snapping her head toward the entrance in alarm.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 48.8,
+        "end": 51.5,
+        "text": "The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine and a royal guard in uniform.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 48.8,
+        "end": 51.5,
+        "text": "Wide shot framing the open doorway as the aristocrats step into the dimly lit hallway.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 51.5,
+        "end": 55.6,
+        "text": "Medium shot of Lady Catherine in her lavish cream gown and tiara, scowling with arrogant disdain.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "LADY CATHERINE (Sharp, Accusatory):",
+        "start": 52.2,
+        "end": 55.6,
+        "text": "\"What is that maid doing in Her Grace's private chamber?\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 55.6,
+        "end": 58.6,
+        "text": "Medium shot of Juliana standing stiffly beside the bed, concealing her hands.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "JULIANA (Calm, Defiant):",
+        "start": 56.8,
+        "end": 58.4,
+        "text": "\"She needed help.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 58.6,
+        "end": 62.0,
+        "text": "Close-up of Lady Catherine narrowing her eyes with venomous suspicion.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "LADY CATHERINE (Piercing, Suspicious):",
+        "start": 60.0,
+        "end": 61.8,
+        "text": "\"What are you hiding?\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 62.0,
+        "end": 64.0,
+        "text": "Close-up of Juliana, her chin raised.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "JULIANA (Firm):",
+        "start": 62.2,
+        "end": 63.5,
+        "text": "\"Nothing.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 64.0,
+        "end": 66.5,
+        "text": "Medium close-up of Lady Catherine pointing a white-gloved finger directly at Juliana.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "LADY CATHERINE (Demanding, Harsh):",
+        "start": 64.8,
+        "end": 66.4,
+        "text": "\"Show me your hand.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 66.5,
+        "end": 70.5,
+        "text": "Medium shot of the Blond Nobleman stepping forward beside Lady Catherine, clad in a dark tailored coat with black leather gloves.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Cold, Authoritative):",
+        "start": 66.6,
+        "end": 70.1,
+        "text": "\"Girl. Show me what you are holding.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 70.5,
+        "end": 73.8,
+        "text": "Two-shot of Juliana facing the Blond Nobleman as she slowly extends her palm, revealing the small amber glass dropper bottle.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Skeptical):",
+        "start": 72.6,
+        "end": 73.7,
+        "text": "\"What is this?\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "JULIANA (Steady):",
+        "start": 73.8,
+        "end": 74.8,
+        "text": "\"Medicine.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 74.8,
+        "end": 77.8,
+        "text": "Close-up of Lady Catherine tapping her gloved finger to her lip, letting out a mocking scoff.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "LADY CATHERINE (Mocking, Condescending):",
+        "start": 75.2,
+        "end": 77.8,
+        "text": "\"Medicine? You are a new maid.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 77.8,
+        "end": 80.8,
+        "text": "Medium shot of the Blond Nobleman staring down at the vial, as Catherine sneers from his side.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "LADY CATHERINE (Incredulous, Accusing):",
+        "start": 78.1,
+        "end": 80.5,
+        "text": "\"Who permitted you to give medicine to the Duchess?\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 80.8,
+        "end": 83.0,
+        "text": "Close-up of Juliana holding her ground.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "JULIANA (Quiet, Resolute):",
+        "start": 81.0,
+        "end": 82.0,
+        "text": "\"No one.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 83.0,
+        "end": 86.5,
+        "text": "Close-up of Lady Catherine turning fiercely triumphant.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "LADY CATHERINE (Spiteful, Indignant):",
+        "start": 83.6,
+        "end": 86.4,
+        "text": "\"Then you administered it without permission.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "JULIANA (Passionate, Urgent):",
+        "start": 86.5,
+        "end": 87.8,
+        "text": "\"Because she was dying!\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 86.5,
+        "end": 88.0,
+        "text": "Close-up of Juliana, her voice rising passionately.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 88.0,
+        "end": 92.8,
+        "text": "Medium shot of the Blond Nobleman pacing forward with calculating malice.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Cold, Interrogating):",
+        "start": 88.2,
+        "end": 92.4,
+        "text": "\"And you decided you knew better than every physician in this house?\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 92.8,
+        "end": 95.0,
+        "text": "Close-up of Juliana retorting without hesitation.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "JULIANA (Fierce):",
+        "start": 93.3,
+        "end": 94.9,
+        "text": "\"The physicians were not saving her!\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 95.0,
+        "end": 97.8,
+        "text": "Over-the-shoulder shot past the Blond Nobleman looking toward the frail Duchess watching helplessly from the bed.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (O.S.) (Measured, Menacing):",
+        "start": 95.3,
+        "end": 97.7,
+        "text": "\"My aunt has been wasting away for months.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 97.8,
+        "end": 103.6,
+        "text": "Medium shot of the Blond Nobleman turning slowly back toward Juliana, building his trap.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Smooth, Threatening):",
+        "start": 98.8,
+        "end": 103.4,
+        "text": "\"And now we find an unknown maid alone beside her bed...\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 103.6,
+        "end": 107.8,
+        "text": "Close-up shot of his gloved black leather finger reaching down to tap against the glass dropper bottle in Juliana's open palm.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (O.S.) (Contemptuous):",
+        "start": 104.2,
+        "end": 107.5,
+        "text": "\"...holding a substance no one authorized her to give.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 107.8,
+        "end": 110.2,
+        "text": "Medium close-up of Juliana raising the small bottle high for them to see.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "JULIANA (Unyielding):",
+        "start": 108.3,
+        "end": 109.8,
+        "text": "\"It is an antidote.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 110.2,
+        "end": 112.5,
+        "text": "Close-up of Lady Catherine sneering sharply.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "LADY CATHERINE (Sharp, Provocative):",
+        "start": 110.3,
+        "end": 111.8,
+        "text": "\"An antidote to what?\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 112.5,
+        "end": 113.6,
+        "text": "Extreme close-up of Juliana's focused eyes.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (O.S.) (Stern, Barked):",
+        "start": 113.2,
+        "end": 114.3,
+        "text": "\"Answer her.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 113.6,
+        "end": 115.0,
+        "text": "Close-up on the Blond Nobleman's impatient scowl.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 115.0,
+        "end": 117.2,
+        "text": "Close-up of Juliana speaking the truth clearly.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "JULIANA (Unyielding, Resolute):",
+        "start": 115.1,
+        "end": 116.5,
+        "text": "\"Poison.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 117.2,
+        "end": 120.0,
+        "text": "Close-up on the Blond Nobleman, his expression freezing into a dark scowl.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Whispering, Dangerous):",
+        "start": 118.7,
+        "end": 119.8,
+        "text": "\"Poison.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 120.0,
+        "end": 122.8,
+        "text": "Close-up of Juliana stating the grim reality.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "JULIANA (Urgent):",
+        "start": 120.4,
+        "end": 122.6,
+        "text": "\"Someone has been poisoning Her Grace.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 122.8,
+        "end": 124.6,
+        "text": "Medium shot of Lady Catherine turning abruptly to the guard stationed by the open door, pointing with feigned outrage.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "LADY CATHERINE (Shrieking, Feigning Horror):",
+        "start": 123.1,
+        "end": 124.5,
+        "text": "\"You hear that?!\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 124.6,
+        "end": 128.5,
+        "text": "Close-up of Lady Catherine twisting Juliana's words with malicious glee.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "LADY CATHERINE (Venomous, Accusing):",
+        "start": 124.8,
+        "end": 128.4,
+        "text": "\"She admits she has been giving the Duchess poison in secret!\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 128.5,
+        "end": 131.0,
+        "text": "Close-up of Juliana recoiling in shock at the blatant lie.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "JULIANA (Desperate, Outraged):",
+        "start": 128.7,
+        "end": 130.8,
+        "text": "\"That is not what I said!\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 131.0,
+        "end": 134.0,
+        "text": "Medium close-up of the Blond Nobleman raising his black-gloved hand, silencing the room.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Authoritative, Icy):",
+        "start": 131.2,
+        "end": 132.6,
+        "text": "\"Enough.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 134.0,
+        "end": 139.4,
+        "text": "Medium two-shot as the Blond Nobleman steps into Juliana's personal space and plucks the glass dropper vial from her hand.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 134.8,
+        "end": 138.5,
+        "text": "The Blond Nobleman takes the medicine vial from Juliana's grasp, inspecting it under the candlelight.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Cold, Calculating):",
+        "start": 136.2,
+        "end": 139.3,
+        "text": "\"An unknown servant enters a restricted chamber.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 139.4,
+        "end": 144.2,
+        "text": "Tight close-up of the Blond Nobleman holding the vial beside his temple, his blue eyes cold and triumphant.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Condemning, Vindictive):",
+        "start": 139.6,
+        "end": 143.8,
+        "text": "\"She secretly administers an unidentified substance to a helpless woman.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "BLOND NOBLEMAN (To Guard, Stern):",
+        "start": 144.0,
+        "end": 144.9,
+        "text": "\"Take her.\"",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 144.2,
+        "end": 147.5,
+        "text": "Wide shot as the armed guard storms forward, seizing Juliana roughly by both arms.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 145.0,
+        "end": 148.0,
+        "text": "The guard twists Juliana around and drags her forcibly toward the doorway as she struggles against his grip.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 147.5,
+        "end": 149.2,
+        "text": "Medium shot of Juliana being pulled backward, casting a frantic glance back toward the bedridden Duchess.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 149.2,
+        "end": 150.5,
+        "text": "Extreme close-up of Juliana's wide, terrified eyes as she realizes the deadly trap closing around her, cutting abruptly to black.",
+        "scene": "01",
+        "scene_heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

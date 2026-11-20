@@ -1,0 +1,616 @@
+{
+  "episode": {
+    "source_file": "episode-013-Episode 1671715.txt",
+    "episode": "Episode 13",
+    "logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring.",
+    "continuity_notes": "Picks up immediately from Episode 12's climax where Juliana demanded to know where the frozen blackthorn garden was located to save Alexander from the gallows.",
+    "declared_duration_seconds": 118.88,
+    "last_event_seconds": 118.88,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 118.88,
+    "events": [
+      {
+        "label": "SOUND FX:",
+        "start": 0.0,
+        "end": 4.0,
+        "text": "Whistling winter wind and an ominous low brass drone.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 4.2,
+        "text": "Low-angle macro shot tracking through an impenetrable, menacing thicket of frozen blackthorn briars encrusted with frost.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 4.2,
+        "end": 7.0,
+        "text": "Wide shot looking down from the stone terrace. Gerald and Clarissa stand elevated on the balustrade, while Juliana, Alexander in handcuffs, and the Constable stand before the dense briar garden.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 5.1,
+        "end": 7.0,
+        "text": "Alexander turns toward Juliana, his manacled hands trembling as he grips her arm.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Pleading, Agonized):",
+        "start": 5.4,
+        "end": 10.2,
+        "text": "\"Juliana, look at those thorns. You cannot do this.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 7.0,
+        "end": 10.8,
+        "text": "Medium close-up of Alexander and Juliana facing each other, his chained wrists held between them.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 10.8,
+        "end": 14.2,
+        "text": "Close-up on Juliana's hooded face, her eyes filled with resolute sorrow.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "JULIANA (Quiet, Unwavering):",
+        "start": 12.4,
+        "end": 13.8,
+        "text": "\"I must.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 14.2,
+        "end": 18.8,
+        "text": "Close-up on Alexander, his combat scar stark against his pained expression.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Terrified for Her):",
+        "start": 14.4,
+        "end": 17.3,
+        "text": "\"They will tear your hands apart.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 18.8,
+        "end": 21.0,
+        "text": "Low-angle shot looking up at Gerald and Clarissa leaning over the stone balustrade, smirking down with cruel amusement.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 21.0,
+        "end": 24.2,
+        "text": "Close-up of Juliana looking up into Alexander's eyes with tender courage.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "JULIANA (Soft, Reassuring):",
+        "start": 22.0,
+        "end": 23.9,
+        "text": "\"I will be fine.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Desperate, Fierce):",
+        "start": 24.2,
+        "end": 28.4,
+        "text": "\"I would rather face the gallows than watch you hurt yourself for me.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 24.2,
+        "end": 28.5,
+        "text": "Two-shot framing Alexander leaning down toward Juliana, fighting against his bonds.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 28.5,
+        "end": 29.9,
+        "text": "Close-up of Gerald chuckling smugly on the terrace above, crossing his arms.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 29.9,
+        "end": 36.8,
+        "text": "Tight close-up of Juliana gently clasping Alexander's handcuffed hands, gazing up at him with unyielding love.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "JULIANA (Emotional, Devoted):",
+        "start": 30.8,
+        "end": 35.8,
+        "text": "\"You stood beside me when everyone else abandoned me. I will not abandon you now.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 36.2,
+        "end": 39.5,
+        "text": "Juliana releases his hands and turns toward the briar thicket. Alexander stretches out his chained hands, attempting to hold her back, but the Constable restrains him.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 36.8,
+        "end": 39.8,
+        "text": "Medium shot behind Juliana as she walks toward the vast expanse of frozen briars.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CLARISSA (O.S.) (Mocking, Vindictive):",
+        "start": 37.0,
+        "end": 38.2,
+        "text": "\"Careful, sister.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 39.8,
+        "end": 41.6,
+        "text": "Low-angle shot of Clarissa smirking down over the carved stone balustrade.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CLARISSA (Cruel, Sarcastic):",
+        "start": 39.9,
+        "end": 41.5,
+        "text": "\"That garden has swallowed better women than you.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 41.6,
+        "end": 45.8,
+        "text": "Medium close-up of Gerald leaning against the balcony beside Clarissa, wearing an arrogant smirk.",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "GERALD (Condescending, Arrogant):",
+        "start": 41.8,
+        "end": 45.5,
+        "text": "\"Perhaps the beggar's wife will finally learn what her new life is worth.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MANOR GROUNDS - BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 45.8,
+        "end": 47.0,
+        "text": "Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 45.8,
+        "end": 47.0,
+        "text": "Medium shot of Juliana kneeling on the frozen soil at the edge of the briars.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 47.0,
+        "end": 50.0,
+        "text": "Medium shot of Alexander lunging forward with chained hands raised high, roaring in fury as the Constable grabs him.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Screaming, Panicked):",
+        "start": 47.2,
+        "end": 48.8,
+        "text": "\"Juliana, stop!\"",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 47.8,
+        "end": 49.2,
+        "text": "Rattling of heavy iron chains.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 50.0,
+        "end": 52.0,
+        "text": "Eye-level shot looking through the thorny thicket at Juliana crawling deeper into the briars.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 50.0,
+        "end": 53.0,
+        "text": "Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Strangled, Weeping):",
+        "start": 51.5,
+        "end": 52.6,
+        "text": "\"Please...\"",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 52.0,
+        "end": 53.5,
+        "text": "Extreme close-up of Alexander's anguished face as he strains furiously against his handcuffs.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 53.5,
+        "end": 56.0,
+        "text": "Ground-level shot of Juliana's bare hands reaching out onto the cracked, frozen ground.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 54.0,
+        "end": 56.5,
+        "text": "Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Gasping in Pain):",
+        "start": 54.5,
+        "end": 55.8,
+        "text": "\"No...\"",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 56.0,
+        "end": 58.2,
+        "text": "Extreme close-up of Juliana's hand scraping against the frost-covered stone, bright red blood welling from deep puncture wounds.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CLARISSA (O.S.) (Gleeful, Derisive):",
+        "start": 57.2,
+        "end": 58.6,
+        "text": "\"Look at her hands.\"",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 58.2,
+        "end": 62.0,
+        "text": "Medium shot on the balcony as Clarissa gleefully points down at Juliana, Gerald chuckling beside her.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CLARISSA (Mocking, Spiteful):",
+        "start": 58.8,
+        "end": 61.8,
+        "text": "\"The lady has finally found something worthy of her.\"",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 62.0,
+        "end": 64.0,
+        "text": "Gerald leans his hands on the terrace railing, sneering callously.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 62.0,
+        "end": 67.5,
+        "text": "Low-angle medium close-up of Gerald shouting down into the garden.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "GERALD (Taunting, Cruel):",
+        "start": 62.2,
+        "end": 67.0,
+        "text": "\"Keep searching, Juliana. Your husband's freedom is somewhere in that garden.\"",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 67.5,
+        "end": 71.2,
+        "text": "Macro close-up of a massive blackthorn needle stabbing deep into the back of Juliana's bleeding hand.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 68.5,
+        "end": 70.2,
+        "text": "Sickening crunch and scrape of thorns slicing through flesh.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 71.2,
+        "end": 74.0,
+        "text": "Close-up of Alexander struggling in agony, tears forming in his eyes.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Desperate, Choked):",
+        "start": 71.4,
+        "end": 73.8,
+        "text": "\"Please... enough!\"",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 74.0,
+        "end": 78.0,
+        "text": "Wide tunnel shot through the briars as Juliana crawls deeper into the dark, frozen tangle.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 74.5,
+        "end": 78.0,
+        "text": "Juliana drags her body across the frozen, cracked soil beneath the dense roof of briars.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 78.0,
+        "end": 80.5,
+        "text": "Close-up of Juliana's hand getting snagged between two vicious thorns, tearing her sleeve and flesh.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Screaming in Pain):",
+        "start": 78.5,
+        "end": 80.5,
+        "text": "\"Ah!\"",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 80.5,
+        "end": 83.0,
+        "text": "Alexander loses control, violently lunging past the Constable toward the briars.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 80.5,
+        "end": 83.0,
+        "text": "Medium tracking shot of Alexander breaking into a desperate charge.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Furious, Booming):",
+        "start": 80.8,
+        "end": 82.2,
+        "text": "\"Stop!\"",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 83.0,
+        "end": 86.0,
+        "text": "Juliana continues clawing forward, branches lacerating her arm and cheek.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 83.0,
+        "end": 86.0,
+        "text": "Close-up of Juliana wincing in agony and screaming through clenched teeth.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Agonized Scream):",
+        "start": 83.8,
+        "end": 85.8,
+        "text": "\"Ahhh!\"",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 86.0,
+        "end": 89.0,
+        "text": "Medium shot of the Constable forcefully grappling Alexander by his coat collar, slamming him back against the gate.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Roaring in Torment):",
+        "start": 86.5,
+        "end": 88.8,
+        "text": "\"Juliana!\"",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 89.0,
+        "end": 94.0,
+        "text": "Ground-level shot of Juliana frantically digging and scraping at the frozen dirt and dried bramble pods with both bloody hands.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 89.2,
+        "end": 94.0,
+        "text": "Juliana digs her torn fingers into the frost-hardened earth, turning over rocks and dead vegetation.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 94.0,
+        "end": 97.0,
+        "text": "Medium close-up of Alexander struggling against the Constable, his face twisted in grief and rage.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Desperate Shout):",
+        "start": 94.8,
+        "end": 96.4,
+        "text": "\"Juliana!\"",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 97.0,
+        "end": 103.0,
+        "text": "Close-up of Juliana lying on her stomach among the thorns, bleeding cuts running down her forehead, cheeks, and bare arms.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Panting, Praying):",
+        "start": 98.2,
+        "end": 102.5,
+        "text": "\"Please, ring... you have to be here.\"",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 103.0,
+        "end": 106.5,
+        "text": "Her blood-smeared index finger brushes against a solid metallic object half-buried in the frozen dirt beneath a thorny branch.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 103.0,
+        "end": 107.0,
+        "text": "Extreme close-up macro shot of an ornate antique gold ring set with a massive, radiant emerald resting in the frosted soil.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 107.0,
+        "end": 109.0,
+        "text": "Close-up of Juliana's wide, disbelieving blue eyes as breath catches in her throat.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 109.0,
+        "end": 112.0,
+        "text": "Juliana reaches out her torn, bloodied hand and wraps her fingers tightly around the emerald ring.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 109.0,
+        "end": 112.0,
+        "text": "Extreme close-up of her bloody hand closing around the emerald signet ring.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 112.0,
+        "end": 113.0,
+        "text": "Close-up of Juliana grimacing in fierce triumph and intense pain as thorns catch her knuckles.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 113.0,
+        "end": 114.0,
+        "text": "Brief cut to Alexander staring into the briar patch in suspended terror.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 114.0,
+        "end": 117.2,
+        "text": "Close-up on Juliana's sweat- and frost-streaked face as she grinds her teeth, tears pooling in her eyes, fighting through the blinding pain.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 117.2,
+        "end": 118.88,
+        "text": "Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground as the episode cuts to black.",
+        "scene": "02",
+        "scene_heading": "EXT. FROZEN BLACKTHORN BRIARS – CONTINUOUS"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

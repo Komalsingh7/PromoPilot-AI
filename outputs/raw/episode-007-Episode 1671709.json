@@ -1,0 +1,480 @@
+{
+  "episode": {
+    "source_file": "episode-007-Episode 1671709.txt",
+    "episode": "Episode 7",
+    "logline": "When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing.",
+    "continuity_notes": "Follows Episode 6, where Juliana found refuge and warmth beside the hearth with her mysterious husband; morning brings unwelcome visitors from her former life to their humble doorstep.",
+    "declared_duration_seconds": 116.0,
+    "last_event_seconds": 116.0,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 116.0,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 4.8,
+        "text": "Medium shot of Juliana kneeling on the cold, damp ground outside the stone cottage, pulling weeds from the dirt with her bare hands.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 0.0,
+        "end": 4.8,
+        "text": "Juliana, dressed in her simple grey long-sleeved gown, works tirelessly with soil caked beneath her fingernails.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 4.8,
+        "end": 11.8,
+        "text": "Low-angle tracking shot as an ornate black-and-gold carriage with crest emblazoned on the door rolls to a stop on the muddy path outside the gate.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 5.0,
+        "end": 11.5,
+        "text": "Heavy carriage wheels grinding in mud, horse snorts, and rhythmic hoofbeats halting.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 11.8,
+        "end": 15.0,
+        "text": "Medium shot as Aristocratic Woman steps out of the carriage into the misty air, shielding herself under an intricate lace parasol in an elegant lavender gown.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 15.0,
+        "end": 19.5,
+        "text": "Gerald steps down from the carriage behind her, looking immaculate in a high-collared navy frock coat, white waistcoat, and dark cravat.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 19.5,
+        "end": 21.0,
+        "text": "Aristocratic Woman smirks cruelly as she surveys the humble stone cottage.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 21.0,
+        "end": 24.0,
+        "text": "Juliana rinses the heavy mud from her hands in a cold rainwater puddle and rises to her feet, holding her head high.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "ARISTOCRATIC WOMAN (Mocking, Condescending):",
+        "start": 22.0,
+        "end": 24.5,
+        "text": "\"This is where you live now?\"",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 24.5,
+        "end": 29.8,
+        "text": "Medium shot of Gerald standing beside Aristocratic Woman, sneering disdainfully.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "GERALD (Arrogant, Scornful):",
+        "start": 25.0,
+        "end": 29.8,
+        "text": "\"A fitting home for a woman who threw away everything for a penniless soldier.\"",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 29.8,
+        "end": 32.8,
+        "text": "Medium close-up of Juliana, defiant and unflinching despite her soiled dress and damp hair.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "JULIANA (Sharp, Unintimidated):",
+        "start": 30.0,
+        "end": 32.6,
+        "text": "\"You came all this way just to insult my home?\"",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 32.8,
+        "end": 37.5,
+        "text": "Close-up of Aristocratic Woman erupting into high-pitched, malicious laughter beneath her parasol.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "ARISTOCRATIC WOMAN (Gloating, Mocking):",
+        "start": 33.2,
+        "end": 37.8,
+        "text": "\"Home? Look at your hands, Juliana.\"",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 37.8,
+        "end": 39.8,
+        "text": "Close-up of Juliana's mud-stained palms held open against her apron.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "ARISTOCRATIC WOMAN (O.S.) (Cruel):",
+        "start": 38.2,
+        "end": 39.8,
+        "text": "\"You look like a servant.\"",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 39.8,
+        "end": 41.0,
+        "text": "Close-up of Gerald's smug expression watching Juliana.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 41.0,
+        "end": 45.0,
+        "text": "Medium close-up of Juliana lifting her chin with unwavering dignity.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "JULIANA (Proud, Resolute):",
+        "start": 41.2,
+        "end": 44.8,
+        "text": "\"I work with my hands. There is no shame in that.\"",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 45.0,
+        "end": 47.0,
+        "text": "Close-up on Gerald's tightening jaw.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "GERALD (Biting, Condescending):",
+        "start": 45.2,
+        "end": 46.8,
+        "text": "\"You were born a lady.\"",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 47.0,
+        "end": 50.8,
+        "text": "Close-up on Juliana's clear blue eyes, shining with unbroken pride.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "JULIANA (Firm, Unapologetic):",
+        "start": 48.8,
+        "end": 50.4,
+        "text": "\"And I remain one.\"",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 50.8,
+        "end": 54.8,
+        "text": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "GERALD (Bitter, Sneering):",
+        "start": 51.5,
+        "end": 54.6,
+        "text": "\"You chose that scarred beggar over a life of comfort.\"",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 54.8,
+        "end": 61.5,
+        "text": "Two-shot profile of Juliana looking straight into Gerald's eyes without flinching.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "JULIANA (Passionate, Defiant):",
+        "start": 57.8,
+        "end": 61.0,
+        "text": "\"I chose a man who stood beside me when you walked away.\"",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 61.5,
+        "end": 65.2,
+        "text": "Intense close-up of Juliana dismissing him with utter contempt.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "JULIANA (Cold, Commanding):",
+        "start": 61.8,
+        "end": 64.8,
+        "text": "\"You have no authority here. Leave.\"",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 65.2,
+        "end": 69.5,
+        "text": "Close-up of Gerald lunging forward, aggressively pointing his finger into Juliana's face.",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "GERALD (Furious, Threatening):",
+        "start": 65.6,
+        "end": 68.5,
+        "text": "\"I have enough influence to make a beggar disappear.\"",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "GERALD (Spiteful, Boastful):",
+        "start": 68.6,
+        "end": 69.5,
+        "text": "\"And your husband?\"",
+        "scene": "01",
+        "scene_heading": "EXT. WOODLAND COTTAGE - DAY"
+      },
+      {
+        "label": "GERALD (V.O.) (Snarl):",
+        "start": 69.5,
+        "end": 71.2,
+        "text": "\"Where is that beggar husband?\"",
+        "scene": "02",
+        "scene_heading": "EXT. FOREST PATH - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 69.5,
+        "end": 74.0,
+        "text": "Wide shot down a dark, fog-drenched forest path. A towering, shadowed figure walks steadily forward through the mist.",
+        "scene": "02",
+        "scene_heading": "EXT. FOREST PATH - CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 70.0,
+        "end": 75.5,
+        "text": "The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord.",
+        "scene": "02",
+        "scene_heading": "EXT. FOREST PATH - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 74.0,
+        "end": 75.5,
+        "text": "Medium tracking shot pushing in on the Scarred Bearded Man's stern, rugged face as he approaches the gate.",
+        "scene": "02",
+        "scene_heading": "EXT. FOREST PATH - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 75.5,
+        "end": 78.5,
+        "text": "Low shot of the Scarred Bearded Man bending down and dropping the bundle of logs by the stone wall.",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 76.2,
+        "end": 77.5,
+        "text": "A dull, heavy thud of timber striking the mud.",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 78.5,
+        "end": 81.0,
+        "text": "Medium full shot as the Scarred Bearded Man straightens to his full imposing height and steps directly toward Gerald.",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 81.0,
+        "end": 83.5,
+        "text": "Two-shot framing the Scarred Bearded Man towering menacingly over Gerald, staring down at him with unyielding intensity.",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 81.5,
+        "end": 84.0,
+        "text": "Gerald freezes, his arrogant bravado instantly vanishing as cold dread overtakes his face.",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 83.5,
+        "end": 88.0,
+        "text": "Low-angle close-up of Gerald looking up in sheer terror, his adam's apple bobbing nervously.",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "ARISTOCRATIC WOMAN (O.S.) (Urgent, Annoyed):",
+        "start": 86.5,
+        "end": 88.5,
+        "text": "\"Gerald, don't let him frighten you.\"",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "GERALD (Trembling, Trying to Save Face):",
+        "start": 88.6,
+        "end": 90.0,
+        "text": "\"What are you staring at?\"",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 90.0,
+        "end": 91.5,
+        "text": "Gerald rapidly turns on his heel toward the carriage, unwilling to face another second of the silent glare.",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "GERALD (Nervous, Hurried):",
+        "start": 90.1,
+        "end": 91.4,
+        "text": "\"We are leaving.\"",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 91.5,
+        "end": 93.8,
+        "text": "Medium shot of Aristocratic Woman, shocked and indignant as Gerald flees past her.",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "ARISTOCRATIC WOMAN (Outraged, Flustered):",
+        "start": 92.0,
+        "end": 93.8,
+        "text": "\"Leaving? Gerald!\"",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 93.8,
+        "end": 96.5,
+        "text": "Aristocratic Woman scrambles back into the carriage, hiking up her gown in a fluster before slamming the door shut.",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 95.0,
+        "end": 96.0,
+        "text": "Carriage door slamming shut.",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 96.0,
+        "end": 99.0,
+        "text": "Wide shot of the carriage rapidly jolting forward and disappearing down the misty road away from the cottage.",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 99.0,
+        "end": 103.5,
+        "text": "Medium profile two-shot of Juliana turning toward the Scarred Bearded Man, her eyes gleaming with genuine admiration.",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Impressed, Softly Amused):",
+        "start": 100.8,
+        "end": 103.2,
+        "text": "\"You didn't say a word.\"",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 103.5,
+        "end": 107.5,
+        "text": "Close-up on the Scarred Bearded Man looking down at her, his rugged features softening with quiet affection.",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "SCARRED BEARDED MAN (Low, Gentle, Confident):",
+        "start": 106.0,
+        "end": 107.8,
+        "text": "\"I didn't need to.\"",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 107.5,
+        "end": 111.5,
+        "text": "Medium shot as the Scarred Bearded Man stoops down, scoops up the heavy bundle of firewood in one arm, and walks calmly past Juliana toward their door.",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 111.5,
+        "end": 116.0,
+        "text": "Close-up of Juliana looking after him, a radiant and grateful smile blooming across her face as the scene fades out.",
+        "scene": "03",
+        "scene_heading": "EXT. WOODLAND COTTAGE - CONTINUOUS"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

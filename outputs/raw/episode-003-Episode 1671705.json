@@ -1,0 +1,960 @@
+{
+  "episode": {
+    "source_file": "episode-003-Episode 1671705.txt",
+    "episode": "Episode 3",
+    "logline": "Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal grace—and drops to one knee with a proposal that shocks high society.",
+    "continuity_notes": "Follows directly from Episode 2's confrontation at the altar, where Juliana publicly exposed Gerald's dishonor before the entire aristocratic congregation.",
+    "declared_duration_seconds": 145.75,
+    "last_event_seconds": 145.75,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 145.75,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Medium shot on Lady Juliana standing abandoned near the altar in her white gown, clutching her mother's medallion to her chest.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Mocking, Spiteful):",
+        "start": 2.1,
+        "end": 4.2,
+        "text": "\"Look at you...\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 3.5,
+        "end": 6.1,
+        "text": "Medium shot on the Lady in Gold Gown, smiling smugly in her gold gown beside Gerald.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Gloating, Scornful):",
+        "start": 3.6,
+        "end": 8.2,
+        "text": "\"...still clinging to that little locket as if it can make you worthy of a place here.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 6.1,
+        "end": 8.5,
+        "text": "Close-up profile of Juliana's hand tightly clutching the jeweled silver locket against her breast, tears welling in her eyes.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 8.5,
+        "end": 11.1,
+        "text": "Medium close-up on Juliana looking across at her sister with wounded pride.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Hurt, Bitter):",
+        "start": 8.8,
+        "end": 10.8,
+        "text": "\"You stole my wedding.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 11.1,
+        "end": 13.6,
+        "text": "Medium two-shot of Gerald and the Lady in Gold Gown standing together at the front of the nave.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Defiant):",
+        "start": 11.2,
+        "end": 13.4,
+        "text": "\"Don't pretend you've earned anything.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 13.6,
+        "end": 16.4,
+        "text": "Close-up of the Lady in Gold Gown smirking derisively.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Smug, Malicious):",
+        "start": 13.8,
+        "end": 16.3,
+        "text": "\"I didn't steal what was never truly yours.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 16.4,
+        "end": 18.6,
+        "text": "Close-up on Juliana's trembling lips, refusing to break down.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Trembling, Resolute):",
+        "start": 16.6,
+        "end": 18.4,
+        "text": "\"This was my wedding.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 18.6,
+        "end": 20.5,
+        "text": "Side medium shot of Gerald looking away impassively as the Lady in Gold Gown leans back against him.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Taunting, Cruel):",
+        "start": 18.7,
+        "end": 20.4,
+        "text": "\"It was supposed to be.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 20.5,
+        "end": 22.8,
+        "text": "Close-up of the Lady in Gold Gown beaming triumphantly.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Vindictive):",
+        "start": 20.6,
+        "end": 22.5,
+        "text": "\"Now it is mine.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL NAVE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 22.8,
+        "end": 25.8,
+        "text": "Low-angle wide shot of an imperious Noble Matriarch in a lavish black velvet gown and jeweled tiara stepping forward.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "NOBLE MATRIARCH (Harsh, Authoritative):",
+        "start": 23.1,
+        "end": 25.5,
+        "text": "\"Enough, Juliana.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 25.8,
+        "end": 28.0,
+        "text": "Medium close-up of the Noble Matriarch glaring down with icy contempt.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "NOBLE MATRIARCH (Cold, Disgusted):",
+        "start": 25.9,
+        "end": 28.0,
+        "text": "\"You have humiliated this family enough for one day.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 28.0,
+        "end": 30.3,
+        "text": "Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 30.3,
+        "end": 35.5,
+        "text": "Medium shot on Juliana as she speaks out against her family's injustice.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Pained, Betrayed):",
+        "start": 30.4,
+        "end": 33.2,
+        "text": "\"I was humiliated by your family.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Accusing):",
+        "start": 33.3,
+        "end": 35.6,
+        "text": "\"And my father said nothing.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 35.5,
+        "end": 38.2,
+        "text": "Medium close-up on the Noble Matriarch, completely unsympathetic.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "NOBLE MATRIARCH (Brutal, Dismissive):",
+        "start": 36.5,
+        "end": 38.4,
+        "text": "\"Your father has made his choice.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 38.2,
+        "end": 40.4,
+        "text": "Close-up on Juliana's stricken, vulnerable face.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Choked, Vulnerable):",
+        "start": 38.5,
+        "end": 40.4,
+        "text": "\"And what happens to me?\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 40.4,
+        "end": 42.0,
+        "text": "Close-up of the Noble Matriarch delivering her verdict.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "NOBLE MATRIARCH (Cold, Heartless):",
+        "start": 40.5,
+        "end": 41.9,
+        "text": "\"You leave.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 42.0,
+        "end": 43.3,
+        "text": "Close-up on Juliana blinking in disbelief.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Disbelieving):",
+        "start": 42.1,
+        "end": 43.3,
+        "text": "\"Leave where?\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 43.3,
+        "end": 45.9,
+        "text": "Medium shot of the Noble Matriarch looking down her nose in disdain.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "NOBLE MATRIARCH (Cruel, Scornful):",
+        "start": 43.4,
+        "end": 46.0,
+        "text": "\"Wherever a discarded daughter belongs.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 45.9,
+        "end": 48.8,
+        "text": "Low-angle close-up focusing on Juliana's neck as her fingers desperately clutch the oval locket.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Fierce, Choked):",
+        "start": 46.4,
+        "end": 48.6,
+        "text": "\"This is my mother's church.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 48.8,
+        "end": 51.2,
+        "text": "Close-up on Juliana's face, teeth clenched in desperate defiance.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Defiant, Firm):",
+        "start": 48.9,
+        "end": 51.1,
+        "text": "\"I have every right to stand here.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 51.2,
+        "end": 53.0,
+        "text": "Tight close-up of the Noble Matriarch leaning in with vicious delight.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "NOBLE MATRIARCH (Venomous):",
+        "start": 51.3,
+        "end": 53.0,
+        "text": "\"Not anymore.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 53.0,
+        "end": 56.2,
+        "text": "Medium shot on the Noble Matriarch gesturing expansively to the filled cathedral nave behind her.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "NOBLE MATRIARCH (Stern, Final):",
+        "start": 53.3,
+        "end": 56.2,
+        "text": "\"Your father has chosen his family...\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 56.2,
+        "end": 58.2,
+        "text": "Close-up profile of the Noble Matriarch's piercing eyes glaring directly at Juliana.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "NOBLE MATRIARCH (Coldly Severing):",
+        "start": 56.3,
+        "end": 58.2,
+        "text": "\"...and it isn't you.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 58.2,
+        "end": 59.8,
+        "text": "The Noble Matriarch turns sharply toward the back of the chapel and barks an order.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "NOBLE MATRIARCH (Shouting, Imperious):",
+        "start": 58.3,
+        "end": 60.0,
+        "text": "\"Guards! Remove her!\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 60.0,
+        "end": 62.0,
+        "text": "Medium shot as two royal guards in red uniforms and bearskin caps step in behind Juliana and seize her arms.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 60.5,
+        "end": 62.5,
+        "text": "The guards forcefully grab Juliana by both shoulders and drag her backwards.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Screaming, Resisting):",
+        "start": 60.6,
+        "end": 62.3,
+        "text": "\"Let me go!\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 62.0,
+        "end": 63.2,
+        "text": "Close-up of Juliana's hand frantically grabbing the wooden rim of a pew, knuckles white with strain.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Desperate, Begging):",
+        "start": 62.4,
+        "end": 63.5,
+        "text": "\"Please! Someone!\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 63.0,
+        "end": 64.5,
+        "text": "The guards tear her grip away from the pew.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 63.0,
+        "end": 64.5,
+        "text": "Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone.",
+        "scene": "02",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 64.5,
+        "end": 66.0,
+        "text": "High wide shot down the vaulted cathedral aisle showing the entire congregation watching in stunned silence as the guards drag Juliana.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 66.0,
+        "end": 68.1,
+        "text": "Wide eye-level shot looking down the petal-strewn marble aisle. A tall, rugged man in a worn dark trench coat—The Bearded Stranger—emerges into the center of the nave.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 66.0,
+        "end": 68.1,
+        "text": "The Bearded Stranger steps deliberately into the aisle, his heavy boots echoing.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 68.1,
+        "end": 70.5,
+        "text": "Close-up on the Noble Matriarch freezing in utter shock and outrage.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE BEARDED STRANGER (Low, Thunderous, Imposing):",
+        "start": 69.9,
+        "end": 72.1,
+        "text": "\"Take your hands off her.\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 70.5,
+        "end": 72.8,
+        "text": "Medium tracking shot front-on as The Bearded Stranger marches down the flower-strewn aisle with resolute purpose.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 72.8,
+        "end": 75.1,
+        "text": "Medium shot on the Noble Matriarch stepping forward on the altar steps, furiously pointing a finger at him.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "NOBLE MATRIARCH (Indignant, Screeching):",
+        "start": 73.0,
+        "end": 76.8,
+        "text": "\"And who are you to give orders in my family's chapel?!\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 75.1,
+        "end": 77.0,
+        "text": "High wide shot of the magnificent vaulted hall as The Bearded Stranger walks steadily forward, dwarfing the aisle.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 77.0,
+        "end": 79.0,
+        "text": "Medium shot on the lead royal guard squaring his shoulders, barring the stranger's advance while Juliana stands behind him.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "ROYAL GUARD (Aggressive, Threatening):",
+        "start": 77.2,
+        "end": 78.9,
+        "text": "\"Stand aside, stranger!\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 79.0,
+        "end": 81.0,
+        "text": "Medium close-up profile on The Bearded Stranger, eyes burning with quiet, lethal resolve.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE BEARDED STRANGER (Quiet, Deadly):",
+        "start": 79.3,
+        "end": 80.9,
+        "text": "\"I said...\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 81.0,
+        "end": 84.0,
+        "text": "Close-up on The Bearded Stranger's intense, scarred face.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE BEARDED STRANGER (Dangerous, Uncompromising):",
+        "start": 81.8,
+        "end": 83.9,
+        "text": "\"...let her go.\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 84.0,
+        "end": 85.5,
+        "text": "Medium action shot as the guard charges toward The Bearded Stranger.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 84.0,
+        "end": 85.5,
+        "text": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 84.5,
+        "end": 85.4,
+        "text": "A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 85.5,
+        "end": 88.1,
+        "text": "Medium close-up of Gerald turning frantically to the remaining guards and congregation, panicking.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE FORMER GROOM (Frantic, Shouting):",
+        "start": 85.6,
+        "end": 88.0,
+        "text": "\"What are you waiting for?! He's only one man!\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 88.1,
+        "end": 89.3,
+        "text": "Medium shot on The Bearded Stranger standing unmoved over the fallen guard, turning his gaze toward Juliana.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 89.3,
+        "end": 91.7,
+        "text": "Two-shot profile of The Bearded Stranger stepping up to Lady Juliana, who gazes up at him in stunned breathlessness.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE BEARDED STRANGER (Gentle, Protective):",
+        "start": 90.4,
+        "end": 91.6,
+        "text": "\"Are you hurt?\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 91.7,
+        "end": 94.0,
+        "text": "Close-up on Juliana's tear-streaked face as she shakes her head gently, overwhelmed with wonder.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 91.8,
+        "end": 93.6,
+        "text": "Juliana softly shakes her head 'no', her wide blue eyes locked onto him.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 94.0,
+        "end": 96.5,
+        "text": "Close-up profile of The Bearded Stranger casting a sharp, menacing glance toward the other guard.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE BEARDED STRANGER (Firm, Menacing):",
+        "start": 94.1,
+        "end": 96.3,
+        "text": "\"Good. Then don't touch her again.\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 96.5,
+        "end": 98.4,
+        "text": "Medium close-up on the Noble Matriarch shrieking in exasperation from the altar steps.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "NOBLE MATRIARCH (Furious, Hysterical):",
+        "start": 96.5,
+        "end": 98.5,
+        "text": "\"You cannot interfere in a family matter!\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 98.4,
+        "end": 100.8,
+        "text": "Close-up of Juliana's elderly father looking down, gripping his hands nervously with profound guilt.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE BEARDED STRANGER (O.S.) (Deep, Resonant):",
+        "start": 98.8,
+        "end": 100.8,
+        "text": "\"I can...\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 100.8,
+        "end": 103.0,
+        "text": "Medium shot of guests in the pews whispering and reacting in hushed shock.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE BEARDED STRANGER (O.S.) (Stern, Accusing):",
+        "start": 100.8,
+        "end": 103.8,
+        "text": "\"...when your family is dragging a defenseless woman from a church.\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 103.0,
+        "end": 105.9,
+        "text": "Two-shot profile of The Bearded Stranger and Lady Juliana framed against the illuminated stained-glass rose window.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE BEARDED STRANGER (Solemn, Gentle):",
+        "start": 104.2,
+        "end": 107.4,
+        "text": "\"You shouldn't have to beg anybody...\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 105.9,
+        "end": 108.8,
+        "text": "Close-up on Juliana looking up into his eyes, moved to the core.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE BEARDED STRANGER (O.S.) (Affirming, Sincere):",
+        "start": 107.4,
+        "end": 109.0,
+        "text": "\"...to remember your worth.\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 108.8,
+        "end": 110.8,
+        "text": "Close-up on The Bearded Stranger's rugged, bearded face looking down at her with tender reverence.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 110.8,
+        "end": 112.5,
+        "text": "Close-up on Juliana, her lips parting in quiet astonishment.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Whispering, Bewildered):",
+        "start": 110.9,
+        "end": 112.5,
+        "text": "\"Why are you doing this?\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 112.5,
+        "end": 114.2,
+        "text": "Close-up on The Bearded Stranger, completely unfazed.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE BEARDED STRANGER (Simple, Certain):",
+        "start": 112.8,
+        "end": 114.1,
+        "text": "\"Because I want to.\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 114.2,
+        "end": 116.0,
+        "text": "Close-up on Juliana's father wringing his gold ring, eyes heavy with regret.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 116.0,
+        "end": 117.9,
+        "text": "Medium shot on The Bearded Stranger slipping his hand into his coat pocket.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 117.9,
+        "end": 119.2,
+        "text": "Close-up of Juliana watching him with rapt, trembling anticipation.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 119.2,
+        "end": 121.0,
+        "text": "Extreme close-up of The Bearded Stranger's rugged fingers holding up a simple, polished silver band.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE BEARDED STRANGER (O.S.) (Honorable, Earnest):",
+        "start": 119.8,
+        "end": 122.1,
+        "text": "\"You came here to become a wife.\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 121.0,
+        "end": 123.2,
+        "text": "Medium shot on The Bearded Stranger extending the ring toward Juliana.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE BEARDED STRANGER (Quiet, Resolute):",
+        "start": 122.5,
+        "end": 124.2,
+        "text": "\"They took that from you.\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 123.2,
+        "end": 125.1,
+        "text": "Over-the-shoulder medium shot past The Bearded Stranger onto Gerald standing petrified and humiliated in the aisle.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 125.1,
+        "end": 127.4,
+        "text": "Medium close-up on The Bearded Stranger presenting the ring directly to Juliana.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE BEARDED STRANGER (Earnest, Sincere):",
+        "start": 125.3,
+        "end": 127.3,
+        "text": "\"I am offering it back.\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 127.4,
+        "end": 130.2,
+        "text": "Close-up on Juliana glancing down at the ring, breathless and overwhelmed.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Soft, Hesitant):",
+        "start": 127.7,
+        "end": 129.9,
+        "text": "\"You don't even know me.\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 130.2,
+        "end": 132.7,
+        "text": "Close-up on The Bearded Stranger's warm, piercing gaze.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE BEARDED STRANGER (Quiet, Steady):",
+        "start": 130.4,
+        "end": 132.0,
+        "text": "\"I know enough.\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 132.7,
+        "end": 135.5,
+        "text": "Full wide profile shot as The Bearded Stranger slowly and respectfully drops onto one knee before Lady Juliana.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 133.2,
+        "end": 135.5,
+        "text": "The Bearded Stranger sinks to one knee on the cathedral aisle, offering the silver ring up to Juliana.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 134.8,
+        "end": 136.2,
+        "text": "A collective, stunned gasp rippling across the entire congregation.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 135.5,
+        "end": 137.3,
+        "text": "Medium shot of the Noble Matriarch, Gerald, and the Lady in Gold Gown frozen in sheer, jaw-dropped bewilderment.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 137.3,
+        "end": 140.5,
+        "text": "Low-angle medium close-up of The Bearded Stranger on his knee, holding the silver ring high with steady dignity.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "THE BEARDED STRANGER (Solemn, Devoted):",
+        "start": 137.5,
+        "end": 140.3,
+        "text": "\"Lady Juliana... accept my hand.\"",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 140.5,
+        "end": 145.75,
+        "text": "Close-up on Juliana looking down at him, fresh tears trailing down her flushed cheeks as a soft, trembling smile of hope touches her lips into a slow fade.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 140.5,
+        "end": 145.75,
+        "text": "Juliana gazes down at her rugged savior, overcome with emotion as the swelling score holds on the cliffhanger.",
+        "scene": "03",
+        "scene_heading": "INT. CATHEDRAL AISLE – CONTINUOUS"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

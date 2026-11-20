@@ -1,0 +1,360 @@
+{
+  "episode": {
+    "source_file": "episode-048-Episode 1688397.txt",
+    "episode": "Episode 48",
+    "logline": "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander and Juliana with the aid of Father Thomas.",
+    "continuity_notes": "Directly follows Episode 47's public disgrace where Catherine bowed to Juliana and accepted the position of a maid; in private, Catherine sheds her feigned defeat and initiates her counter-plot.",
+    "declared_duration_seconds": 80.0,
+    "last_event_seconds": 80.0,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 80.0,
+    "events": [
+      {
+        "label": "ACTION:",
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Catherine, adorned in an ornate dark burgundy gown with braided golden hair, gazes out the dark window before turning slowly with a cold, venomous smirk.",
+        "scene": "01",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 4.5,
+        "text": "Medium shot tracking slightly as Catherine stands beside a tall mullioned stone window, silhouetted against the moonlight over the distant castle spires.",
+        "scene": "01",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Vindictive, Cold):",
+        "start": 2.4,
+        "end": 7.5,
+        "text": "\"Two words, and that healer's crown rolls right back into the gutter where it belongs.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 4.5,
+        "end": 8.5,
+        "text": "Close-up on Catherine's profile and jewelry as she speaks with calculating contempt.",
+        "scene": "01",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 7.8,
+        "end": 12.3,
+        "text": "Catherine glides across the chamber past a roaring stone hearth, picking up an orange from a silver platter on the table.",
+        "scene": "01",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Scheming):",
+        "start": 8.0,
+        "end": 12.3,
+        "text": "\"Ten days. He gave himself ten days to fix it.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 12.3,
+        "end": 20.0,
+        "text": "Medium close-up frontal shot of Catherine turning directly toward the viewer, her expression tightening into ruthless determination.",
+        "scene": "01",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Intense, Measured):",
+        "start": 12.6,
+        "end": 14.9,
+        "text": "\"Ten days for the council to sit.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 15.0,
+        "end": 18.5,
+        "text": "Catherine raises a gloved index finger, emphasizing each point with sinister precision.",
+        "scene": "01",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Calculating):",
+        "start": 15.1,
+        "end": 17.2,
+        "text": "\"Ten days for witnesses to be gathered.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Dark, Threatening):",
+        "start": 17.4,
+        "end": 19.7,
+        "text": "\"Ten days for a decree to be undone.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 20.0,
+        "end": 26.7,
+        "text": "Slight push-in on Catherine as she clenches her fist against her chest, her eyes blazing with malice.",
+        "scene": "01",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Menacing, Resolute):",
+        "start": 20.1,
+        "end": 23.7,
+        "text": "\"Ten days is not a wall, Alexander. It's a door.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Chillingly Calm):",
+        "start": 23.9,
+        "end": 26.5,
+        "text": "\"And doors can be closed from the other side.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 26.7,
+        "end": 30.8,
+        "text": "Medium shot over Catherine's shoulder seated before her vanity mirror as the chamber door eases open and Agnes enters quietly.",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 26.8,
+        "end": 29.5,
+        "text": "Agnes, dressed in a grey maid's dress and white apron, steps inside with cautious hesitation and clasps her hands.",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "AGNES (Hushed, Submissive):",
+        "start": 29.2,
+        "end": 30.8,
+        "text": "\"You sent for me, my lady?\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Commanding, Sharp):",
+        "start": 30.9,
+        "end": 32.0,
+        "text": "\"Lock it.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 32.0,
+        "end": 33.9,
+        "text": "Close-up on Agnes's hands turning the ornate iron key in the wooden door's brass lock.",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 32.3,
+        "end": 33.8,
+        "text": "Heavy metallic click of an iron key latching into a deadbolt.",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 34.0,
+        "end": 36.5,
+        "text": "Catherine strides forward and firmly grasps Agnes by both hands, stepping uncomfortably close.",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 34.0,
+        "end": 43.0,
+        "text": "Two-shot profile of Catherine towering over Agnes in the candlelight.",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Fierce, Hissing):",
+        "start": 34.2,
+        "end": 37.1,
+        "text": "\"Everyone in that chapel saw me humiliated today.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Spiteful, calculating):",
+        "start": 37.3,
+        "end": 39.0,
+        "text": "\"Good. Let them remember it.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Sinister, Predatory):",
+        "start": 39.2,
+        "end": 43.0,
+        "text": "\"Grief makes people careless, and carelessness is exactly what I need from that household right now.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 43.0,
+        "end": 46.8,
+        "text": "Over-the-shoulder close-up on Agnes, her brow furrowed in anxious alarm.",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "AGNES (Anxious, Whispering):",
+        "start": 43.3,
+        "end": 46.8,
+        "text": "\"My lady... the Duke has bailiffs watching every road out of the county.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 46.8,
+        "end": 51.5,
+        "text": "Close-up on Catherine, a smug, venomous smile spreading across her painted lips.",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Confident, Devious):",
+        "start": 47.0,
+        "end": 51.3,
+        "text": "\"I'm not leaving the county, Agnes. I'm going back into that house.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 51.5,
+        "end": 58.2,
+        "text": "Medium tracking shot following Catherine as she releases Agnes and stalks across the room toward the window sill.",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Pleased, Scheming):",
+        "start": 52.0,
+        "end": 55.0,
+        "text": "\"Father Thomas did his part beautifully today.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Calculated, Demanding):",
+        "start": 55.2,
+        "end": 58.2,
+        "text": "\"Now I need him to do a little more before that hearing convenes.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 58.2,
+        "end": 61.0,
+        "text": "Medium close-up of Agnes glancing nervously over her shoulder.",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "AGNES (Apprehensive):",
+        "start": 58.5,
+        "end": 60.6,
+        "text": "\"If someone sees him come to you...\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 61.0,
+        "end": 66.9,
+        "text": "Close-up on Catherine spinning around from the window, her jaw set in terrifying firmness.",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Stern, Threatening):",
+        "start": 61.8,
+        "end": 64.0,
+        "text": "\"Then no one sees him.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Authoritative):",
+        "start": 64.3,
+        "end": 66.9,
+        "text": "\"That is precisely your job tonight.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 66.9,
+        "end": 73.5,
+        "text": "Medium shot as Catherine picks up a heavy velvet coin purse and places it firmly into Agnes's awaiting open palms.",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 67.5,
+        "end": 69.0,
+        "text": "Dull clinking of heavy gold coins inside a leather pouch.",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Hushed, Commanding):",
+        "start": 67.8,
+        "end": 70.5,
+        "text": "\"Send for the priest. Tonight.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Firm, Final):",
+        "start": 70.8,
+        "end": 73.4,
+        "text": "\"And make sure no one sees him arrive.\"",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 73.5,
+        "end": 76.8,
+        "text": "Wide shot of Agnes curtsying swiftly, stashing the pouch into her apron, and hurrying out through the heavy wooden door into the darkness.",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 76.8,
+        "end": 80.0,
+        "text": "Exterior shot looking through the dark diamond-paned window frame at Catherine standing motionless in the warm candlelight, staring outward into the night with cold, unyielding ambition as the scene fades to black.",
+        "scene": "02",
+        "scene_heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

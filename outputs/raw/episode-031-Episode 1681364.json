@@ -1,0 +1,773 @@
+{
+  "episode": {
+    "source_file": "episode-031-Episode 1681364.txt",
+    "episode": "Episode 31",
+    "logline": "Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological torment until Juliana's unyielding pride pushes Catherine to a violent brink.",
+    "continuity_notes": "Follows directly from Episode 30 where Rupert and Catherine plotted to frame Juliana as a witch while Juliana huddled chained in the subterranean dungeon.",
+    "declared_duration_seconds": 160.0,
+    "last_event_seconds": 160.0,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 160.0,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 2.8,
+        "text": "Static medium shot of the heavy, iron-studded dungeon door as the massive bolt loudly slides open.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 0.0,
+        "end": 2.8,
+        "text": "Heavy iron latch sliding back with an ominous, echoing metallic clang, followed by the deep groaning creak of the cell door swinging inward.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 2.8,
+        "end": 4.2,
+        "text": "Medium close-up of Juliana huddled against the stone wall, bound in heavy iron chains, shivering in her torn apron and lifting her tear-streaked face in dread.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 2.8,
+        "end": 4.2,
+        "text": "Juliana recoils against the damp stonework, her eyes wide with terror as light floods into the dark cell.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 4.2,
+        "end": 9.5,
+        "text": "Full shot framed through the arched doorway. Catherine stands imperiously in an ornate, gold-embroidered violet gown, holding a smoldering hot poker and a charred leather-bound book, flanked by two stone-faced guards with lanterns.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Cruel, Condescending):",
+        "start": 6.9,
+        "end": 8.8,
+        "text": "\"Look at you.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 9.5,
+        "end": 10.5,
+        "text": "Low-angle close-up of Juliana looking up from the stone floor, her gaze hardening despite her fear.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 10.5,
+        "end": 13.8,
+        "text": "Tight close-up of Catherine's face, bathed in the orange flickering glow of the red-hot branding iron, smiling with pure malice.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Mocking, Venomous):",
+        "start": 10.5,
+        "end": 13.8,
+        "text": "\"The great Lady Juliana Ashcroft.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 13.8,
+        "end": 17.6,
+        "text": "Over-the-shoulder wide shot past Catherine looking down at Juliana shackled helplessly on the wet stone floor.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Taunting):",
+        "start": 14.0,
+        "end": 17.6,
+        "text": "\"Chained in a dungeon like a common criminal.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 17.6,
+        "end": 20.8,
+        "text": "Close-up of Juliana, her eyes glistening with unshed tears, speaking with quiet defiance.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "JULIANA (Defiant, Steady):",
+        "start": 17.8,
+        "end": 20.5,
+        "text": "\"You seem very pleased.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 20.8,
+        "end": 24.5,
+        "text": "Low-angle shot looking up at Catherine towering over Juliana, holding the glowing poker at her side.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Smug, Chilling):",
+        "start": 21.0,
+        "end": 23.5,
+        "text": "\"I am.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 24.5,
+        "end": 29.0,
+        "text": "Extreme close-up of the bent, white-hot tip of the poker radiating heat, with Catherine's face blurred in the background as she gazes down with predatory pleasure.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Whispering, Sinister):",
+        "start": 25.0,
+        "end": 28.9,
+        "text": "\"Because this is what you were always meant to be.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 29.0,
+        "end": 34.8,
+        "text": "Over-the-shoulder medium shot focusing on Juliana as Catherine presents the charred, singed pages of the botanical book.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Scornful):",
+        "start": 29.3,
+        "end": 34.8,
+        "text": "\"Your family dressed you like a lady. They educated you. They gave you a respectable name.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 34.8,
+        "end": 39.0,
+        "text": "Close-up of Catherine's face breaking into an arrogant, haughty laugh.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Amused, Spiteful):",
+        "start": 35.0,
+        "end": 38.9,
+        "text": "\"[chuckles] And still you became a disgrace.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 39.0,
+        "end": 43.0,
+        "text": "Tight close-up of Juliana's fierce, unwavering gaze as she retorts without hesitation.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "JULIANA (Fierce, Unbroken):",
+        "start": 39.2,
+        "end": 43.0,
+        "text": "\"I became a disgrace when I refused to become cruel.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 43.0,
+        "end": 48.5,
+        "text": "Close-up of Catherine scowling, cutting back to a shot of Juliana's bare, chained feet locked in iron manacles against the cold stone floor.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Cold, Bitter):",
+        "start": 43.2,
+        "end": 48.5,
+        "text": "\"No. You became a disgrace when Gerald left you standing at the altar.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 48.5,
+        "end": 54.8,
+        "text": "Medium shot from floor level looking up at Catherine leaning closer, savoring Juliana's humiliation.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Gloating):",
+        "start": 48.9,
+        "end": 50.8,
+        "text": "\"Do you remember?\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 49.0,
+        "end": 52.0,
+        "text": "Juliana stares up, her breathing steadying as she refuses to break under Catherine's barbs.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Viciously Delighted):",
+        "start": 51.0,
+        "end": 54.8,
+        "text": "\"Everyone saw you. Everyone watched him chose Clarisse.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 54.8,
+        "end": 59.0,
+        "text": "Close-up of the red-hot iron hovering over the damp stone floor, rising steam and heat waves warping the air, before cutting to Catherine's gloating expression.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 55.2,
+        "end": 57.5,
+        "text": "Faint sizzling and hissing as ambient moisture touches the scalding iron tip.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Quietly Venomous):",
+        "start": 55.5,
+        "end": 58.8,
+        "text": "\"And everyone watched you walk away alone.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 59.0,
+        "end": 65.5,
+        "text": "Close-up pushing in on Juliana's illuminated, dignified face.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "JULIANA (Proud, Measured):",
+        "start": 59.2,
+        "end": 61.3,
+        "text": "\"Gerald chose money.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "JULIANA (Resolute):",
+        "start": 61.5,
+        "end": 63.5,
+        "text": "\"Clarissa chose a coward.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "JULIANA (Unyielding):",
+        "start": 63.8,
+        "end": 65.3,
+        "text": "\"I chose myself.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 65.5,
+        "end": 67.5,
+        "text": "Close-up of Catherine's face tightening in disgust.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Disgusted):",
+        "start": 65.6,
+        "end": 67.4,
+        "text": "\"You chose a beggar.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 67.5,
+        "end": 70.5,
+        "text": "Low-angle shot of Juliana lifting her chin with unwavering pride.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "JULIANA (Fierce, Proud):",
+        "start": 67.6,
+        "end": 69.8,
+        "text": "\"I chose a man.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 70.5,
+        "end": 73.3,
+        "text": "Medium shot of Catherine sneering down at her.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Contemptuous):",
+        "start": 70.8,
+        "end": 73.2,
+        "text": "\"A scarred nobody.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 73.3,
+        "end": 77.6,
+        "text": "Medium shot of Juliana sitting erect against the dungeon wall, her hands resting calmly in her lap.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "JULIANA (Resolute, Dignified):",
+        "start": 73.5,
+        "end": 77.6,
+        "text": "\"A man with more honor than the people sitting above this dungeon.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 77.6,
+        "end": 80.5,
+        "text": "Medium close-up of Catherine, holding the smoldering iron between them.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Incredulous, Mocking):",
+        "start": 77.8,
+        "end": 80.2,
+        "text": "\"You call that marriage?\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 80.5,
+        "end": 83.2,
+        "text": "Extreme close-up of Juliana's clear blue eyes, shining with profound conviction.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "JULIANA (Pure, Sincere):",
+        "start": 80.8,
+        "end": 83.2,
+        "text": "\"I call it love.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 83.2,
+        "end": 88.0,
+        "text": "High-angle wide shot looking straight down through the ceiling iron grating into the deep dungeon shaft where Catherine looms over Juliana.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Mocking, Hysterical Laugh):",
+        "start": 83.5,
+        "end": 87.4,
+        "text": "\"[laughs] Love? Look where your precious love brought you.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 87.5,
+        "end": 91.2,
+        "text": "Medium close-up of Juliana looking directly up past the glowing tip of the iron poker into Catherine's eyes.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "JULIANA (Firm, Piercing):",
+        "start": 87.8,
+        "end": 91.2,
+        "text": "\"To a place where I can still look you in the eyes.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 91.2,
+        "end": 94.2,
+        "text": "Close-up of Catherine, her lips curling in indignant disbelief.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Incredulous, Offended):",
+        "start": 91.4,
+        "end": 94.2,
+        "text": "\"You think love makes you better than me?\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 94.2,
+        "end": 98.2,
+        "text": "Close-up of Juliana speaking calmly and razor-sharp.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "JULIANA (Calm, Cutting):",
+        "start": 94.5,
+        "end": 98.2,
+        "text": "\"No. But cruelty certainly doesn't make you better than me.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 98.2,
+        "end": 103.5,
+        "text": "Medium shot of Catherine sweeping her arm out, flaunting her aristocratic privilege and opulence.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Incensed, Boastful):",
+        "start": 98.5,
+        "end": 103.3,
+        "text": "\"I have beauty, money, family, status! What do you have?\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 103.5,
+        "end": 108.8,
+        "text": "Close-up of Juliana, her expression serene and grounded in moral superiority.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "JULIANA (Quiet, Powerful):",
+        "start": 103.7,
+        "end": 108.5,
+        "text": "\"Knowledge. Love. And people who need me.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 108.8,
+        "end": 110.5,
+        "text": "Tight shot of Catherine's gloved hands holding Juliana's mother's partially burned botanical volume, 'The Virtues of Plants & Herbs'.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Sneering, Derisive):",
+        "start": 110.2,
+        "end": 111.4,
+        "text": "\"[scoffs] Peasants? People?\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 111.5,
+        "end": 118.2,
+        "text": "Medium shot of Catherine casually holding the ancient book while pacing slowly before Juliana.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Arrogant, Elitist):",
+        "start": 111.6,
+        "end": 118.2,
+        "text": "\"That is why you were born in the wrong world. Women like me are meant to be admired. Women like you are meant to serve.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 118.2,
+        "end": 122.5,
+        "text": "Tight close-up of Juliana's face, tilting her head with an insightful, knowing smirk.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "JULIANA (Piercing, Provocative):",
+        "start": 118.4,
+        "end": 122.0,
+        "text": "\"Then why are you so desperate to make me kneel?\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 122.0,
+        "end": 124.0,
+        "text": "Catherine's smug expression freezes, her eyes widening in momentary shock and fury as the blow lands squarely.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 124.0,
+        "end": 130.8,
+        "text": "Low-angle medium shot of Juliana, her voice ringing clearly through the subterranean chamber.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "JULIANA (Accusatory, Commanding):",
+        "start": 124.2,
+        "end": 130.5,
+        "text": "\"If you were truly powerful, Catherine, you wouldn't need me to bow.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 130.8,
+        "end": 133.0,
+        "text": "Close-up of Catherine completely losing control, her aristocratic facade shattering into sheer rage.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Enraged Scream):",
+        "start": 131.0,
+        "end": 132.8,
+        "text": "\"Enough!\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 133.0,
+        "end": 134.5,
+        "text": "Close-up of the red-hot poker pressing directly down into the delicate open pages of the botanical book.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 133.2,
+        "end": 134.5,
+        "text": "Hiss of scorched parchment and curling white smoke rising as paper blackens under extreme heat.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 134.5,
+        "end": 138.0,
+        "text": "Medium two-shot. Catherine holds the smoldering book right before Juliana's face.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Hateful, Malicious):",
+        "start": 134.5,
+        "end": 138.0,
+        "text": "\"This pathetic book is the only thing you still have from your mother.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 138.0,
+        "end": 140.5,
+        "text": "Extreme close-up of Juliana, her emotional composure breaking into pure grief and panic.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 138.0,
+        "end": 140.5,
+        "text": "Tears spill rapidly down Juliana's cheeks as she reaches forward in vain, restrained by her heavy iron chains.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "JULIANA (Desperate, Weeping):",
+        "start": 138.4,
+        "end": 140.4,
+        "text": "\"[gasping] Give it back!\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 140.5,
+        "end": 143.8,
+        "text": "Low-angle shot of Catherine grinning with sadistic triumph, looking down at Juliana's despair.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Gloating, Sadistic):",
+        "start": 140.7,
+        "end": 143.8,
+        "text": "\"There. Finally. Something still hurts you.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 143.8,
+        "end": 145.5,
+        "text": "Close-up of Juliana screaming out in absolute anguish.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "JULIANA (Screaming, Agonized):",
+        "start": 144.0,
+        "end": 145.5,
+        "text": "\"No!\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 145.5,
+        "end": 151.2,
+        "text": "Medium close-up of Catherine slowly driving the glowing branding tip into the spine of the open book, watching the embers consume the pages.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CATHERINE (Vicious, Final):",
+        "start": 145.6,
+        "end": 151.2,
+        "text": "\"One flame, and your mother's life's work becomes ash.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 151.2,
+        "end": 155.2,
+        "text": "Low-angle medium shot. Catherine lowers the charred book and suddenly swings the glowing orange iron tip straight up toward Juliana's face.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 151.5,
+        "end": 155.2,
+        "text": "Juliana recoils back against the hard dungeon wall, gasping for breath in raw terror as the searing iron stops inches from her eyes.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 155.2,
+        "end": 160.0,
+        "text": "Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhanger before an abrupt cut.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": [
+    {
+      "episode": "Episode 31",
+      "segments": [
+        {
+          "start": "01:58.20",
+          "end": "02:40.00"
+        }
+      ],
+      "duration_seconds": 41.8,
+      "hook": "\"Then why are you so desperate to make me kneel?\"",
+      "cliffhanger": "Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhanger before an abrupt cut.",
+      "why_it_works": "Opens on \"Then why are you so desperate to make me kneel?\", builds through \"Close-up of Juliana screaming out in absolute anguish.\", and cuts on \"Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhan\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.8,
+      "score_breakdown": {
+        "hook": 2.6,
+        "cliffhanger": 1.8,
+        "context": 3.7,
+        "coherence": 5.0,
+        "emotional_intensity": 1.9,
+        "arc_completeness": 1.79,
+        "duration_suitability": 4.57
+      },
+      "evidence_excerpt": "Hook (01:58.40): JULIANA (Piercing, Provocative): \"Then why are you so desperate to make me kneel?\" | Hook context (01:58.20): CAMERA: Tight close-up of Juliana's face, tilting her head with an insightful, knowing smirk. | Build (02:23.80): CAMERA: Close-up of Juliana screaming out in absolute anguish. | Build context (02:24.00): JULIANA (Screaming, Agonized): \"No!\" | Payoff (02:35.20): CAMERA: Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhanger before an abrupt cut.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    },
+    {
+      "episode": "Episode 31",
+      "segments": [
+        {
+          "start": "01:38.20",
+          "end": "02:35.20"
+        }
+      ],
+      "duration_seconds": 57.0,
+      "hook": "\"I have beauty, money, family, status! What do you have?\"",
+      "cliffhanger": "Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhanger before an abrupt cut.",
+      "why_it_works": "Opens on \"I have beauty, money, family, status! What do you have?\", builds through \"Then why are you so desperate to make me kneel?\", and cuts on \"Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhan\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.68,
+      "score_breakdown": {
+        "hook": 2.35,
+        "cliffhanger": 1.8,
+        "context": 3.7,
+        "coherence": 5.0,
+        "emotional_intensity": 1.9,
+        "arc_completeness": 1.79,
+        "duration_suitability": 3.4
+      },
+      "evidence_excerpt": "Hook (01:38.50): CATHERINE (Incensed, Boastful): \"I have beauty, money, family, status! What do you have?\" | Hook context (01:38.20): CAMERA: Medium shot of Catherine sweeping her arm out, flaunting her aristocratic privilege and opulence. | Build (01:58.40): JULIANA (Piercing, Provocative): \"Then why are you so desperate to make me kneel?\" | Build context (01:58.20): CAMERA: Tight close-up of Juliana's face, tilting her head with an insightful, knowing smirk. | Payoff (02:35.20): CAMERA: Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhanger before an abrupt cut.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    }
+  ]
+}

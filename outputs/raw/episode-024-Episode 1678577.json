@@ -1,0 +1,568 @@
+{
+  "episode": {
+    "source_file": "episode-024-Episode 1678577.txt",
+    "episode": "Episode 24",
+    "logline": "When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the hearth, unaware that Juliana has secretly hidden the antidote and remedy journal to finish the Duchess's cure.",
+    "continuity_notes": "Picks up directly from Episode 23's cliffhanger inside the West Wing bedchamber, as the brass latch turns and the door swings open to reveal an unexpected intruder confronting Lady Juliana and Prudence.",
+    "declared_duration_seconds": 92.0,
+    "last_event_seconds": 92.0,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 92.0,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 3.5,
+        "text": "Close-up of the ornate brass handle turning slowly on the dark wooden chamber door as it swings open.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 0.2,
+        "end": 3.0,
+        "text": "Heavy metallic click of the latch and the ominous low creak of the door hinges.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 3.5,
+        "end": 6.0,
+        "text": "Wide shot of the dimly lit, vaulted bedchamber. Lady Juliana and Prudence stand rigid beside the heavy four-poster bed as a haughty blonde noblewoman in an elegant lavender empire-line gown enters, clutching a riding crop.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 4.0,
+        "end": 6.5,
+        "text": "The noblewoman halts in the center of the chamber, tapping her riding crop against her gloved palm as her cold gaze sweeps across the two maids.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 6.0,
+        "end": 8.5,
+        "text": "Medium shot of the noblewoman holding the riding crop upright, regarding Juliana with disdainful authority.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "NOBLEWOMAN (Sharp, Demanding):",
+        "start": 6.8,
+        "end": 8.4,
+        "text": "\"Who are you?\"",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Humble, Measured):",
+        "start": 8.5,
+        "end": 12.0,
+        "text": "\"Juliana, my lady. I was hired for the winter cleaning.\"",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 8.5,
+        "end": 12.2,
+        "text": "Medium close-up of Juliana, her gaze lowered deferentially beside the carved wooden bedpost.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 12.2,
+        "end": 16.8,
+        "text": "Medium shot of the noblewoman, her chin tilted up in icy condescension.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "NOBLEWOMAN (Accusatory, Strict):",
+        "start": 13.0,
+        "end": 16.4,
+        "text": "\"And who gave you permission to enter this chamber?\"",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 16.8,
+        "end": 18.8,
+        "text": "Close-up of the frail Dowager Duchess lying pale and unconscious against the white pillows, gasping weakly for air.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 18.8,
+        "end": 20.5,
+        "text": "Behind her grey skirt, Juliana quickly slips the small glass remedy vial into her apron pocket with her charcoal-dusted fingers.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 18.8,
+        "end": 20.8,
+        "text": "Close-up on Juliana's hand swiftly concealing the medicine bottle.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Softly Defiant):",
+        "start": 20.8,
+        "end": 22.2,
+        "text": "\"I heard her. I thought Her Grace needed help.\"",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 20.8,
+        "end": 22.5,
+        "text": "Medium shot of Juliana facing the noblewoman, maintaining a calm, protective facade.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "NOBLEWOMAN (Scoffing, Cruel):",
+        "start": 22.5,
+        "end": 26.5,
+        "text": "\"You thought? A new maid thinks she knows better than the physicians?\"",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 22.5,
+        "end": 26.8,
+        "text": "Two-shot framing the noblewoman looking down at Juliana, bursting into mocking laughter.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 26.8,
+        "end": 28.8,
+        "text": "Close-up of Juliana's resolute expression, her eyes flashing with righteous urgency.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Emphatic, Defiant):",
+        "start": 27.0,
+        "end": 28.6,
+        "text": "\"She is suffering.\"",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 28.8,
+        "end": 30.8,
+        "text": "Tight close-up of the noblewoman's face twisting into a malicious sneer.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "NOBLEWOMAN (Vicious, Venomous):",
+        "start": 29.0,
+        "end": 30.8,
+        "text": "\"Then let her suffer.\"",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 30.8,
+        "end": 32.8,
+        "text": "Close-up of Juliana recoiling slightly in shock at the blatant cruelty.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Steely, Steadfast):",
+        "start": 31.0,
+        "end": 32.5,
+        "text": "\"I cannot do that.\"",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 32.5,
+        "end": 34.5,
+        "text": "The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 32.8,
+        "end": 33.8,
+        "text": "A sharp, stinging whip crack as the riding crop makes harsh contact.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 33.8,
+        "end": 36.5,
+        "text": "Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal strike.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 33.8,
+        "end": 36.8,
+        "text": "Medium shot of Juliana hunched over in pain, clutching her abdomen.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "NOBLEWOMAN (Cold, Threatening):",
+        "start": 35.0,
+        "end": 36.8,
+        "text": "\"You are a maid.\"",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 36.8,
+        "end": 38.8,
+        "text": "Low-angle shot looking past the bedpost toward the Duchess, whose trembling hand reaches out limply.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "NOBLEWOMAN (Cold, Continuing):",
+        "start": 37.0,
+        "end": 38.8,
+        "text": "\"Not a physician. Not a lady.\"",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 38.8,
+        "end": 43.0,
+        "text": "Dramatic low-angle wide shot of the noblewoman standing imperiously over the doubled-over Juliana.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "NOBLEWOMAN (Disdainful, Final):",
+        "start": 39.0,
+        "end": 42.8,
+        "text": "\"And certainly not a woman whose opinion matters.\"",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 43.0,
+        "end": 45.5,
+        "text": "Close-up of Juliana looking down, enduring the humiliation while stifling her breath.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Subdued, Controlled):",
+        "start": 43.2,
+        "end": 44.8,
+        "text": "\"Yes, my lady.\"",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "NOBLEWOMAN (Smug, Condescending):",
+        "start": 45.5,
+        "end": 48.0,
+        "text": "\"Good. Perhaps we can teach you your place.\"",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 45.5,
+        "end": 48.5,
+        "text": "Medium shot of the noblewoman turning the crop in her white-gloved hands with smug satisfaction.",
+        "scene": "01",
+        "scene_heading": "INT. DOWAGER DUCHESS'S BEDCHAMBER – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 48.5,
+        "end": 51.5,
+        "text": "The noblewoman leads Juliana and a frightened Prudence down a dark flagstone hallway.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 48.5,
+        "end": 51.5,
+        "text": "Low tracking shot down the corridor as the hem of the lilac dress sweeps past, followed by Juliana's swift steps.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 51.5,
+        "end": 53.5,
+        "text": "Juliana's boots step down into a dark, rustic chamber dominated by an enormous, blackened stone hearth.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 51.5,
+        "end": 54.0,
+        "text": "Wide shot of the vast soot-stained stone fireplace. The noblewoman turns back toward Juliana, crop held at her side.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "NOBLEWOMAN (Harsh, Dismissive):",
+        "start": 53.6,
+        "end": 55.2,
+        "text": "\"Clean it.\"",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 54.0,
+        "end": 56.2,
+        "text": "Medium shot of the noblewoman extending her gloved hand toward the cavernous, filth-laden hearth.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Quiet, Questioning):",
+        "start": 56.2,
+        "end": 57.6,
+        "text": "\"All of it, my lady?\"",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 56.2,
+        "end": 57.8,
+        "text": "Close-up of Juliana looking up at the towering, soot-blackened chimney.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "NOBLEWOMAN (Intimate, Venomous):",
+        "start": 57.8,
+        "end": 63.5,
+        "text": "\"Every stone. Perhaps when your hands are black enough, you will finally remember what you are.\"",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 57.8,
+        "end": 63.8,
+        "text": "Extreme close-up two-shot as the noblewoman steps unnervingly close to Juliana's face, whispering with sadistic relish.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 63.8,
+        "end": 66.0,
+        "text": "Juliana slowly drops to her knees on the cold flagstones before the soot-filled fireplace.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 63.8,
+        "end": 66.2,
+        "text": "Medium shot of Juliana sinking to her knees, her face grim and composed.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 66.0,
+        "end": 67.5,
+        "text": "Prudence steps toward the noblewoman in distress, her hands clasped tightly.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "PRUDENCE (Desperate, Pleading):",
+        "start": 66.2,
+        "end": 67.5,
+        "text": "\"My lady—\"",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 66.2,
+        "end": 67.8,
+        "text": "Close-up of Prudence's anxious, trembling face.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 67.5,
+        "end": 69.5,
+        "text": "The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 67.8,
+        "end": 70.5,
+        "text": "Medium close-up of the noblewoman baring her teeth in rage, aiming the crop threateningly.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "NOBLEWOMAN (Furious, Threatening):",
+        "start": 68.0,
+        "end": 70.5,
+        "text": "\"Do you want the same punishment?\"",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 70.5,
+        "end": 72.8,
+        "text": "Close-up of Prudence flinching in terror, lowering her eyes immediately.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "PRUDENCE (Terrified, Murmuring):",
+        "start": 70.6,
+        "end": 72.4,
+        "text": "\"No, my lady.\"",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 72.5,
+        "end": 74.5,
+        "text": "Juliana grips a coarse scrubbing brush with both hands and begins vigorously scraping the thick black ash across the hearthstones.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 72.8,
+        "end": 74.8,
+        "text": "Close-up shot of Juliana's soot-covered hands fiercely scrubbing the black ash along the stone floor.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 73.0,
+        "end": 81.0,
+        "text": "Rhythmic, harsh rasping sound of bristles scraping against stone.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 74.8,
+        "end": 78.5,
+        "text": "Medium shot of the noblewoman leaning casually against the wooden doorframe, watching Juliana toil with smug condescension.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "NOBLEWOMAN (Smug, Gleeful):",
+        "start": 75.0,
+        "end": 78.0,
+        "text": "\"That is where clever little servants belong.\"",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 78.5,
+        "end": 81.2,
+        "text": "Medium profile shot of Juliana kneeling by the hearth in the dim window light, scrubbing steadily.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (V.O.) (Cold, Resolute):",
+        "start": 78.6,
+        "end": 81.0,
+        "text": "\"Let her think I am only a maid.\"",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 81.2,
+        "end": 85.0,
+        "text": "Juliana pauses scrubbing. Her soot-caked fingers reach into the deep pocket of her apron, carefully feeling the worn leather cover of her mother's remedy journal and the glass dropper bottle securely concealed within.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 81.2,
+        "end": 85.2,
+        "text": "Close-up of Juliana's soot-stained hand touching the hidden remedy book and the antidote vial inside her apron pocket.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (V.O.) (Determined, Defiant):",
+        "start": 81.5,
+        "end": 84.8,
+        "text": "\"Let her believe I am ignorant.\"",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 85.2,
+        "end": 91.5,
+        "text": "Juliana raises her head. Smudges of dark soot stain her fair cheek, but her piercing blue eyes burn with unwavering defiance and unyielding resolve as she stares toward the hallway.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 85.2,
+        "end": 92.0,
+        "text": "Tight close-up of Juliana's soot-streaked face turning slowly toward the chamber exit, her jaw set firm as dramatic music builds to a powerful crescendo.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (V.O.) (Steely, Unstoppable):",
+        "start": 85.6,
+        "end": 89.8,
+        "text": "\"I will return. You cannot stop the healer.\"",
+        "scene": "02",
+        "scene_heading": "INT. MANOR HEARTH ROOM – CONTINUOUS"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

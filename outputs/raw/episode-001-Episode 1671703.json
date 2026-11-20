@@ -1,0 +1,807 @@
+{
+  "episode": {
+    "source_file": "episode-001-Episode 1671703.txt",
+    "episode": "Episode 1",
+    "logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.",
+    "continuity_notes": "First episode of the series. Establishes Juliana's humiliation and abandonment by her betrothed, Gerald, and her noble family in favor of her sister, Clarissa.",
+    "declared_duration_seconds": 138.0,
+    "last_event_seconds": 138.0,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 138.0,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 4.8,
+        "text": "Symmetrical framing on the heavy church doors as they slowly part, pushing in slightly as Juliana stands framed in the light, dressed in an elegant white silk gown.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 1.0,
+        "end": 4.8,
+        "text": "Juliana pauses at the threshold, her expression bright with joyful anticipation, wearing her mother's vintage gown and an oval pendant necklace.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 4.8,
+        "end": 6.8,
+        "text": "High wide tracking shot following behind Juliana as she steps into the grand cathedral nave, facing the distant altar flanked by seated guests.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 6.8,
+        "end": 9.8,
+        "text": "Close-up on Juliana's face as her warm smile begins to falter into confusion.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 7.2,
+        "end": 9.8,
+        "text": "Juliana's eyes widen slightly in bewilderment as she notices something amiss at the altar.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 9.8,
+        "end": 11.0,
+        "text": "Medium profile shot at the altar showing Gerald in his dark tailcoat holding the gloved hand of the Lady in Gold Gown, with Juliana visible walking down the distant aisle.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 11.0,
+        "end": 13.2,
+        "text": "Medium shot as Juliana stops midway down the aisle, confronted by a haughty matriarch in black velvet stepping into the foreground.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "MATRIARCH (Cold, Commanding):",
+        "start": 11.3,
+        "end": 13.1,
+        "text": "\"You should turn around, Juliana.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Confused, Breathless):",
+        "start": 13.5,
+        "end": 14.3,
+        "text": "\"Why?\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 14.3,
+        "end": 17.8,
+        "text": "Over-the-shoulder medium close-up past the Matriarch to Juliana, looking past her toward the altar.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Desperate, Unbelieving):",
+        "start": 15.5,
+        "end": 17.5,
+        "text": "\"Gerald is waiting for me.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 17.8,
+        "end": 20.5,
+        "text": "Close-up on the Matriarch wearing an ornate tiara and sapphire jewelry, gazing down with merciless disdain.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "MATRIARCH (Blunt, Unforgiving):",
+        "start": 18.0,
+        "end": 19.4,
+        "text": "\"Not anymore.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 20.5,
+        "end": 23.6,
+        "text": "Close-up on Juliana's stricken face as the weight of the words sinks in.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Trembling, Pleading):",
+        "start": 21.8,
+        "end": 23.5,
+        "text": "\"What do you mean?\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 23.6,
+        "end": 25.8,
+        "text": "Medium shot of the Matriarch gesturing dismissively toward the altar.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "MATRIARCH (Dismissive):",
+        "start": 23.8,
+        "end": 25.5,
+        "text": "\"Look for yourself.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 25.6,
+        "end": 29.8,
+        "text": "Juliana walks forward past the Matriarch, her breath hitching as she approaches the altar steps, looking up in shock.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 25.8,
+        "end": 29.8,
+        "text": "Medium front tracking shot moving backward ahead of Juliana as she advances down the center aisle.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 29.8,
+        "end": 32.8,
+        "text": "Panning shot across the seated wedding guests whispering and casting judging glances from the wooden pews.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 32.8,
+        "end": 33.7,
+        "text": "Low-angle shot from behind Juliana looking up at Gerald and the Lady in Gold Gown standing proudly before the altar.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 33.7,
+        "end": 35.3,
+        "text": "Close-up on Juliana's trembling lips and shocked, tearful blue eyes.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Shaken, Whispering):",
+        "start": 33.8,
+        "end": 35.0,
+        "text": "\"Gerald?\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Heartbroken):",
+        "start": 35.4,
+        "end": 37.7,
+        "text": "\"Why are you holding her hand?\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 36.5,
+        "end": 39.0,
+        "text": "Close-up insert of Gerald's fingers firmly interlocked with the white-gloved hand of the Lady in Gold Gown.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 39.0,
+        "end": 41.5,
+        "text": "Close-up on the Lady in Gold Gown beaming with cruel triumph.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Gloating, Smug):",
+        "start": 39.1,
+        "end": 41.2,
+        "text": "\"Because he is marrying me.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 41.5,
+        "end": 43.9,
+        "text": "Close-up on Juliana as tears spill over her eyelashes.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Gasping, Devastated):",
+        "start": 41.7,
+        "end": 43.1,
+        "text": "\"No...\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 43.9,
+        "end": 46.8,
+        "text": "Wide profile shot showing Juliana standing below the altar platform, looking up at Gerald and her sister.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Outraged, Accusing):",
+        "start": 46.8,
+        "end": 50.0,
+        "text": "\"You knew this before I walked through those doors!\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 46.8,
+        "end": 50.4,
+        "text": "Close-up on Juliana clutching her chest, her sorrow turning into burning outrage.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 50.4,
+        "end": 52.0,
+        "text": "Medium shot of Gerald standing stoic and impassive next to the smug Lady in Gold Gown.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 52.0,
+        "end": 54.6,
+        "text": "Close-up on Juliana's hands desperately clenching fistfuls of her white dress fabric.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Choking on Tears):",
+        "start": 52.8,
+        "end": 54.6,
+        "text": "\"You let me come here...\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 54.6,
+        "end": 57.6,
+        "text": "Close-up on Juliana's tear-streaked face as she shakes with grief.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Crushed, Shaking):",
+        "start": 54.7,
+        "end": 56.9,
+        "text": "\"You let me dress in my mother's gown...\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Crying Out):",
+        "start": 57.0,
+        "end": 60.0,
+        "text": "\"You let me believe I was walking toward my husband!\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 57.6,
+        "end": 60.1,
+        "text": "Medium shot on Gerald stepping forward, cold and indifferent, with the Lady in Gold Gown lingering in soft focus behind him.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "THE FORMER GROOM (Cold, Callous):",
+        "start": 60.1,
+        "end": 61.8,
+        "text": "\"I changed my mind.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 60.1,
+        "end": 63.0,
+        "text": "Tight close-up on Gerald's hardened profile as he glances down.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 63.0,
+        "end": 66.0,
+        "text": "Extreme close-up on Juliana's furious, weeping face.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Betrayed, Piercing):",
+        "start": 63.4,
+        "end": 65.6,
+        "text": "\"You swore you loved me!\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 66.0,
+        "end": 68.8,
+        "text": "Close-up on the Lady in Gold Gown smiling condescendingly.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Mocking):",
+        "start": 66.5,
+        "end": 68.8,
+        "text": "\"People change their minds, sister.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 68.8,
+        "end": 72.4,
+        "text": "Medium profile shot of the Lady in Gold Gown turning her head subtly toward Gerald with satisfied malice.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Horrified):",
+        "start": 69.1,
+        "end": 70.4,
+        "text": "\"And you knew?\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Unapologetic, Cheerful):",
+        "start": 70.6,
+        "end": 72.1,
+        "text": "\"Of course I knew.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 72.4,
+        "end": 74.6,
+        "text": "Close-up on Juliana, stunned by the callous depth of the conspiracy.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Trembling):",
+        "start": 73.1,
+        "end": 74.3,
+        "text": "\"How long?\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 74.6,
+        "end": 79.0,
+        "text": "Medium two-shot of the Lady in Gold Gown and Gerald looking together down at Juliana.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Cruel, Poised):",
+        "start": 75.0,
+        "end": 78.5,
+        "text": "\"Long enough to know he was never going to marry you.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 79.0,
+        "end": 81.0,
+        "text": "Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 79.0,
+        "end": 81.4,
+        "text": "Close-up on the father's hand tightly gripping the gold curved handle of his walking cane.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Desperate):",
+        "start": 80.1,
+        "end": 81.2,
+        "text": "\"Father...\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Begging):",
+        "start": 81.4,
+        "end": 83.6,
+        "text": "\"Tell them this is a mistake.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 81.4,
+        "end": 83.7,
+        "text": "Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 83.7,
+        "end": 86.0,
+        "text": "Close-up on the father's weathered face, looking fixedly at the floor, refusing to meet her gaze.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Choking, Broken):",
+        "start": 86.0,
+        "end": 88.9,
+        "text": "\"Father... please look at me.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 86.0,
+        "end": 89.5,
+        "text": "Close-up on Juliana looking up at him, tears streaming uncontrollably down her cheeks.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 89.5,
+        "end": 90.8,
+        "text": "The father tightens his jaw and stony expression, refusing to offer a single word or look.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 89.5,
+        "end": 90.8,
+        "text": "Profile close-up of the father staring blankly forward.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 90.8,
+        "end": 95.8,
+        "text": "Low-angle shot looking up at the Matriarch commanding the space with regal severity.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "MATRIARCH (Stern, Resolute):",
+        "start": 90.9,
+        "end": 91.9,
+        "text": "\"Enough!\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "MATRIARCH (Disgusted):",
+        "start": 92.1,
+        "end": 95.5,
+        "text": "\"You have embarrassed this family long enough.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 95.8,
+        "end": 98.6,
+        "text": "Close-up on Juliana as she rises, stung by the utter betrayal.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Incredulous):",
+        "start": 96.2,
+        "end": 98.2,
+        "text": "\"Embarrassed you?\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 98.6,
+        "end": 102.5,
+        "text": "Medium shot of the Matriarch gesturing toward Clarissa, who stands elegantly in gold.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "MATRIARCH (Haughty):",
+        "start": 98.8,
+        "end": 101.5,
+        "text": "\"Clarissa knows how to carry herself.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "MATRIARCH (Proud):",
+        "start": 101.6,
+        "end": 105.0,
+        "text": "\"She has beauty, connections, and a future worth protecting.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 102.5,
+        "end": 105.3,
+        "text": "Medium profile two-shot of the Matriarch confronting Juliana face to face.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 105.3,
+        "end": 107.4,
+        "text": "Close-up on Juliana, demanding answers in spite of her humiliation.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Raw, Painful):",
+        "start": 105.4,
+        "end": 107.3,
+        "text": "\"And I am what?\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 107.4,
+        "end": 110.0,
+        "text": "Medium tracking shot showing the Lady in Gold Gown stepping past Juliana toward the center.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Viciously Calm):",
+        "start": 107.5,
+        "end": 110.8,
+        "text": "\"You are the daughter people tolerate because they have to.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 110.0,
+        "end": 113.0,
+        "text": "Close-up on Juliana absorbing the venomous words, her breathing shallow.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Gloating):",
+        "start": 111.1,
+        "end": 113.0,
+        "text": "\"I am the daughter they choose.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 113.0,
+        "end": 115.2,
+        "text": "Medium shot of the Lady in Gold Gown smiling warmly at Gerald beside the altar candles.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "MATRIARCH (O.S.) (Firm):",
+        "start": 113.3,
+        "end": 115.7,
+        "text": "\"Clarissa is the jewel of this family.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 115.2,
+        "end": 117.0,
+        "text": "Close two-shot of the Matriarch and Juliana standing side by side in profile.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Trembling, Dignified):",
+        "start": 117.0,
+        "end": 119.0,
+        "text": "\"So that is what I was worth to you?\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 117.0,
+        "end": 119.5,
+        "text": "Medium shot framing Juliana looking directly at Gerald, who towers over her coldly.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 119.5,
+        "end": 122.5,
+        "text": "Close-up on Gerald's sharp jawline as he looks down at her without an ounce of remorse.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "THE FORMER GROOM (Scornful, Hard):",
+        "start": 119.8,
+        "end": 122.3,
+        "text": "\"You have nothing to offer me anymore.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 122.5,
+        "end": 124.2,
+        "text": "Extreme close-up on Juliana's eye as a single tear rolls down her cheek.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "THE FORMER GROOM (Arrogant, Dismissive):",
+        "start": 124.2,
+        "end": 127.5,
+        "text": "\"I cannot marry a woman of such plainness and low value...\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 124.2,
+        "end": 128.5,
+        "text": "Full shot tracking Gerald as he turns his back on Juliana and walks back toward Clarissa and the altar.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "THE FORMER GROOM (Reverent toward Clarissa):",
+        "start": 128.5,
+        "end": 131.2,
+        "text": "\"...when Clarissa is the true jewel of the county.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 128.5,
+        "end": 131.3,
+        "text": "Close-up on Clarissa's radiant, conceited smile basking in Gerald's words.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 131.3,
+        "end": 133.8,
+        "text": "Juliana's hand clenches fiercely into the folds of her mother's silk bridal gown, knuckles whitening with suppressed fury.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 131.3,
+        "end": 133.8,
+        "text": "Tight insert on Juliana's white-knuckled hand clutching the gown fabric.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 133.8,
+        "end": 137.0,
+        "text": "Push-in close-up on Juliana's tearful face. Her trembling mouth straightens, her tear-filled blue eyes hardening from sheer devastation into cold, resolute defiance.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 133.8,
+        "end": 137.0,
+        "text": "Juliana breathes through the agony, refusing to break down further in front of the congregation.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 135.0,
+        "end": 137.5,
+        "text": "Solemn low-pitched string drone swells to an ominous cliffhanger peak.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 137.0,
+        "end": 138.0,
+        "text": "Cut to black.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – DAY"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": [
+    {
+      "episode": "Episode 1",
+      "segments": [
+        {
+          "start": "01:23.70",
+          "end": "02:17.00"
+        }
+      ],
+      "duration_seconds": 53.3,
+      "hook": "Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him.",
+      "cliffhanger": "Cut to black.",
+      "why_it_works": "Opens on \"Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him.\", builds through \"And I am what?\", and cuts on \"Cut to black.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.67,
+      "score_breakdown": {
+        "hook": 2.15,
+        "cliffhanger": 1.8,
+        "context": 4.0,
+        "coherence": 5.0,
+        "emotional_intensity": 1.9,
+        "arc_completeness": 1.51,
+        "duration_suitability": 3.89
+      },
+      "evidence_excerpt": "Hook (01:23.70): CAMERA: Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him. | Build (01:45.40): LADY JULIANA (Raw, Painful): \"And I am what?\" | Build context (01:42.50): CAMERA: Medium profile two-shot of the Matriarch confronting Juliana face to face. | Payoff (02:17.00): CAMERA: Cut to black.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    }
+  ]
+}

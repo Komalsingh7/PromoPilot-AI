@@ -1,0 +1,808 @@
+{
+  "episode": {
+    "source_file": "episode-033-Episode 1681366.txt",
+    "episode": "Episode 33",
+    "logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.",
+    "continuity_notes": "Following Catherine's dungeon interrogation of Juliana, the conspiracy against Juliana deepens as an aristocratic lord forces a testimony of witchcraft out of the young maid whose brother Juliana saved.",
+    "declared_duration_seconds": 174.04,
+    "last_event_seconds": 174.04,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 174.04,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 5.2,
+        "text": "Wide shot of a dimly lit, wood-paneled library study. An aristocratic lord in formal dark attire stands facing a young maid standing nervously by the open door.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Cold, Authoritative):",
+        "start": 2.5,
+        "end": 4.8,
+        "text": "\"Your brother is breathing again.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 4.0,
+        "end": 6.5,
+        "text": "The young maid steps inside, bowing with a submissive curtsy, keeping her head low and hands clasped.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 5.2,
+        "end": 8.8,
+        "text": "Medium close-up of the maid trembling as she raises her eyes hesitantly.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Meek, Hesitant):",
+        "start": 6.5,
+        "end": 8.5,
+        "text": "\"Yes, my Lord.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 8.8,
+        "end": 12.0,
+        "text": "Medium shot of the Lord standing beside his mahogany desk, looking down with cold, calculating scrutiny.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Probing):",
+        "start": 9.5,
+        "end": 11.8,
+        "text": "\"And who saved him?\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 12.0,
+        "end": 14.8,
+        "text": "Close-up of the maid's anxious, innocent face.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Quiet, Truthful):",
+        "start": 13.0,
+        "end": 14.5,
+        "text": "\"Lady Juliana.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 14.8,
+        "end": 17.8,
+        "text": "Close-up of the Lord's hand slowly rotating the heavy gold signet ring on his pinky finger.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Measured, Demanding):",
+        "start": 15.5,
+        "end": 17.5,
+        "text": "\"Tell me how.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 17.8,
+        "end": 21.0,
+        "text": "Medium close-up of the maid nervously wringing her apron fabric.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Faltering):",
+        "start": 19.5,
+        "end": 21.0,
+        "text": "\"She... she used herbs.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 21.0,
+        "end": 23.0,
+        "text": "Close-up on the Lord leaning forward abruptly, his piercing gaze bearing down.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Sharp, Intimidating):",
+        "start": 21.2,
+        "end": 22.8,
+        "text": "\"What herbs?\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 23.0,
+        "end": 26.5,
+        "text": "Close-up of the frightened maid looking down, shrinking back.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Whispering, Nervous):",
+        "start": 24.5,
+        "end": 26.2,
+        "text": "\"I don't know.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 26.5,
+        "end": 29.2,
+        "text": "Low-angle shot looking up at the imposing Lord towering above her.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Stern):",
+        "start": 27.5,
+        "end": 29.0,
+        "text": "\"You watched her.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 29.2,
+        "end": 32.8,
+        "text": "Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Tearful, Sincere):",
+        "start": 29.8,
+        "end": 32.0,
+        "text": "\"I watched her save him.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 32.8,
+        "end": 36.5,
+        "text": "Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Coldly Dismissive):",
+        "start": 34.0,
+        "end": 36.2,
+        "text": "\"That is not what I asked.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 36.5,
+        "end": 40.2,
+        "text": "Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Accusatory):",
+        "start": 37.5,
+        "end": 40.0,
+        "text": "\"Did she use her mother's book?\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 40.2,
+        "end": 44.2,
+        "text": "Close-up of the maid trembling, tears spilling down her face.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Quietly Weeping):",
+        "start": 42.2,
+        "end": 43.6,
+        "text": "\"Yes.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 44.2,
+        "end": 49.2,
+        "text": "Close-up of the Lord's sinister, unyielding face.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Insistent, Cornering):",
+        "start": 44.8,
+        "end": 48.8,
+        "text": "\"Did she prepare things no physician had prescribed?\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 49.2,
+        "end": 52.5,
+        "text": "Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Choked Sob):",
+        "start": 50.0,
+        "end": 51.6,
+        "text": "\"Yes.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 52.5,
+        "end": 56.8,
+        "text": "Close-up of the Lord's mouth curling into a sinister, predatory smile.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Sly, Sinister):",
+        "start": 53.0,
+        "end": 56.5,
+        "text": "\"And did she perform anything unusual?\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 56.8,
+        "end": 59.0,
+        "text": "Close-up of the maid gasping, shaking her head vigorously in panic.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Desperate, Denying):",
+        "start": 57.4,
+        "end": 58.8,
+        "text": "\"No!\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Low, Menacing):",
+        "start": 59.0,
+        "end": 61.0,
+        "text": "\"Think carefully.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 59.0,
+        "end": 64.2,
+        "text": "Profile medium two-shot as the Lord looms inches from the maid's face.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Ruthless):",
+        "start": 61.2,
+        "end": 63.5,
+        "text": "\"Your brother is still a pauper.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 64.2,
+        "end": 68.8,
+        "text": "Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Threatening):",
+        "start": 64.4,
+        "end": 68.5,
+        "text": "\"One word from me, and the county gaol will take him before sunrise.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 68.5,
+        "end": 70.0,
+        "text": "The maid gasps in sheer terror, her chest heaving as tears stream.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 68.8,
+        "end": 73.2,
+        "text": "Close-up of the maid clutching her chest with trembling hands, crying desperately.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Begging, Heartbroken):",
+        "start": 69.5,
+        "end": 73.0,
+        "text": "\"Please, my Lord... he is only seven!\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Cold, Unwavering):",
+        "start": 73.2,
+        "end": 75.0,
+        "text": "\"Then help him.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 73.2,
+        "end": 75.5,
+        "text": "Close-up of the Lord staring down without an ounce of pity.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 75.5,
+        "end": 79.5,
+        "text": "Close-up of the maid weeping profusely, cornered and helpless.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Crying, Shattered):",
+        "start": 76.8,
+        "end": 79.0,
+        "text": "\"What do you want me to say?!\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 79.5,
+        "end": 84.8,
+        "text": "Wide shot of the study as the Lord stands calmly before the trembling servant.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Deceptive):",
+        "start": 79.6,
+        "end": 80.5,
+        "text": "\"The truth.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Leading, Deliberate):",
+        "start": 81.0,
+        "end": 84.5,
+        "text": "\"She drew something around the bed, did she not?\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 84.8,
+        "end": 89.0,
+        "text": "Close-up of the maid stammering through her tears.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Trembling, Reluctant):",
+        "start": 85.5,
+        "end": 88.8,
+        "text": "\"She... placed dried herbs around him.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Hypnotic, Coercive):",
+        "start": 89.0,
+        "end": 90.5,
+        "text": "\"Around him.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 89.0,
+        "end": 94.8,
+        "text": "Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Coercive):",
+        "start": 91.0,
+        "end": 92.5,
+        "text": "\"Like a circle?\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Faint, Defeated):",
+        "start": 93.0,
+        "end": 94.5,
+        "text": "\"Yes.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 94.8,
+        "end": 98.5,
+        "text": "Close-up from behind the maid as the Lord leans close to her ear.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Whispering, Trap Snapping):",
+        "start": 95.0,
+        "end": 98.0,
+        "text": "\"And she opened her mother's book...\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Sobbing):",
+        "start": 98.5,
+        "end": 100.0,
+        "text": "\"Yes.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 98.5,
+        "end": 100.8,
+        "text": "Extreme close-up of the maid's tear-drenched eyes and quivering lips.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 100.8,
+        "end": 104.2,
+        "text": "Close-up of the Lord delivering the final trap.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Sinister):",
+        "start": 101.0,
+        "end": 104.0,
+        "text": "\"...and spoke words you could not understand.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 104.2,
+        "end": 107.5,
+        "text": "Close-up of the maid gasping out in desperate agony.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Desperately Defending):",
+        "start": 104.5,
+        "end": 106.5,
+        "text": "\"She was praying!\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 107.5,
+        "end": 111.8,
+        "text": "Close-up of the Lord grinning with sinister triumph.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Taunting):",
+        "start": 108.0,
+        "end": 111.5,
+        "text": "\"Praying... or chanting?\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 111.8,
+        "end": 113.8,
+        "text": "Close-up of the maid breaking down completely.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Hysterically Sobbing):",
+        "start": 112.0,
+        "end": 113.5,
+        "text": "\"I don't know!\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 113.8,
+        "end": 119.5,
+        "text": "Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Calculating, Relentless):",
+        "start": 114.0,
+        "end": 116.5,
+        "text": "\"You saw a woman draw a circle of herbs.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Relentless):",
+        "start": 116.8,
+        "end": 119.5,
+        "text": "\"You saw her use a forbidden book.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 119.5,
+        "end": 123.5,
+        "text": "Close-up profile of the Lord leaning in right in front of the sobbing maid.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Condemning):",
+        "start": 119.8,
+        "end": 122.8,
+        "text": "\"You heard words you could not understand.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 123.5,
+        "end": 126.8,
+        "text": "Extreme close-up of the Lord's mouth and calculating eyes as he pronounces the lethal word.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Deadly, Resolute):",
+        "start": 124.5,
+        "end": 126.5,
+        "text": "\"That is witchcraft.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Crying Out, Desperate):",
+        "start": 126.8,
+        "end": 131.5,
+        "text": "\"No! She saved Toby! She made him breathe again!\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 126.8,
+        "end": 131.8,
+        "text": "Medium two-shot as the maid steps forward, pleading passionately against his chest.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 131.8,
+        "end": 134.5,
+        "text": "Close-up of the Lord calmly watching her futile resistance.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Cold, Final):",
+        "start": 132.0,
+        "end": 134.0,
+        "text": "\"That will be your testimony.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Gasping, Shocked):",
+        "start": 134.5,
+        "end": 137.0,
+        "text": "\"My testimony?!\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 134.5,
+        "end": 137.8,
+        "text": "Close-up of the maid's face frozen in horrified realization.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 137.8,
+        "end": 140.5,
+        "text": "Close-up of the Lord delivering the ultimatum without blinking.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Unyielding):",
+        "start": 138.0,
+        "end": 140.0,
+        "text": "\"Before the magistrate.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Wailing, Tormented):",
+        "start": 140.5,
+        "end": 144.0,
+        "text": "\"I never said she was a witch!\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 140.5,
+        "end": 144.8,
+        "text": "Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 144.8,
+        "end": 149.2,
+        "text": "Medium tracking shot of the Lord turning his back and walking back behind his desk.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Chillingly Detached):",
+        "start": 145.0,
+        "end": 146.5,
+        "text": "\"You do not need to.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Chillingly Detached):",
+        "start": 146.8,
+        "end": 149.0,
+        "text": "\"I have already written the story for you.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 149.2,
+        "end": 152.2,
+        "text": "Close-up of the maid clutching her cheeks, crying in heartbreak.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Sobbing):",
+        "start": 149.5,
+        "end": 152.0,
+        "text": "\"She saved my brother...\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 152.2,
+        "end": 156.2,
+        "text": "Close-up of the Lord turning back, resting one hand upon the desk with cold finality.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Inexorable):",
+        "start": 152.5,
+        "end": 156.0,
+        "text": "\"And now... you will save your brother.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 156.2,
+        "end": 159.5,
+        "text": "The maid's knees buckle completely. She collapses forward onto the polished dark wood floor, groveling in total despair.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 156.2,
+        "end": 159.5,
+        "text": "High angle looking down as the maid falls prostrate on the floor.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "MAID (Weeping, Broken):",
+        "start": 159.0,
+        "end": 161.5,
+        "text": "\"I am sorry, Lady Juliana...\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 159.5,
+        "end": 163.8,
+        "text": "Low-angle shot of the Lord looking down dismissively at the prostrate maid.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "LORD (Cold, Merciless):",
+        "start": 161.8,
+        "end": 164.5,
+        "text": "\"Save your tears for the trial.\"",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 163.8,
+        "end": 174.04,
+        "text": "Side medium shot of the maid kneeling crumpled on the floor in the dimly lit study, her face buried in both hands, weeping uncontrollably as the scene slowly fades into the dark silence.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 164.5,
+        "end": 174.04,
+        "text": "The heartbroken maid weeps silently in the shadow of the desk, consumed by guilt and powerlessness.",
+        "scene": "01",
+        "scene_heading": "INT. STUDY – NIGHT"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

@@ -1,0 +1,896 @@
+{
+  "episode": {
+    "source_file": "episode-004-Episode 1671706.txt",
+    "episode": "Episode 4",
+    "logline": "Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together.",
+    "continuity_notes": "Picks up directly from Episode 3's cliffhanger where the Mysterious Bearded Man dropped to one knee before the altar, presenting a ring to Lady Juliana.",
+    "declared_duration_seconds": 151.4,
+    "last_event_seconds": 151.4,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 151.4,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 1.5,
+        "text": "Close-up of the Mysterious Bearded Man's scarred hand holding out the silver band ring.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 1.5,
+        "end": 3.2,
+        "text": "Medium close-up of Juliana, staring down in disbelief at the offered ring.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 1.5,
+        "end": 3.2,
+        "text": "Juliana's eyes widen, stunned breath catching in her throat.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 3.2,
+        "end": 5.0,
+        "text": "Medium shot of Gerald stepping forward from his pew with a smug, sneering grin.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "GERALD (Mocking, Arrogant):",
+        "start": 3.4,
+        "end": 4.9,
+        "text": "\"Look at him.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 5.0,
+        "end": 7.5,
+        "text": "Tight close-up of Gerald's venomous, self-satisfied face.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "GERALD (Scornful):",
+        "start": 5.0,
+        "end": 7.5,
+        "text": "\"A penniless nobody for a discarded bride.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 7.6,
+        "end": 10.5,
+        "text": "Medium shot of Clarissa covering her mouth with her gloved hand, bursting into cruel laughter.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 7.8,
+        "end": 9.5,
+        "text": "Clarissa giggles spitefully, lowering her gloved hand to gloat.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CLARISSA (Gleeful, Condescending):",
+        "start": 9.0,
+        "end": 10.5,
+        "text": "\"How fitting.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 10.5,
+        "end": 12.0,
+        "text": "Two-shot of Clarissa and Gerald standing proudly side-by-side in their pew as Clarissa points mocking fingers.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CLARISSA (Taunting):",
+        "start": 10.6,
+        "end": 14.2,
+        "text": "\"You have finally found a man as worthless as everyone thinks you are.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 12.0,
+        "end": 15.0,
+        "text": "Close-up of Juliana's side profile, hurt glistening in her eyes as the insult cuts deep.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 15.0,
+        "end": 17.5,
+        "text": "Medium close-up of Juliana looking up toward the high arches of the chapel, drawing inward strength.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 15.5,
+        "end": 17.5,
+        "text": "Juliana closes her eyes briefly and releases a steadying breath.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 17.5,
+        "end": 21.8,
+        "text": "Low-angle shot looking past the kneeling Mysterious Bearded Man up at Juliana.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Vulnerable, Trembling):",
+        "start": 20.0,
+        "end": 21.8,
+        "text": "\"You don't even know me.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 21.9,
+        "end": 23.4,
+        "text": "Close-up of the Mysterious Bearded Man gazing upward with unwavering earnestness.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 23.4,
+        "end": 25.8,
+        "text": "Tight close-up of Juliana's anguished face.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Conflicted, Pained):",
+        "start": 23.5,
+        "end": 25.8,
+        "text": "\"You heard what they think I am.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 25.8,
+        "end": 27.9,
+        "text": "Medium shot looking down as Juliana addresses the kneeling stranger directly.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Searching):",
+        "start": 25.9,
+        "end": 27.7,
+        "text": "\"Why would you offer me your name?\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 27.9,
+        "end": 30.5,
+        "text": "Low-angle close-up of the Mysterious Bearded Man.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Grave, Certain):",
+        "start": 28.0,
+        "end": 30.2,
+        "text": "\"Because I know what I see.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 30.5,
+        "end": 32.0,
+        "text": "Medium close-up of Juliana reacting with a mix of suspicion and wonder.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 32.0,
+        "end": 33.8,
+        "text": "Intimate tight shot framing Juliana's profile beside his dark silhouette.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Quiet, Hesitant):",
+        "start": 32.1,
+        "end": 33.7,
+        "text": "\"And what do you see?\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 33.8,
+        "end": 36.0,
+        "text": "Medium close-up of the Mysterious Bearded Man.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Firm, Sincere):",
+        "start": 34.0,
+        "end": 36.0,
+        "text": "\"A woman who was betrayed.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 36.0,
+        "end": 38.9,
+        "text": "Over-the-shoulder shot past the bearded warrior toward Gerald watching nervously from the family pew.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Resolute):",
+        "start": 36.5,
+        "end": 38.8,
+        "text": "\"Not a woman who deserves to be discarded.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 38.9,
+        "end": 41.5,
+        "text": "Low-angle medium shot of Juliana bending slightly forward, shaken by his words.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 41.5,
+        "end": 45.0,
+        "text": "Medium close-up of Juliana.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Soft, Bitter):",
+        "start": 42.0,
+        "end": 44.8,
+        "text": "\"You don't know what my family has done to me.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 45.0,
+        "end": 49.8,
+        "text": "Low-angle shot of the Mysterious Bearded Man still on one knee, framed against the stained-glass window.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Solemn):",
+        "start": 46.0,
+        "end": 48.8,
+        "text": "\"I know they have made you stand alone.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 49.8,
+        "end": 52.8,
+        "text": "Extreme close-up of the ring held in his weathered fingers, Juliana's white silk gown blurred in background.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Gentle):",
+        "start": 50.0,
+        "end": 52.5,
+        "text": "\"You don't have to stand alone now.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 52.8,
+        "end": 55.8,
+        "text": "Medium shot of Juliana, her pride flaring through her sadness.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Defiant, Dignified):",
+        "start": 53.6,
+        "end": 55.8,
+        "text": "\"If this is pity, take back your ring.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 55.8,
+        "end": 59.0,
+        "text": "Tight close-up on Juliana's face, a tear clinging to her cheek.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Fierce):",
+        "start": 56.8,
+        "end": 58.8,
+        "text": "\"I will not become anyone's charity.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 59.0,
+        "end": 62.8,
+        "text": "Medium close-up of the Mysterious Bearded Man holding her gaze directly.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Earnest):",
+        "start": 59.5,
+        "end": 62.5,
+        "text": "\"It is not pity, Lady Juliana.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 62.8,
+        "end": 65.8,
+        "text": "Intense tight close-up on his piercing blue-green eyes and facial scars.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Deep, Absolute):",
+        "start": 63.5,
+        "end": 65.5,
+        "text": "\"It is a vow.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 65.8,
+        "end": 67.5,
+        "text": "Close-up of Juliana, completely disarmed by the gravity of his promise.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (V.O.):",
+        "start": 66.0,
+        "end": 68.0,
+        "text": "\"I don't know this man.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 67.5,
+        "end": 69.5,
+        "text": "Medium shot of Lady Ashcroft, Clarissa, and Lord Ashcroft seated coldly in the family pew.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (V.O.):",
+        "start": 68.0,
+        "end": 69.6,
+        "text": "\"I don't know what waits beyond these doors.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 69.5,
+        "end": 71.8,
+        "text": "Side profile close-up of Juliana looking toward her estranged family, then turning back.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (V.O.):",
+        "start": 69.8,
+        "end": 72.0,
+        "text": "\"But he looked at me when everyone else turned away.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 71.8,
+        "end": 74.8,
+        "text": "Medium shot of Juliana facing down at him, a faint, tender smile breaking across her lips.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Resolved):",
+        "start": 72.8,
+        "end": 74.5,
+        "text": "\"Then I accept.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 74.8,
+        "end": 76.2,
+        "text": "Wide shot of the altar with the high cathedral stained glass overhead as the Priest looks on between them.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 76.2,
+        "end": 79.0,
+        "text": "Medium shot of the Mysterious Bearded Man rising smoothly to his feet before Juliana.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 76.2,
+        "end": 79.0,
+        "text": "The Mysterious Bearded Man stands tall, extending his scarred hand toward Juliana.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 79.0,
+        "end": 81.8,
+        "text": "Close-up of Juliana's slender hand resting gently into his large, weathered palm.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 79.2,
+        "end": 81.5,
+        "text": "He folds his fingers over hers, holding her hand with protective firmness.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 81.8,
+        "end": 84.0,
+        "text": "Medium close-up of the Priest holding his open liturgical book, bewildered and trembling.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "THE PRIEST (Hesitant, Anxious):",
+        "start": 82.0,
+        "end": 83.8,
+        "text": "\"My- My Lady...\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "THE PRIEST (Tentative):",
+        "start": 84.0,
+        "end": 85.8,
+        "text": "\"Are you certain?\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 84.0,
+        "end": 86.0,
+        "text": "Tight close-up of the Priest's alarmed, questioning eyes.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 86.0,
+        "end": 88.8,
+        "text": "Medium shot of Lord Ashcroft seated in his pew, gripping his cane, bowed in grim silence.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 88.8,
+        "end": 91.5,
+        "text": "Close-up profile of Juliana, her expression clear and unshakable.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Unwavering):",
+        "start": 89.8,
+        "end": 91.0,
+        "text": "\"I am.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 91.5,
+        "end": 94.8,
+        "text": "Medium close-up of the Priest swallowing hard and looking down at his book.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "THE PRIEST (Resigned, Solemn):",
+        "start": 92.0,
+        "end": 94.5,
+        "text": "\"Then... let us proceed.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 94.8,
+        "end": 97.8,
+        "text": "Close two-shot of the Mysterious Bearded Man and Juliana gazing intimately into each other's eyes.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Low, Reassuring):",
+        "start": 95.8,
+        "end": 98.0,
+        "text": "\"You need not say anything you do not mean.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 97.8,
+        "end": 100.2,
+        "text": "Close-up of Juliana smiling softly up at him.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Warm, Sincere):",
+        "start": 98.2,
+        "end": 100.0,
+        "text": "\"I truly mean it.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 100.2,
+        "end": 102.2,
+        "text": "Close-up shot of his hands sliding the silver ring over her ring finger.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 100.2,
+        "end": 102.2,
+        "text": "The Mysterious Bearded Man carefully slides the band onto Juliana's finger.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 102.2,
+        "end": 105.0,
+        "text": "Medium close-up of the Mysterious Bearded Man holding her hands tenderly.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Solemn):",
+        "start": 102.5,
+        "end": 104.2,
+        "text": "\"You have my protection.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 105.0,
+        "end": 107.8,
+        "text": "Tight shot of the warrior's face, his eyes full of devotion.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Steadfast):",
+        "start": 105.2,
+        "end": 107.0,
+        "text": "\"You have my respect.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Grave):",
+        "start": 107.8,
+        "end": 109.8,
+        "text": "\"And you have my word.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 107.8,
+        "end": 110.0,
+        "text": "Extreme close-up of his intense gaze.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 110.0,
+        "end": 112.8,
+        "text": "Medium three-shot with the Priest standing between them, raising both hands in blessing over their joined hands.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "THE PRIEST (Ceremonial):",
+        "start": 110.0,
+        "end": 113.0,
+        "text": "\"By the authority entrusted to me, I now pronounce you...\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 112.8,
+        "end": 114.8,
+        "text": "High wide establishing shot looking down from the ceiling vaults of the cathedral onto the altar.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "THE PRIEST (Off-Screen, Booming):",
+        "start": 113.0,
+        "end": 114.8,
+        "text": "\"...husband and wife!\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 114.0,
+        "end": 115.2,
+        "text": "Dramatic musical chord swelling.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 114.8,
+        "end": 116.8,
+        "text": "Medium close-up of Gerald lunging forward, pointing an enraged finger.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "GERALD (Furious, Shouting):",
+        "start": 115.0,
+        "end": 116.8,
+        "text": "\"You have thrown yourself away!\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 116.8,
+        "end": 119.0,
+        "text": "Tight close-up of Gerald, face contorted in rage.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "GERALD (Livid):",
+        "start": 117.0,
+        "end": 119.0,
+        "text": "\"For a penniless nobody!\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 119.0,
+        "end": 122.8,
+        "text": "Medium two-shot of Juliana standing tall before Gerald in the chapel aisle, her husband standing guard behind her.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Calm, Cutting):",
+        "start": 120.5,
+        "end": 122.8,
+        "text": "\"I would rather choose my own life...\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 122.8,
+        "end": 125.8,
+        "text": "Close-up of Juliana, her jaw set with unshakable pride.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Firm, Final):",
+        "start": 123.0,
+        "end": 125.5,
+        "text": "\"...than spend another moment begging for yours.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 125.8,
+        "end": 127.4,
+        "text": "Tight close-up of Gerald, eyes wide with speechless shock and wounded pride.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 126.0,
+        "end": 127.4,
+        "text": "Gerald recoils slightly, mouth agape.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 127.4,
+        "end": 131.5,
+        "text": "Wide shot of Lady Ashcroft rising abruptly from the front pew, pointing an accusatory hand toward the doors.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "LADY ASHCROFT (Imperious, Shouting):",
+        "start": 127.5,
+        "end": 131.5,
+        "text": "\"Do not bring this man anywhere near Ashcroft Manor!\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 131.5,
+        "end": 134.8,
+        "text": "Tight close-up of Lady Ashcroft, eyes blazing with cold malice.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "LADY ASHCROFT (Venomous):",
+        "start": 132.0,
+        "end": 134.5,
+        "text": "\"You are disowned!\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 134.8,
+        "end": 136.0,
+        "text": "Medium shot of Lord Ashcroft bowing his head deeply over his cane in shame.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 136.0,
+        "end": 138.8,
+        "text": "Close-up of Juliana. Tears brim in her eyes at the formal rejection, but she does not break.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 138.8,
+        "end": 140.8,
+        "text": "Medium two-shot as the Mysterious Bearded Man turns gently to Juliana, reaching his hand out once more.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "MYSTERIOUS BEARDED MAN (Soft, Protective):",
+        "start": 139.5,
+        "end": 140.8,
+        "text": "\"Come, Lady Juliana.\"",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 140.8,
+        "end": 142.8,
+        "text": "Close-up of Juliana placing her hand securely into his, gripping his scarred hand.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 142.8,
+        "end": 144.8,
+        "text": "Wide tracking shot behind Juliana and the warrior as they begin walking down the central aisle toward the chapel doors.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 144.8,
+        "end": 146.5,
+        "text": "Medium three-shot of Gerald, Clarissa, and Lady Ashcroft watching in stunned silence and disbelief.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 145.0,
+        "end": 146.5,
+        "text": "Clarissa gapes in shock while Lady Ashcroft exhales in exasperation.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 146.5,
+        "end": 151.4,
+        "text": "Wide shot from the back of the chapel as the massive oak doors swing wide open, revealing bright daylight and the courtyard outside.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 147.0,
+        "end": 149.0,
+        "text": "Heavy oak doors creaking open, followed by a triumphant musical swell fading out into silence.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 147.5,
+        "end": 151.4,
+        "text": "Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors into the sunlight together, turning their backs on the ruined wedding as the screen fades out.",
+        "scene": "01",
+        "scene_heading": "INT. CHAPEL – CONTINUOUS"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

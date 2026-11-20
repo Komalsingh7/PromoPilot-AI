@@ -1,0 +1,616 @@
+{
+  "episode": {
+    "source_file": "episode-017-Episode 1671719.txt",
+    "episode": "Episode 17",
+    "logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth.",
+    "continuity_notes": "Picks up the morning after Episode 16's moonlit confrontation where Alexander defended Juliana and defeated Harrington's hired thugs in her medicinal garden.",
+    "declared_duration_seconds": 118.88,
+    "last_event_seconds": 118.88,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 118.88,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 3.0,
+        "text": "High angle wide shot looking down at the muddy, trampled garden. Broken wooden planters and splintered planks litter the ground as Juliana kneels amidst the ruined soil.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 0.0,
+        "end": 3.0,
+        "text": "Juliana sits on her knees in her dirt-smudged dress, her hands wrapped in clean linen bandages, sorrowfully examining the wreckage. In the distant background, Alexander paces near the perimeter fence.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 3.0,
+        "end": 7.0,
+        "text": "Close-up on Juliana's bandaged hand reaching into the dark earth of a battered planter box.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 3.0,
+        "end": 7.0,
+        "text": "Juliana gently lifts a tiny, delicate white daisy clinging to its exposed roots out of the soil, cupping it in her palm.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 7.0,
+        "end": 11.5,
+        "text": "Medium close-up tilting up to Juliana's face, bruised and tear-streaked yet filled with fragile hope.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "JULIANA (Soft, Emotional):",
+        "start": 9.3,
+        "end": 11.3,
+        "text": "\"Some of them survived.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 11.5,
+        "end": 14.0,
+        "text": "Low-angle medium shot of Alexander repairing the broken wooden fence with a heavy iron hammer.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 11.5,
+        "end": 14.0,
+        "text": "Rhythmic, heavy thuds of an iron hammer pounding into weathered wood.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 11.5,
+        "end": 14.0,
+        "text": "Alexander firmly drives nails into a fractured fence post, his brow furrowed with focused determination.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 14.0,
+        "end": 16.2,
+        "text": "Wide shot framing Juliana kneeling on the wet cobblestones in the foreground while Alexander stands by the fence behind her, lowering his hammer.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "JULIANA (Grateful, Sincere):",
+        "start": 14.3,
+        "end": 15.3,
+        "text": "\"Thank you.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 16.2,
+        "end": 18.0,
+        "text": "Close-up of Alexander turning toward her, his scarred face stoic and intense.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "ALEXANDER (Gruff, Low):",
+        "start": 16.8,
+        "end": 17.8,
+        "text": "\"For what?\"",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 18.0,
+        "end": 21.0,
+        "text": "Close-up of Juliana looking up at him with deep emotional vulnerability, her eyes shimmering with tears.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "JULIANA (Trembling, Heartfelt):",
+        "start": 18.2,
+        "end": 20.5,
+        "text": "\"For standing between me and those men.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 21.0,
+        "end": 23.5,
+        "text": "Close-up of Alexander, his piercing blue-grey eyes fixed upon her with absolute conviction.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "ALEXANDER (Unwavering, Firm):",
+        "start": 21.5,
+        "end": 23.0,
+        "text": "\"I would do it again.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 23.5,
+        "end": 25.8,
+        "text": "Close-up of Juliana, her lips parting as her voice wavers with emotion.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "JULIANA (Whispering, Awed):",
+        "start": 24.0,
+        "end": 25.7,
+        "text": "\"Even if there were ten of them?\"",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "ALEXANDER (Deep, Resolute):",
+        "start": 26.0,
+        "end": 27.7,
+        "text": "\"As long as I draw breath...\"",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 26.5,
+        "end": 30.0,
+        "text": "Tracking shot following Alexander as he strides across the muddy garden and approaches Juliana.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 28.0,
+        "end": 31.5,
+        "text": "Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "ALEXANDER (Gentle, Vowing):",
+        "start": 28.8,
+        "end": 31.0,
+        "text": "\"...no one will hurt you again.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 31.5,
+        "end": 34.5,
+        "text": "Close-up on Juliana's tear-filled face, overwhelmed by his fierce devotion.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "JULIANA (Choked Up, Pained):",
+        "start": 32.8,
+        "end": 34.2,
+        "text": "\"You cannot promise that.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 34.5,
+        "end": 36.5,
+        "text": "Extreme close-up of Alexander's intense, protective gaze locking onto hers.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "ALEXANDER (Quiet, Absolute):",
+        "start": 34.8,
+        "end": 35.8,
+        "text": "\"I just did.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 36.5,
+        "end": 39.0,
+        "text": "Close-up of their joined hands, his rugged, scarred fingers wrapping securely around her bandaged fingers.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 36.5,
+        "end": 39.0,
+        "text": "Alexander squeezes Juliana's hands reassuringly as she rests her fingertips against his skin. The scene fades to black.",
+        "scene": "01",
+        "scene_heading": "EXT. MEDICINAL GARDEN – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 39.0,
+        "end": 42.0,
+        "text": "Medium shot in the warm, flickering firelight of the stone cottage. Juliana kneels on the stone floor beside a washbasin of water while Alexander sits quietly in a chair beside the blazing hearth.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 40.0,
+        "end": 44.5,
+        "text": "Juliana wrings out a clean linen cloth from the basin and tenderly dabs at the fresh cuts and abrasions on the back of Alexander's right hand.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 42.0,
+        "end": 45.0,
+        "text": "Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "JULIANA (Tender, Reproachful):",
+        "start": 42.8,
+        "end": 44.7,
+        "text": "\"You were bleeding last night.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 45.0,
+        "end": 48.5,
+        "text": "Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "ALEXANDER (Quiet, Fond):",
+        "start": 46.0,
+        "end": 47.3,
+        "text": "\"So were you.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 48.5,
+        "end": 51.5,
+        "text": "Close-up of Juliana looking up into his eyes, a faint, tender smile gracing her lips.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "JULIANA (Softly Teasing):",
+        "start": 49.0,
+        "end": 51.5,
+        "text": "\"You make it very difficult to argue with you.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 51.5,
+        "end": 54.0,
+        "text": "Close-up of Alexander ducking his chin, a subtle, bashful smile fleetingly touching his scarred face.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 53.5,
+        "end": 56.0,
+        "text": "Juliana returns the damp cloth to the ceramic basin, her expression turning somber and reflective.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 54.0,
+        "end": 58.5,
+        "text": "Medium close-up of Juliana looking up at him, her vulnerability resurfacing in the warm amber glow.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "JULIANA (Vulnerable, Sincere):",
+        "start": 56.5,
+        "end": 58.0,
+        "text": "\"I was frightened.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 58.5,
+        "end": 60.5,
+        "text": "Close-up of Alexander, his brow furrowing with sudden concern.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "ALEXANDER (Questioning):",
+        "start": 58.8,
+        "end": 59.8,
+        "text": "\"Of them?\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 60.5,
+        "end": 63.5,
+        "text": "Close-up of Juliana gazing directly into his eyes, her heart laid bare.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "JULIANA (Whispering, Earnest):",
+        "start": 60.8,
+        "end": 62.2,
+        "text": "\"Of losing you.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 63.5,
+        "end": 66.0,
+        "text": "Close-up of Alexander visibly moved, his gaze softening with profound emotion.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 66.0,
+        "end": 73.5,
+        "text": "Medium shot as Alexander stands and pulls Juliana gently to her feet against his broad chest.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 66.0,
+        "end": 73.5,
+        "text": "Juliana rests her cheek against Alexander's chest, closing her eyes as his strong arms wrap around her shoulders, holding her safe against his frame.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 73.5,
+        "end": 78.0,
+        "text": "Close-up on their faces nestled together in the firelight, Alexander resting his bearded chin against her hair.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 77.0,
+        "end": 81.0,
+        "text": "Juliana nestles deeper into his coat, listening intently to the rapid thudding beneath his chest.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "JULIANA (Soft, Playful):",
+        "start": 78.5,
+        "end": 80.0,
+        "text": "\"Your heart is racing.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 80.5,
+        "end": 83.5,
+        "text": "Close-up of Alexander tilting his head down toward her, a tender smile breaking through his rugged beard.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "ALEXANDER (Warm, Whispering):",
+        "start": 81.2,
+        "end": 82.5,
+        "text": "\"So is yours.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 83.5,
+        "end": 87.5,
+        "text": "Medium shot framing the couple embraced in front of the roaring, glowing fireplace.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 86.5,
+        "end": 90.0,
+        "text": "Juliana slowly raises her hand, gently twirling a lock of Alexander's long, unruly dark hair between her fingers.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 87.5,
+        "end": 90.0,
+        "text": "Close-up of her delicate fingers running through his thick strands of hair.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "JULIANA (Lighthearted, Teasing):",
+        "start": 88.0,
+        "end": 89.8,
+        "text": "\"This is becoming impossible.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 90.0,
+        "end": 93.0,
+        "text": "Close-up of Juliana beaming up at him with affectionate humor.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "JULIANA (Smiling):",
+        "start": 90.4,
+        "end": 92.5,
+        "text": "\"Soon birds will start nesting in it.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 93.0,
+        "end": 96.0,
+        "text": "Close-up of Alexander regarding her with a subtle, affectionate smirk.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "ALEXANDER (Dry, Amused):",
+        "start": 93.5,
+        "end": 95.2,
+        "text": "\"They have not complained yet.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 95.5,
+        "end": 97.0,
+        "text": "Juliana lets out a quiet, melodic laugh.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 96.0,
+        "end": 100.0,
+        "text": "Medium close-up as Juliana lifts her bandaged hand toward his beard playfully.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "JULIANA (Charming, Tender):",
+        "start": 96.5,
+        "end": 99.2,
+        "text": "\"Then I shall have to save you from the birds.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 99.5,
+        "end": 102.5,
+        "text": "Alexander gently catches her wrist mid-air, holding her hand firmly against his chest while looking into her eyes with solemn sincerity.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "ALEXANDER (Solemn, Gentle):",
+        "start": 100.3,
+        "end": 101.5,
+        "text": "\"Not yet.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 102.5,
+        "end": 105.0,
+        "text": "Close-up of Juliana looking up at him, her eyes shining with quiet patience and understanding.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "JULIANA (Sweet, Reassuring):",
+        "start": 103.0,
+        "end": 104.2,
+        "text": "\"Then I will wait.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 105.0,
+        "end": 108.0,
+        "text": "Medium close-up of Alexander releasing a quiet breath of gratitude, pulling her closer against his shoulder.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 107.0,
+        "end": 114.0,
+        "text": "Juliana rests her head against Alexander's collarbone once more, wrapping both arms around him as he cradles her head in his palm.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 108.0,
+        "end": 112.0,
+        "text": "Close-up of Juliana's peaceful face resting against Alexander's rugged chest.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "JULIANA (V.O.) (Reflective, Resonant):",
+        "start": 108.3,
+        "end": 111.5,
+        "text": "\"I know almost nothing about the man I married.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 112.0,
+        "end": 118.88,
+        "text": "Slow pull-back wide shot of Alexander and Juliana locked in a tender, enduring embrace before the radiant, roaring hearth as the fire crackles peacefully.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "JULIANA (V.O.) (Deeply Moved, Loving):",
+        "start": 112.2,
+        "end": 116.0,
+        "text": "\"But every day, he gives me another reason to trust him.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 114.0,
+        "end": 118.88,
+        "text": "Warm crackle of embers in the hearth blending with swelling, tender orchestral strings holding into the fade-out.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE HEARTH – NIGHT"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

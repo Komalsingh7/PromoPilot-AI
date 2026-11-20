@@ -1,0 +1,641 @@
+{
+  "episode": {
+    "source_file": "episode-019-Episode 1671721.txt",
+    "episode": "Episode 19",
+    "logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat.",
+    "continuity_notes": "Picks up directly from Episode 18's devastating fire; Juliana and Alexander stand amidst the morning ruins of Blackwood cottage with her mother's surviving herbal book before retreating to an abandoned barn.",
+    "declared_duration_seconds": 119.63,
+    "last_event_seconds": 119.63,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 119.63,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 4.5,
+        "text": "Full shot of Juliana and Alexander standing side by side amidst the charred, smoldering wreckage of their destroyed cottage, thick smoke rising behind them into the overcast sky.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 0.0,
+        "end": 4.5,
+        "text": "Juliana clutches her mother's scorched leather-bound herbal book against her chest, her face streaked with soot as she stares at the ruin in disbelief.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "JULIANA (Sorrowful, Hollow):",
+        "start": 1.8,
+        "end": 3.5,
+        "text": "\"This was our home.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 4.5,
+        "end": 9.5,
+        "text": "Close-up of the blackened, heat-damaged leather ledger held in Juliana's linen-bandaged hands.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "JULIANA (Emotional, Fragile):",
+        "start": 5.1,
+        "end": 8.2,
+        "text": "\"My mother's book almost burned with it.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 6.5,
+        "end": 9.2,
+        "text": "Juliana tenderly lifts a scorched corner of parchment, revealing the surviving botanical drawing of medicinal herbs inside.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 9.5,
+        "end": 11.8,
+        "text": "Medium shot of Alexander looking down at Juliana with quiet, stoic concern.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 11.8,
+        "end": 15.5,
+        "text": "Medium shot of three villagers approaching through the burnt clearing: an elder villager carrying folded wool blankets, followed by a man and woman holding loaves of baked bread.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "ELDER VILLAGER (Respectful, Sincere):",
+        "start": 12.1,
+        "end": 15.2,
+        "text": "\"My lady. You cannot stay here.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 15.5,
+        "end": 18.5,
+        "text": "Close-up of Juliana's tearful, soot-stained face as she listens.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "ELDER VILLAGER (O.S.):",
+        "start": 16.1,
+        "end": 19.0,
+        "text": "\"There is an old barn near the village. It is empty.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 18.5,
+        "end": 20.5,
+        "text": "The elder villager steps closer, resting a gentle, reassuring hand on Juliana's shoulder.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "ELDER VILLAGER (Gentle, Earnest):",
+        "start": 19.4,
+        "end": 20.4,
+        "text": "\"Take it.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "JULIANA (Hesitant, Humble):",
+        "start": 20.6,
+        "end": 22.6,
+        "text": "\"We cannot ask the village to feed us.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "ELDER VILLAGER (Warm, Grateful):",
+        "start": 23.2,
+        "end": 25.2,
+        "text": "\"You saved my son's life.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 25.8,
+        "end": 28.2,
+        "text": "Close-up of the elder villager's rough, weathered hands offering a fresh loaf of artisan bread wrapped in cloth against the smoking timber ruins.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "ELDER VILLAGER (O.S.):",
+        "start": 26.4,
+        "end": 27.8,
+        "text": "\"You saved mine, too.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 28.2,
+        "end": 30.8,
+        "text": "Close-up of Juliana, tears spilling down her cheeks as she smiles through her grief.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "JULIANA (Whispering, Tearful):",
+        "start": 28.5,
+        "end": 29.8,
+        "text": "\"Thank you.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 30.8,
+        "end": 34.5,
+        "text": "Alexander steps forward and accepts the thick folded blankets and a wooden bucket from the villager.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "ALEXANDER (Deep, Solemn):",
+        "start": 31.2,
+        "end": 33.2,
+        "text": "\"We will not forget this kindness.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "ELDER VILLAGER (Nodding, Earnest):",
+        "start": 33.3,
+        "end": 34.8,
+        "text": "\"Neither will the village.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 34.8,
+        "end": 38.2,
+        "text": "Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "JULIANA (Choked Up, Mournful):",
+        "start": 35.5,
+        "end": 37.4,
+        "text": "\"Goodbye, Blackwood.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 38.0,
+        "end": 41.5,
+        "text": "Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKWOOD COTTAGE RUINS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 41.5,
+        "end": 44.2,
+        "text": "Medium shot tracking Alexander from behind as he stands waiting beside a moss-covered ancient tree trunk in the dense, fog-laden forest.",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 43.0,
+        "end": 46.0,
+        "text": "A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference.",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "INFORMANT (Subservient, Urgent):",
+        "start": 44.3,
+        "end": 45.8,
+        "text": "\"Your Grace.\"",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 46.0,
+        "end": 49.2,
+        "text": "Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority.",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "ALEXANDER (Authoritative, Direct):",
+        "start": 47.1,
+        "end": 49.2,
+        "text": "\"Tell me what is happening in Ashburg.\"",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "INFORMANT (Grave, Cautious):",
+        "start": 49.5,
+        "end": 54.8,
+        "text": "\"Lord Sterling's influence has grown since your disappearance. He has men in the county offices, the courts, even among the household staff.\"",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "INFORMANT (O.S.):",
+        "start": 55.3,
+        "end": 61.3,
+        "text": "\"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\"",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 55.3,
+        "end": 61.4,
+        "text": "Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens.",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 61.4,
+        "end": 64.8,
+        "text": "Medium shot of the bald informant standing among the towering trees, reporting solemnly.",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "INFORMANT (Earnest):",
+        "start": 61.6,
+        "end": 64.8,
+        "text": "\"And Lady Catherine, she behaves as though she is already the future duchess.\"",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 64.8,
+        "end": 70.6,
+        "text": "Close-up of the informant, his voice dropping into urgent, discreet concern.",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "INFORMANT (Whispering, Alarmed):",
+        "start": 65.1,
+        "end": 70.5,
+        "text": "\"But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned.\"",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 70.6,
+        "end": 73.3,
+        "text": "Extreme close-up of Alexander's right hand clenching into a powerful, trembling fist at his coat seam, veins bulging with restrained violence.",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "INFORMANT (O.S.):",
+        "start": 70.9,
+        "end": 73.2,
+        "text": "\"There are almost no loyal servants left around her.\"",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 73.3,
+        "end": 76.2,
+        "text": "Low-angle shot past Alexander toward the informant.",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "INFORMANT (Grave):",
+        "start": 73.5,
+        "end": 76.4,
+        "text": "\"The people who served your family for years have been dismissed, frightened away, or replaced.\"",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 76.2,
+        "end": 78.8,
+        "text": "Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish.",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "ALEXANDER (Cold, Pained Fury):",
+        "start": 76.5,
+        "end": 78.8,
+        "text": "\"My mother is a prisoner in her own house.\"",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 78.8,
+        "end": 81.2,
+        "text": "Close-up of the informant looking steadily at Alexander.",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "INFORMANT (Quiet, Solemn):",
+        "start": 79.0,
+        "end": 81.0,
+        "text": "\"And everyone believes you are dead.\"",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 81.2,
+        "end": 83.8,
+        "text": "Extreme close-up of Alexander's scarred eye and grimly set mouth.",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "ALEXANDER (Lethal, Calculating):",
+        "start": 81.5,
+        "end": 83.7,
+        "text": "\"Then let them believe it a little longer.\"",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "INFORMANT (Inquiring, Tense):",
+        "start": 84.0,
+        "end": 85.5,
+        "text": "\"And when we have the proof?\"",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 85.5,
+        "end": 89.5,
+        "text": "Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog.",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "ALEXANDER (Vow of Vengeance, Resolute):",
+        "start": 85.9,
+        "end": 88.9,
+        "text": "\"Then Ashburg will remember who it belongs to.\"",
+        "scene": "02",
+        "scene_heading": "EXT. MISTY DEEP WOODS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 89.5,
+        "end": 94.0,
+        "text": "Wide atmospheric shot of the shadowy barn loft. Moonlight filters through vertical wooden slats, illuminating Juliana seated on a pile of straw beside a warm, glowing kerosene lantern.",
+        "scene": "03",
+        "scene_heading": "INT. ABANDONED BARN – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 94.0,
+        "end": 96.8,
+        "text": "Over-the-shoulder close-up of Juliana's bandaged hands tracing the detailed botanical drawing on the charred page of her mother's herbal.",
+        "scene": "03",
+        "scene_heading": "INT. ABANDONED BARN – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 96.8,
+        "end": 97.8,
+        "text": "Close-up of Juliana's face, silent tears streaming down her soot-smudged cheeks as her chin quivers.",
+        "scene": "03",
+        "scene_heading": "INT. ABANDONED BARN – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 97.2,
+        "end": 100.0,
+        "text": "The heavy wooden barn doors creak open. Alexander steps into the lantern light, carrying a bundle of firewood and a thick blanket under his arm.",
+        "scene": "03",
+        "scene_heading": "INT. ABANDONED BARN – NIGHT"
+      },
+      {
+        "label": "JULIANA (O.S.):",
+        "start": 97.4,
+        "end": 99.4,
+        "text": "\"We have lost everything.\"",
+        "scene": "03",
+        "scene_heading": "INT. ABANDONED BARN – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 99.9,
+        "end": 103.0,
+        "text": "Medium shot of Juliana breaking down in tears over her open book, struggling to breathe through her weeping.",
+        "scene": "03",
+        "scene_heading": "INT. ABANDONED BARN – NIGHT"
+      },
+      {
+        "label": "JULIANA (Despairing, Broken):",
+        "start": 100.4,
+        "end": 102.6,
+        "text": "\"I don't know what we will do tomorrow.\"",
+        "scene": "03",
+        "scene_heading": "INT. ABANDONED BARN – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 103.0,
+        "end": 106.0,
+        "text": "Alexander steps up behind her and gently drapes the thick woolen blanket over her trembling shoulders, resting his hands reassuringly on her.",
+        "scene": "03",
+        "scene_heading": "INT. ABANDONED BARN – NIGHT"
+      },
+      {
+        "label": "ALEXANDER (Soft, Steadfast):",
+        "start": 104.2,
+        "end": 106.2,
+        "text": "\"Tomorrow, we begin again.\"",
+        "scene": "03",
+        "scene_heading": "INT. ABANDONED BARN – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 106.0,
+        "end": 109.8,
+        "text": "Close-up of Juliana turning her tear-drenched eyes up toward Alexander, her face filled with longing and newfound hope.",
+        "scene": "03",
+        "scene_heading": "INT. ABANDONED BARN – NIGHT"
+      },
+      {
+        "label": "JULIANA (Faint Smile, Emotional):",
+        "start": 107.3,
+        "end": 109.2,
+        "text": "\"You make it sound so simple.\"",
+        "scene": "03",
+        "scene_heading": "INT. ABANDONED BARN – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 109.8,
+        "end": 112.5,
+        "text": "Alexander sits down beside her in the straw. Juliana leans gently against his shoulder, letting her weary head rest against his broad chest.",
+        "scene": "03",
+        "scene_heading": "INT. ABANDONED BARN – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 112.5,
+        "end": 119.63,
+        "text": "Slow cinematic push-in on the couple nestled together in the warm lantern glow. Alexander wraps his arm firmly around Juliana as she closes her eyes in exhausted relief, while his piercing gaze stares resolutely into the darkness, determined to reclaim everything that was stolen.",
+        "scene": "03",
+        "scene_heading": "INT. ABANDONED BARN – NIGHT"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": [
+    {
+      "episode": "Episode 19",
+      "segments": [
+        {
+          "start": "00:15.50",
+          "end": "01:01.30"
+        }
+      ],
+      "duration_seconds": 45.8,
+      "hook": "Medium shot of three villagers approaching through the burnt clearing: an elder villager carrying folded wool blankets, followed by a man and woman holding loaves of baked bread.",
+      "cliffhanger": "\"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\"",
+      "why_it_works": "Opens on \"Medium shot of three villagers approaching through the burnt clearing: an elder villager carrying folded wool blankets, followed by a man and woman holding loaves of baked bread.\", builds through \"Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly.\", and cuts on \"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.52,
+      "score_breakdown": {
+        "hook": 1.5,
+        "cliffhanger": 1.8,
+        "context": 4.0,
+        "coherence": 5.0,
+        "emotional_intensity": 1.2,
+        "arc_completeness": 1.42,
+        "duration_suitability": 4.89
+      },
+      "evidence_excerpt": "Hook (00:15.50): CAMERA: Medium shot of three villagers approaching through the burnt clearing: an elder villager carrying folded wool blankets, followed by a man and woman holding loaves of baked bread. | Build (00:34.80): CAMERA: Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly. | Build context (00:33.30): ELDER VILLAGER (Nodding, Earnest): \"Neither will the village.\" | Payoff (00:55.30): INFORMANT (O.S.): \"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\" | Payoff context (00:55.30): CAMERA: Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    },
+    {
+      "episode": "Episode 19",
+      "segments": [
+        {
+          "start": "00:35.50",
+          "end": "01:28.90"
+        }
+      ],
+      "duration_seconds": 53.4,
+      "hook": "Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black.",
+      "cliffhanger": "\"Then Ashburg will remember who it belongs to.\"",
+      "why_it_works": "Opens on \"Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene f\", builds through \"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\", and cuts on \"Then Ashburg will remember who it belongs to.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.47,
+      "score_breakdown": {
+        "hook": 1.5,
+        "cliffhanger": 1.8,
+        "context": 4.0,
+        "coherence": 5.0,
+        "emotional_intensity": 1.2,
+        "arc_completeness": 1.48,
+        "duration_suitability": 3.88
+      },
+      "evidence_excerpt": "Hook (00:38.00): ACTION: Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black. | Hook context (00:35.50): JULIANA (Choked Up, Mournful): \"Goodbye, Blackwood.\" | Build (00:55.30): INFORMANT (O.S.): \"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\" | Build context (00:55.30): CAMERA: Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens. | Payoff (01:25.90): ALEXANDER (Vow of Vengeance, Resolute): \"Then Ashburg will remember who it belongs to.\" | Payoff context (01:25.50): CAMERA: Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    },
+    {
+      "episode": "Episode 19",
+      "segments": [
+        {
+          "start": "00:47.10",
+          "end": "01:37.80"
+        }
+      ],
+      "duration_seconds": 50.7,
+      "hook": "Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority.",
+      "cliffhanger": "\"Then Ashburg will remember who it belongs to.\"",
+      "why_it_works": "Opens on \"Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority.\", builds through \"And when we have the proof?\", and cuts on \"Then Ashburg will remember who it belongs to.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.43,
+      "score_breakdown": {
+        "hook": 1.5,
+        "cliffhanger": 1.8,
+        "context": 4.0,
+        "coherence": 5.0,
+        "emotional_intensity": 0.7,
+        "arc_completeness": 1.47,
+        "duration_suitability": 4.24
+      },
+      "evidence_excerpt": "Hook (00:47.10): CAMERA: Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority. | Hook context (00:47.10): ALEXANDER (Authoritative, Direct): \"Tell me what is happening in Ashburg.\" | Build (01:24.00): INFORMANT (Inquiring, Tense): \"And when we have the proof?\" | Build context (01:21.20): CAMERA: Extreme close-up of Alexander's scarred eye and grimly set mouth. | Payoff (01:25.90): ALEXANDER (Vow of Vengeance, Resolute): \"Then Ashburg will remember who it belongs to.\" | Payoff context (01:25.50): CAMERA: Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    },
+    {
+      "episode": "Episode 19",
+      "segments": [
+        {
+          "start": "00:35.50",
+          "end": "01:10.50"
+        }
+      ],
+      "duration_seconds": 35.0,
+      "hook": "Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black.",
+      "cliffhanger": "\"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\"",
+      "why_it_works": "Opens on \"Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene f\", builds through \"Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority.\", and cuts on \"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.43,
+      "score_breakdown": {
+        "hook": 1.5,
+        "cliffhanger": 1.8,
+        "context": 4.0,
+        "coherence": 5.0,
+        "emotional_intensity": 1.2,
+        "arc_completeness": 1.28,
+        "duration_suitability": 3.67
+      },
+      "evidence_excerpt": "Hook (00:38.00): ACTION: Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black. | Hook context (00:35.50): JULIANA (Choked Up, Mournful): \"Goodbye, Blackwood.\" | Build (00:46.00): CAMERA: Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority. | Build context (00:44.30): INFORMANT (Subservient, Urgent): \"Your Grace.\" | Payoff (00:55.30): INFORMANT (O.S.): \"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\" | Payoff context (00:55.30): CAMERA: Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    }
+  ]
+}

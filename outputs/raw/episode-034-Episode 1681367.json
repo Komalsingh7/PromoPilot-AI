@@ -1,0 +1,944 @@
+{
+  "episode": {
+    "source_file": "episode-034-Episode 1681367.txt",
+    "episode": "Episode 34",
+    "logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her.",
+    "continuity_notes": "Following the aristocratic Lord's ruthless extortion of the young maid in his study, Episode 34 transitions directly into the crowded courtroom trial where the conspirators unleash their manufactured charges and false witnesses against Lady Juliana.",
+    "declared_duration_seconds": 190.0,
+    "last_event_seconds": 190.0,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 190.0,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 2.8,
+        "text": "High wide establishing shot from behind the presiding judge looking down into the grand, sunlit courtroom filled with stern spectators, armed bailiffs, and Lady Juliana standing confined in the wooden prisoner's dock on the left.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Booming, Authoritative):",
+        "start": 1.2,
+        "end": 7.8,
+        "text": "\"Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 2.8,
+        "end": 7.8,
+        "text": "Medium close-up of the stern, elderly Judge seated at the high mahogany bench, resting both hands on the court documents.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 7.8,
+        "end": 13.1,
+        "text": "Close-up of the charred, ancient botanical grimoire resting on the bench, its scorched pages open to an illustration of a wild rose, as a finger firmly taps the text.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 9.0,
+        "end": 11.2,
+        "text": "[A firm, hollow tap of a finger striking the parchment]",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (O.S.) (Inquisitive, Severe):",
+        "start": 9.1,
+        "end": 12.6,
+        "text": "\"Do you deny possessing this book?\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 13.1,
+        "end": 15.5,
+        "text": "Low-angle medium close-up of Lady Juliana standing erect in the dock, her prisoner label pinned to her rustic buttoned gown, her expression resolute.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Calm, Unflinching):",
+        "start": 13.8,
+        "end": 14.8,
+        "text": "\"No.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 15.5,
+        "end": 19.4,
+        "text": "Low-angle medium shot of the Judge leaning over his elevated bench, staring down critically.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Stern, Accusatory):",
+        "start": 15.6,
+        "end": 19.2,
+        "text": "\"Do you deny using its remedies?\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 19.4,
+        "end": 23.8,
+        "text": "Tight close-up of Lady Juliana's face, bruised cheekbone highlighting her calm defiance.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Firm):",
+        "start": 20.8,
+        "end": 21.8,
+        "text": "\"No.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 23.8,
+        "end": 27.4,
+        "text": "Medium shot of the aristocratic Lord standing at the railing in his tailored dark coat, turning slowly with a smirk of malicious satisfaction.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 27.4,
+        "end": 31.7,
+        "text": "Close-up of the Judge leaning forward across his bench, eyes narrowing with grim conviction.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Hard, Pressing):",
+        "start": 27.5,
+        "end": 31.2,
+        "text": "\"Then you admit to practicing forbidden arts.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 31.7,
+        "end": 35.3,
+        "text": "Close-up of Lady Juliana looking upward with quiet dignity, her eyes luminous.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Proud, Dignified):",
+        "start": 33.2,
+        "end": 35.1,
+        "text": "\"I admit to healing the sick.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 35.3,
+        "end": 37.4,
+        "text": "The Judge furiously raises his wooden gavel and strikes the sound block with sharp force.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Furious, Shouting):",
+        "start": 35.4,
+        "end": 36.6,
+        "text": "\"Silence!\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 35.8,
+        "end": 37.0,
+        "text": "[Sharp, echoing crack of the gavel slamming onto wood]",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 35.8,
+        "end": 37.4,
+        "text": "Medium shot of the Judge slamming the gavel down on his bench.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 37.4,
+        "end": 42.5,
+        "text": "Tracking shot moving from the Judge on his bench as he points his outstretched arm across the courtroom floor toward the witness stand.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Commanding):",
+        "start": 37.5,
+        "end": 41.2,
+        "text": "\"Prudence. You served beside the accused?\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 41.0,
+        "end": 43.0,
+        "text": "Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in deep shame, clutching the sides of her apron.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 42.5,
+        "end": 44.8,
+        "text": "Medium close-up of Prudence looking up with tears streaming down her pale face.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "PRUDENCE (Trembling, Tearful):",
+        "start": 43.2,
+        "end": 44.6,
+        "text": "\"Yes, Your Honor.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 44.8,
+        "end": 49.0,
+        "text": "Medium close-up of the Judge leaning forward with folded hands.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Probing, Formal):",
+        "start": 45.3,
+        "end": 48.8,
+        "text": "\"Did you witness Lady Juliana perform these treatments?\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 49.0,
+        "end": 51.5,
+        "text": "Profile over-the-shoulder shot from behind Prudence toward Lady Juliana standing bound in iron cuffs at the prisoner's dock.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Softly, Urgent):",
+        "start": 49.1,
+        "end": 50.5,
+        "text": "\"Tell the truth.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 51.5,
+        "end": 54.8,
+        "text": "Close-up of Prudence breaking down in tears, squeezing her eyes shut as guilt overwhelms her.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "PRUDENCE (Sobbing, Heartbroken):",
+        "start": 53.0,
+        "end": 54.2,
+        "text": "\"Yes.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 54.8,
+        "end": 57.6,
+        "text": "Close-up of Lady Juliana looking at her former maid, a momentary flicker of hurt passing through her eyes before settling into stoic composure.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 57.6,
+        "end": 60.8,
+        "text": "Medium profile shot of the Judge recording notes in the open court ledger with a feather quill.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Measured, Stern):",
+        "start": 58.2,
+        "end": 60.1,
+        "text": "\"What did you see?\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 60.8,
+        "end": 64.6,
+        "text": "Medium close-up of Prudence clutching both hands to her chest in anguish.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "PRUDENCE (Choked with Tears):",
+        "start": 61.3,
+        "end": 64.4,
+        "text": "\"She used herbs... and her mother's book.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 64.6,
+        "end": 66.8,
+        "text": "Medium shot of the Judge leaning back slightly, pointing his hand accusingly.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Pressing, Sharp):",
+        "start": 64.8,
+        "end": 66.7,
+        "text": "\"Did she draw strange markings?\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 66.8,
+        "end": 71.8,
+        "text": "Close-up of Prudence's tear-streaked face as she hesitates, her breath hitching.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "PRUDENCE (Faltering, Desperate):",
+        "start": 68.2,
+        "end": 71.7,
+        "text": "\"She... placed herbs around my brother's bed.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 71.8,
+        "end": 75.8,
+        "text": "Medium shot of the Judge pointing an outstretched index finger with piercing intensity.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Accusatory, Forceful):",
+        "start": 72.1,
+        "end": 75.5,
+        "text": "\"And did she speak words you could not understand?\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 75.8,
+        "end": 81.0,
+        "text": "Extreme close-up of Prudence weeping uncontrollably, her face contorted in unbearable remorse.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "PRUDENCE (Weeping, Shaken):",
+        "start": 78.8,
+        "end": 80.5,
+        "text": "\"Yes.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 81.0,
+        "end": 85.2,
+        "text": "Medium tracking shot of the Lord stepping into the open aisle of the courtroom with arms spread wide, turning triumphantly toward the Judge.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LORD (Triumphant, Smug):",
+        "start": 81.3,
+        "end": 84.9,
+        "text": "\"Your Honor... the witness has confirmed the ritual.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 85.0,
+        "end": 87.2,
+        "text": "Lady Juliana slams her cuffed hands against the wooden railing of the dock, her voice ringing out in indignant fury.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Passionate, Indignant):",
+        "start": 85.2,
+        "end": 87.2,
+        "text": "\"It was not a ritual!\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 85.2,
+        "end": 87.4,
+        "text": "Low-angle medium shot of Lady Juliana gripping the railing, leaning forward.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 87.2,
+        "end": 90.2,
+        "text": "The Judge repeatedly hammers his gavel down onto the desk, roaring over her.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 87.4,
+        "end": 90.5,
+        "text": "Medium shot of the Judge striking the wooden block twice in rapid succession.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 87.8,
+        "end": 89.2,
+        "text": "[Violent, resonant double bang of the wooden gavel]",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Bellowing):",
+        "start": 87.9,
+        "end": 90.0,
+        "text": "\"You will speak when addressed!\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 90.5,
+        "end": 93.8,
+        "text": "Medium shot of the Lord extending his palm toward the gallery with theatrical composure.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LORD (Calm, Poisonous):",
+        "start": 91.0,
+        "end": 93.2,
+        "text": "\"We have further witnesses.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 93.8,
+        "end": 98.2,
+        "text": "Medium shot of an anxious townsman standing by the gallery pews, nervously wringing his woolen hat in his hands.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "TOWNSMAN (Nervous, Fearful):",
+        "start": 94.2,
+        "end": 98.0,
+        "text": "\"My wife took one of Lady Juliana's mixtures...\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 98.2,
+        "end": 99.5,
+        "text": "Close-up of the Judge glaring down expectantly.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Sharp):",
+        "start": 98.3,
+        "end": 99.1,
+        "text": "\"And?\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 99.5,
+        "end": 102.1,
+        "text": "Close-up of the townsman's face tightening with coached distress.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "TOWNSMAN (Agitated):",
+        "start": 99.8,
+        "end": 101.8,
+        "text": "\"She became violently ill.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 102.1,
+        "end": 107.3,
+        "text": "Medium shot among the spectators as an elderly peasant woman stands up from the wooden bench, pointing an accusatory finger across the courtroom.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "OLD WOMAN (Shrill, Accusatory):",
+        "start": 102.3,
+        "end": 107.0,
+        "text": "\"My daughter drank one of her herbal preparations! She was sick for three days!\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 107.3,
+        "end": 110.0,
+        "text": "Side two-shot of the Lord stepping up to the dock, looming beside Lady Juliana as she looks him in the eye.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LORD (Mocking, Smug):",
+        "start": 108.0,
+        "end": 109.8,
+        "text": "\"She calls it healing.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 110.0,
+        "end": 112.8,
+        "text": "The Lord turns dramatically to face the entire assembly, gesturing toward the spectators.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 110.0,
+        "end": 112.8,
+        "text": "Medium shot of the Lord addressing the courtroom.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LORD (Resonant, Vindicative):",
+        "start": 110.1,
+        "end": 112.6,
+        "text": "\"The people call it poisoning!\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 112.8,
+        "end": 115.2,
+        "text": "Close-up of Lady Juliana looking past him directly toward the gallery with sharp clarity.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Incisive, Defiant):",
+        "start": 113.2,
+        "end": 115.0,
+        "text": "\"What were their illnesses?\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 115.2,
+        "end": 117.2,
+        "text": "Low-angle close-up of the Lord looking down arrogantly over his shoulder.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LORD (Dismissive):",
+        "start": 115.3,
+        "end": 116.5,
+        "text": "\"Irrelevant.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 117.2,
+        "end": 119.8,
+        "text": "Close-up of Lady Juliana gritting her teeth in fierce defiance.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Fierce):",
+        "start": 117.4,
+        "end": 119.6,
+        "text": "\"It is not irrelevant!\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 119.8,
+        "end": 123.4,
+        "text": "Low-angle medium shot of Lady Juliana standing tall against the courtroom window light, her chained hands resting on the balustrade as she addresses the entire hall.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Clear, Unyielding):",
+        "start": 119.9,
+        "end": 123.2,
+        "text": "\"Herbs are not magic! They are medicine!\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 123.4,
+        "end": 126.8,
+        "text": "Medium shot of the Judge sitting with steepled fingers upon his high bench.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Coldly Inquisitive):",
+        "start": 123.6,
+        "end": 126.4,
+        "text": "\"You admit you administered them?\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 126.8,
+        "end": 129.1,
+        "text": "Close-up of Lady Juliana looking straight forward.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Direct):",
+        "start": 127.2,
+        "end": 128.2,
+        "text": "\"Yes.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 129.1,
+        "end": 131.8,
+        "text": "Medium shot of the Judge gesturing with an open hand.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Challenging):",
+        "start": 129.3,
+        "end": 131.6,
+        "text": "\"Without the approval of a licensed physician?\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 131.8,
+        "end": 134.6,
+        "text": "Medium close-up of Lady Juliana shaking her head slightly, truth ringing in her voice.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Steely, Earnest):",
+        "start": 132.1,
+        "end": 134.4,
+        "text": "\"There was no physician willing to help them.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 134.6,
+        "end": 139.2,
+        "text": "Close-up of Lady Juliana's steady gaze.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Calm, Resolute):",
+        "start": 136.2,
+        "end": 138.4,
+        "text": "\"So I helped them.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 139.2,
+        "end": 142.2,
+        "text": "Medium close-up of the Lord smiling cynically as he turns back toward the magistrate.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LORD (Derisive):",
+        "start": 139.6,
+        "end": 142.0,
+        "text": "\"Even now, she refuses to repent.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 142.2,
+        "end": 147.4,
+        "text": "Low-angle medium shot of the Judge holding his hand over the open law book.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Grave, Stern):",
+        "start": 142.4,
+        "end": 147.0,
+        "text": "\"Lady Juliana, if you wish to save yourself, renounce these practices.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 147.4,
+        "end": 148.9,
+        "text": "Close-up of the burned grimoire resting on the green leather surface of the court table.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 148.9,
+        "end": 151.2,
+        "text": "Close-up of Lady Juliana lifting her chin without an ounce of hesitation.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Unyielding):",
+        "start": 149.8,
+        "end": 150.8,
+        "text": "\"No.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 151.2,
+        "end": 154.8,
+        "text": "Medium shot of the Judge lowering his brow with dark finality.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Ominous, Warning):",
+        "start": 151.8,
+        "end": 153.8,
+        "text": "\"Think carefully.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 154.8,
+        "end": 156.8,
+        "text": "Low-angle close-up of Lady Juliana looking skyward through the arched court windows.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Firm, Resolute):",
+        "start": 155.2,
+        "end": 156.4,
+        "text": "\"I have.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 156.8,
+        "end": 162.0,
+        "text": "Medium shot of the Judge pointing an outstretched finger across the bench, his tone hardening into lethal severity.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Severe, Imposing):",
+        "start": 157.0,
+        "end": 161.8,
+        "text": "\"You understand that refusal may be treated as proof that you knowingly practiced witchcraft?\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 162.0,
+        "end": 163.6,
+        "text": "Close-up of Lady Juliana unflinchingly accepting her fate.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Proud, Fearless):",
+        "start": 162.1,
+        "end": 163.5,
+        "text": "\"Then let it be.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 163.6,
+        "end": 166.8,
+        "text": "Medium shot of Prudence breaking into shattered sobs, pressing her apron to her face to muffle her tears.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 164.0,
+        "end": 166.8,
+        "text": "Prudence buries her face in her stained white apron, shuddering with grief.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 166.8,
+        "end": 174.4,
+        "text": "Medium shot pushing into Lady Juliana's face as she speaks directly across the hall with compassionate, unwavering authority.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "LADY JULIANA (Passionate, Defiant):",
+        "start": 167.0,
+        "end": 173.6,
+        "text": "\"Do not be afraid. I will not call healing evil just because powerful people have decided to fear it.\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 174.4,
+        "end": 176.5,
+        "text": "Medium close-up profile of the Lord, his smirk instantly freezing into an irritated, malevolent scowl.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 176.5,
+        "end": 178.2,
+        "text": "The Judge furiously smashes his gavel down upon the sound block with a deafening crack.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 176.5,
+        "end": 178.2,
+        "text": "Close-up of the Judge slamming the wooden gavel down.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 176.6,
+        "end": 177.6,
+        "text": "[Violent, resonant smash of the wooden gavel]",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Thunderous):",
+        "start": 177.8,
+        "end": 179.4,
+        "text": "\"Enough!\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 179.5,
+        "end": 184.5,
+        "text": "The Judge rises to his full height behind the bench, towering over the silent court.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 179.5,
+        "end": 184.5,
+        "text": "Low-angle medium shot looking up at the imposing Judge as he stands formally to deliver the judgment.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "JUDGE (Booming, Solemn):",
+        "start": 181.0,
+        "end": 184.2,
+        "text": "\"Lady Juliana Ashcroft...\"",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 184.5,
+        "end": 190.0,
+        "text": "Over-the-shoulder shot from behind Lady Juliana in the prisoner's dock looking toward the Judge, who solemnly raises his right hand to pronounce the final sentence as the heavy silence hangs over the courtroom.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 185.0,
+        "end": 190.0,
+        "text": "The Judge extends his raised hand high in judgment over Lady Juliana as the scene holds on her standing still and unbroken before fading to black.",
+        "scene": "01",
+        "scene_heading": "INT. COURTROOM – DAY"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

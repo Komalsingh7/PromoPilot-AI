@@ -1,0 +1,592 @@
+{
+  "episode": {
+    "source_file": "episode-035-Episode 1681368.txt",
+    "episode": "Episode 35",
+    "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.",
+    "continuity_notes": "While Juliana faces trial and sentencing in the courtroom, this episode reveals Alexander's mother escaping confinement and tracking down Alexander in his mountain hideout, uncovering the dark treason that orchestrates both their fates.",
+    "declared_duration_seconds": 157.5,
+    "last_event_seconds": 157.5,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 157.5,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 5.2,
+        "text": "Medium tracking shot following an elderly hooded woman clutching an iron lantern as she stumbles anxiously through a damp subterranean stone tunnel.",
+        "scene": "01",
+        "scene_heading": "INT. STONE CORRIDOR - NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 0.0,
+        "end": 5.2,
+        "text": "Alexander's mother, frail with silver hair under a dark hooded cloak, braces her hand against the rough stone wall, panting heavily in fear.",
+        "scene": "01",
+        "scene_heading": "INT. STONE CORRIDOR - NIGHT"
+      },
+      {
+        "label": "ALEXANDER'S MOTHER (Determined, Breathless):",
+        "start": 5.5,
+        "end": 8.5,
+        "text": "\"I will not die in that house.\"",
+        "scene": "01",
+        "scene_heading": "INT. STONE CORRIDOR - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 9.0,
+        "end": 12.8,
+        "text": "Close-up on her trembling, weathered hands gripping a mossy stone bolt set into a heavy iron plate on the stone wall.",
+        "scene": "01",
+        "scene_heading": "INT. STONE CORRIDOR - NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 9.5,
+        "end": 12.8,
+        "text": "She uses all her strength to shove the stone bolt upward, disengaging the hidden lock mechanism.",
+        "scene": "01",
+        "scene_heading": "INT. STONE CORRIDOR - NIGHT"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 11.2,
+        "end": 13.0,
+        "text": "Heavy stone grating and metallic latch clanging as the lock releases.",
+        "scene": "01",
+        "scene_heading": "INT. STONE CORRIDOR - NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 13.0,
+        "end": 15.5,
+        "text": "The heavy stone doorway swings inward, and the elderly woman ducks low, crawling through the opening into the cold night outside.",
+        "scene": "01",
+        "scene_heading": "INT. STONE CORRIDOR - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 15.5,
+        "end": 19.5,
+        "text": "Wide atmospheric shot of a deep, snow-covered pine forest at night. In the distance stands a small secluded log cabin nestled under towering snowy trees.",
+        "scene": "02",
+        "scene_heading": "EXT. SNOWY FOREST / CABIN - NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 15.5,
+        "end": 19.5,
+        "text": "Alexander's mother plods through the thick snow, leaning heavily on a wooden walking stick, her dark cloak dusted with snow.",
+        "scene": "02",
+        "scene_heading": "EXT. SNOWY FOREST / CABIN - NIGHT"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 16.0,
+        "end": 19.5,
+        "text": "Howling winter wind and crunching of footsteps in deep snow.",
+        "scene": "02",
+        "scene_heading": "EXT. SNOWY FOREST / CABIN - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 19.5,
+        "end": 24.0,
+        "text": "Medium close-up of Alexander's mother arriving beside the frosted wooden door frame under sharp hanging icicles, shivering violently from the freezing cold.",
+        "scene": "02",
+        "scene_heading": "EXT. SNOWY FOREST / CABIN - NIGHT"
+      },
+      {
+        "label": "ALEXANDER'S MOTHER (Whispering, Weary):",
+        "start": 21.0,
+        "end": 23.0,
+        "text": "\"This must be the place.\"",
+        "scene": "02",
+        "scene_heading": "EXT. SNOWY FOREST / CABIN - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 24.0,
+        "end": 27.5,
+        "text": "Close-up on her wool-gloved hand unlatching the icy wooden door handle and pushing it open.",
+        "scene": "02",
+        "scene_heading": "EXT. SNOWY FOREST / CABIN - NIGHT"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 24.8,
+        "end": 27.0,
+        "text": "Creak of cold wooden hinges opening.",
+        "scene": "02",
+        "scene_heading": "EXT. SNOWY FOREST / CABIN - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 27.5,
+        "end": 30.8,
+        "text": "Panning shot from the open doorway revealing the warm, dimly lit cabin interior, settling on Alexander standing over a rustic wooden table by lantern light.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 28.5,
+        "end": 30.8,
+        "text": "Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map before snapping his head up in alarm.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 30.8,
+        "end": 33.8,
+        "text": "Medium shot of Alexander's mother stepping across the threshold, holding up her burning lantern, her eyes wide with shock.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 33.8,
+        "end": 36.5,
+        "text": "Extreme close-up on Alexander's scarred left cheek and wide, disbelieving blue eyes.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 36.5,
+        "end": 40.5,
+        "text": "Close-up on his mother's tear-streaked face as her chin trembles and tears spill down her cheeks.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER'S MOTHER (Sobbing, Stunned):",
+        "start": 37.0,
+        "end": 40.0,
+        "text": "\"Alexander!\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 40.5,
+        "end": 44.2,
+        "text": "Close-up on Alexander as his hard expression crumbles into utter astonishment.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Breathless, In Disbelief):",
+        "start": 42.5,
+        "end": 44.2,
+        "text": "\"Mother?\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 44.2,
+        "end": 47.5,
+        "text": "She drops her walking staff and rushes forward, throwing her arms around Alexander's neck. He pulls her tightly into his chest.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER'S MOTHER (Weeping, Overwhelmed):",
+        "start": 45.5,
+        "end": 48.0,
+        "text": "\"You're alive.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Gentle, Choked Up):",
+        "start": 48.0,
+        "end": 49.8,
+        "text": "\"Mother.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 50.0,
+        "end": 55.5,
+        "text": "She leans back slightly, her frail hand reaching up to gently cup his bearded, scarred cheek, staring into his eyes in disbelief.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER'S MOTHER (Tearful, Heartbroken):",
+        "start": 52.5,
+        "end": 55.0,
+        "text": "\"I buried you.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Soft, Somber):",
+        "start": 56.5,
+        "end": 58.0,
+        "text": "\"I know.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER'S MOTHER (Anguished, Accusing):",
+        "start": 59.5,
+        "end": 66.0,
+        "text": "\"They told me you died. They told me your entire regiment was destroyed.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 66.5,
+        "end": 71.0,
+        "text": "Close-up on Alexander's hardened, shadowed profile, his jaw tight with grim memories.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Dark, Resigned):",
+        "start": 68.5,
+        "end": 70.8,
+        "text": "\"Most of them were.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER'S MOTHER (Searching, Desperate):",
+        "start": 71.5,
+        "end": 74.0,
+        "text": "\"Then how did you survive?\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 74.2,
+        "end": 78.0,
+        "text": "Side profile of Alexander as his eyes look into the distance, haunted by the past.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Grim, Quiet):",
+        "start": 75.0,
+        "end": 77.5,
+        "text": "\"I wasn't supposed to.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 78.0,
+        "end": 82.5,
+        "text": "Alexander steps over to the wooden table, looking down at the parchment map spread out under the lantern.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Solemn):",
+        "start": 79.0,
+        "end": 83.0,
+        "text": "\"Three years ago, I was sent to the Iberian front.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 83.0,
+        "end": 87.0,
+        "text": "Close-up of Alexander's weathered face looking down pensively as he recounts the mission.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Steady, Focused):",
+        "start": 83.0,
+        "end": 89.0,
+        "text": "\"It was a classified Crown mission. We were investigating a British officer selling military secrets to French spies.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 87.0,
+        "end": 89.8,
+        "text": "Alexander's scarred finger points to a red-circled location on the parchment map marked near Madrid.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER'S MOTHER (Shocked):",
+        "start": 89.8,
+        "end": 91.5,
+        "text": "\"A traitor?\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 89.8,
+        "end": 92.0,
+        "text": "Close-up on his mother, gasping with wide, horrified eyes.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Cold, Firm):",
+        "start": 92.0,
+        "end": 93.2,
+        "text": "\"Yes.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 93.5,
+        "end": 97.5,
+        "text": "Medium shot framing both of them across the wooden table bathed in amber lantern glow.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Grave):",
+        "start": 94.5,
+        "end": 97.0,
+        "text": "\"We were close to finding him.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Hardened):",
+        "start": 98.5,
+        "end": 101.0,
+        "text": "\"Then came the ambush.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 101.2,
+        "end": 104.2,
+        "text": "Close-up on Alexander's scarred hand clenching into a fist, furiously crumbling the parchment map beneath his knuckles.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Bitter, Painful):",
+        "start": 101.5,
+        "end": 104.2,
+        "text": "\"My men were slaughtered.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 104.2,
+        "end": 106.5,
+        "text": "Close-up of his mother clutching at her throat, tears glistening in her eyes.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER'S MOTHER (Trembling, Anxious):",
+        "start": 104.5,
+        "end": 106.0,
+        "text": "\"And you?\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Hollow):",
+        "start": 107.0,
+        "end": 110.0,
+        "text": "\"I was shot. Left for dead.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 110.0,
+        "end": 113.5,
+        "text": "Medium shot of his mother placing both hands on the table, leaning forward in disbelief.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER'S MOTHER (Pleading, Astonished):",
+        "start": 111.0,
+        "end": 113.0,
+        "text": "\"How did you escape?\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 113.5,
+        "end": 118.0,
+        "text": "Close-up on Alexander, his eyes dark with the harrowing memory.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Somber, Low):",
+        "start": 114.0,
+        "end": 118.0,
+        "text": "\"I crawled away from the battlefield, half dead, alone.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Continuing):",
+        "start": 118.2,
+        "end": 122.0,
+        "text": "\"I survived because the men who came looking for me believed I was already dead.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 122.0,
+        "end": 125.5,
+        "text": "Close-up on his mother as her expression shifts to profound bewilderment and outrage.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER'S MOTHER (Aghast, Stunned):",
+        "start": 122.0,
+        "end": 125.5,
+        "text": "\"Then why did they never tell us?\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 125.5,
+        "end": 129.5,
+        "text": "Close-up on Alexander's intense, piercing gaze.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Ominous, Deliberate):",
+        "start": 126.0,
+        "end": 129.5,
+        "text": "\"Because someone wanted you to believe I was dead.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER'S MOTHER (Breathless):",
+        "start": 129.5,
+        "end": 130.5,
+        "text": "\"Who?\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 130.5,
+        "end": 134.0,
+        "text": "Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Brooding):",
+        "start": 131.0,
+        "end": 134.0,
+        "text": "\"I spent three years trying to find out.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 134.0,
+        "end": 136.8,
+        "text": "Alexander abruptly pushes away from the window, storming back toward the table with burning rage.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Fierce, Resolute):",
+        "start": 134.0,
+        "end": 137.0,
+        "text": "\"The ambush was not an accident.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Vehement, Enraged):",
+        "start": 137.0,
+        "end": 140.5,
+        "text": "\"Someone ordered my men to die.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 137.0,
+        "end": 144.0,
+        "text": "He leans heavily over the wooden table, looming close as his fury boils over.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Darkly Intimating):",
+        "start": 141.0,
+        "end": 144.0,
+        "text": "\"Someone wanted me erased.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER'S MOTHER (Gasping, Terrified):",
+        "start": 144.0,
+        "end": 145.0,
+        "text": "\"Who?\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 145.0,
+        "end": 150.5,
+        "text": "Tight close-up on Alexander's scarred, grim visage, his voice dropping to a deadly chill.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (Deadly, Chilling):",
+        "start": 145.5,
+        "end": 150.0,
+        "text": "\"The men behind it... are the same men ruling Ashwood now.\"",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 150.5,
+        "end": 157.5,
+        "text": "Close-up on his mother's face as the horrifying realization hits her, her mouth open in a soundless gasp of sheer dread as the scene holds and slowly fades.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 150.8,
+        "end": 157.5,
+        "text": "A sudden, ominous orchestral crescendo swells dramatically into silence.",
+        "scene": "03",
+        "scene_heading": "INT. SECLUDED CABIN - CONTINUOUS"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

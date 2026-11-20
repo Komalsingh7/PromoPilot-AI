@@ -1,0 +1,696 @@
+{
+  "episode": {
+    "source_file": "episode-011-Episode 1671713.txt",
+    "episode": "Episode 11",
+    "logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart.",
+    "continuity_notes": "Picks up immediately after the intimate moment between Juliana and Alexander in Episode 10, interrupted by the ominous arrival of an aristocratic carriage carrying Gerald.",
+    "declared_duration_seconds": 112.75,
+    "last_event_seconds": 112.75,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 112.75,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Low-angle tracking shot of heavy carriage wheels churning violently through the muddy, waterlogged track.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Squelch of mud and the grinding rattle of carriage wheels under heavy rain.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 2.0,
+        "end": 4.0,
+        "text": "Medium two-shot of Juliana and Alexander standing outside the rustic stone cottage, watching the incoming carriage with tense apprehension.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 2.0,
+        "end": 4.0,
+        "text": "Juliana wrings a damp rag in her hands, her face etched with rising dread, while Alexander stands guard beside her.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 4.0,
+        "end": 6.5,
+        "text": "Tight shot tilting up as polished black boots step down directly into the muck, revealing Gerald clad in an opulent burgundy double-breasted coat.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 5.5,
+        "end": 7.0,
+        "text": "Gerald buttons his coat, smug self-satisfaction radiating from his expression.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 7.0,
+        "end": 8.2,
+        "text": "Medium shot of a uniformed Constable descending from the carriage, firmly gripping a wooden truncheon.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 8.2,
+        "end": 10.8,
+        "text": "Medium tracking shot as Juliana steps defensively toward Gerald, her face full of shock and anger.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "JULIANA (Startled, Indignant):",
+        "start": 8.3,
+        "end": 10.7,
+        "text": "\"Gerald? What are you doing here?\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 10.8,
+        "end": 13.0,
+        "text": "Wide two-shot across the puddle-strewn ground between Gerald and Juliana against the misty landscape.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "GERALD (Arrogant, Smooth):",
+        "start": 11.1,
+        "end": 13.2,
+        "text": "\"I came for something that belongs to me.\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 13.0,
+        "end": 14.3,
+        "text": "Close-up of Clarissa peering from the carriage window in her violet silk gown, a venomous, triumphant smile curling her lips.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 14.3,
+        "end": 16.8,
+        "text": "Close-up of Juliana, her anger flaring as she gestures sharply.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "JULIANA (Furious, Defiant):",
+        "start": 14.4,
+        "end": 16.7,
+        "text": "\"You have already taken enough from me. Leave!\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 16.8,
+        "end": 18.5,
+        "text": "Medium close-up of Gerald pointing an accusatory finger, his composure snapping into hostile anger.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "GERALD (Aggressive, Snarl):",
+        "start": 16.8,
+        "end": 18.7,
+        "text": "\"Your husband stole my gold pocket watch!\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 18.5,
+        "end": 20.0,
+        "text": "Close-up of Juliana recoiling in utter disbelief.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "JULIANA (Incredulous, Gasping):",
+        "start": 19.0,
+        "end": 20.0,
+        "text": "\"What? When?\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 20.0,
+        "end": 22.0,
+        "text": "Close-up of Gerald narrowing his eyes vindictively.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "GERALD (Cold, Certain):",
+        "start": 20.9,
+        "end": 22.3,
+        "text": "\"The last time I came here.\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 22.0,
+        "end": 24.6,
+        "text": "Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "JULIANA (Contemptuous, Outraged):",
+        "start": 23.0,
+        "end": 24.8,
+        "text": "\"You never even entered the cottage!\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 24.6,
+        "end": 26.9,
+        "text": "Close-up of Gerald smirking with condescending amusement.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "GERALD (Smug, Threatening):",
+        "start": 25.2,
+        "end": 27.0,
+        "text": "\"Then you should have nothing to fear from a search.\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 26.9,
+        "end": 28.9,
+        "text": "Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "JULIANA (Adamant, Protective):",
+        "start": 27.3,
+        "end": 29.0,
+        "text": "\"Alexander would never steal from you.\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 28.9,
+        "end": 32.4,
+        "text": "Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "GERALD (Mocking, Spiteful):",
+        "start": 29.3,
+        "end": 32.8,
+        "text": "\"Of course you would defend him. You married a beggar!\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 32.4,
+        "end": 34.9,
+        "text": "Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "ALEXANDER (Low, Menacing):",
+        "start": 33.0,
+        "end": 34.9,
+        "text": "\"Choose your next words carefully.\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 34.9,
+        "end": 37.0,
+        "text": "Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "GERALD (Shouting, Dramatic):",
+        "start": 35.1,
+        "end": 37.1,
+        "text": "\"You hear that? He threatens me again!\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 37.0,
+        "end": 39.1,
+        "text": "Medium shot of the Constable marching into frame between them, holding his truncheon horizontally.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CONSTABLE (Authoritative, Stern):",
+        "start": 37.4,
+        "end": 39.2,
+        "text": "\"I have received a complaint of theft.\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 39.1,
+        "end": 41.0,
+        "text": "Extreme close-up of Juliana, defiant and resolute.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "JULIANA (Fierce):",
+        "start": 39.7,
+        "end": 41.1,
+        "text": "\"A complaint is not proof.\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 41.0,
+        "end": 43.3,
+        "text": "Close-up of the Constable gesturing with his truncheon toward the cottage door.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CONSTABLE (Cold, Procedural):",
+        "start": 41.4,
+        "end": 43.3,
+        "text": "\"Then a search will settle the matter.\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 43.3,
+        "end": 46.0,
+        "text": "Medium shot of Juliana backing up to the doorway, spreading her arms wide to block the entrance.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "JULIANA (Desperate, Shouting):",
+        "start": 43.5,
+        "end": 46.3,
+        "text": "\"You cannot simply invade our home because this man makes an accusation!\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 46.0,
+        "end": 47.8,
+        "text": "Medium close-up of Gerald crossing his arms smugly.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "GERALD (Taunting):",
+        "start": 46.8,
+        "end": 48.3,
+        "text": "\"If he has nothing to hide...\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 47.8,
+        "end": 50.8,
+        "text": "Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "GERALD (O.S.) (Smug):",
+        "start": 48.4,
+        "end": 50.0,
+        "text": "\"...let the constable search.\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "ALEXANDER (Dark, Grated):",
+        "start": 50.1,
+        "end": 51.0,
+        "text": "\"Search it.\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 50.8,
+        "end": 53.6,
+        "text": "Medium two-shot of Juliana looking up at Alexander in panicked confusion.",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "ALEXANDER (Resigned, Calm):",
+        "start": 52.8,
+        "end": 53.6,
+        "text": "\"Let them.\"",
+        "scene": "01",
+        "scene_heading": "EXT. COTTAGE GROUNDS – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 54.0,
+        "end": 56.0,
+        "text": "Medium shot looking out the doorway as Juliana steps aside and the Constable barges past into the dimly lit cottage.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 54.5,
+        "end": 56.5,
+        "text": "Heavy thud of boots entering wooden floorboards, followed by forceful banging of furniture.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 56.0,
+        "end": 58.0,
+        "text": "The Constable begins violently overturning crates and dumping contents across the floor.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 58.0,
+        "end": 60.0,
+        "text": "Medium low-angle shot of Juliana dropping to her knees, frantically trying to salvage bundles of dried herbs scattering across the boards.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Distressed, Pleading):",
+        "start": 58.0,
+        "end": 60.1,
+        "text": "\"Stop! Those are my mother's medicines!\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 60.0,
+        "end": 61.8,
+        "text": "The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 61.8,
+        "end": 63.5,
+        "text": "Low-angle close-up of Juliana crawling on the floor, looking up with tears streaming down her cheeks.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Crying, Desperate):",
+        "start": 61.8,
+        "end": 63.8,
+        "text": "\"Please! There is nothing here!\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 63.5,
+        "end": 65.5,
+        "text": "Close-up of the Constable's hands flipping open a small wooden keepsake box on a work table.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CONSTABLE (Cold, Indifferent):",
+        "start": 63.9,
+        "end": 65.7,
+        "text": "\"Then you have nothing to fear.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 65.5,
+        "end": 67.4,
+        "text": "Low-angle close-up of Juliana clutching the fallen linens to her chest, her voice breaking.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Heartbroken, Sobbing):",
+        "start": 66.0,
+        "end": 67.5,
+        "text": "\"Those are all I have left!\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 67.4,
+        "end": 71.5,
+        "text": "Medium shot of Gerald leaning casually against the cottage doorframe, looking around with contemptuous disgust.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "GERALD (Cruel, Condescending):",
+        "start": 67.5,
+        "end": 71.6,
+        "text": "\"Stand aside. Look at this place. A perfect hiding hole for a thief.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 71.5,
+        "end": 74.8,
+        "text": "Medium shot of Juliana rising to her feet, clutching the folded cloth, her face contorting with rage.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Furious, Accusatory):",
+        "start": 72.1,
+        "end": 75.0,
+        "text": "\"You planted this accusation because you cannot bear that I am happy without you!\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 74.8,
+        "end": 76.8,
+        "text": "Tight close-up of Gerald's face chilling into a cold sneer.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "GERALD (Scoffing, Sinister):",
+        "start": 75.5,
+        "end": 76.8,
+        "text": "\"Happy?\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 76.8,
+        "end": 79.5,
+        "text": "Medium shot of Alexander standing in the cottage shadows, eyes locked onto Gerald.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 79.5,
+        "end": 81.3,
+        "text": "Extreme close-up of Alexander's right hand slowly tightening into a white-knuckled fist.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 81.3,
+        "end": 84.0,
+        "text": "Low-angle close-up of Gerald tilting his chin up, daringly baiting Alexander.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "GERALD (Provoking, Smirking):",
+        "start": 81.3,
+        "end": 84.0,
+        "text": "\"What is it, soldier? Going to strike a gentleman in front of his wife?\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Whispering, Terrified):",
+        "start": 84.2,
+        "end": 85.0,
+        "text": "\"Don't!\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 85.0,
+        "end": 86.5,
+        "text": "Close-up of Juliana clutching her dress collar in acute panic.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (V.O.) (Haunted, Resolute):",
+        "start": 86.0,
+        "end": 87.5,
+        "text": "\"One blow would end this.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 86.5,
+        "end": 89.8,
+        "text": "Medium shot of the Constable stepping up behind Alexander, holding his truncheon firmly across Alexander's chest to restrain him, cutting to a tight close-up of Alexander's smoldering eyes.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "ALEXANDER (V.O.) (Pained, Selfless):",
+        "start": 88.0,
+        "end": 90.0,
+        "text": "\"But one blow would destroy her life.\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 89.8,
+        "end": 92.0,
+        "text": "Medium shot of the Constable turning to Alexander's heavy trench coat hanging on an iron wall hook by the fireplace.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 91.0,
+        "end": 92.2,
+        "text": "The Constable grabs the coat by the collar and begins rummaging through its deep pockets.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "JULIANA (Startled, Shouting):",
+        "start": 92.1,
+        "end": 93.2,
+        "text": "\"That is his coat!\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 93.2,
+        "end": 96.8,
+        "text": "Close-up of the Constable's hand sliding deep inside the inner coat lining and withdrawing a gleaming gold pocket watch with an attached chain.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 95.8,
+        "end": 97.0,
+        "text": "Metallic clinking of the gold chain sliding against fabric.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 96.8,
+        "end": 99.2,
+        "text": "Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock and shattered disbelief.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 97.2,
+        "end": 99.0,
+        "text": "Juliana draws a sharp, terrified breath as her face pales completely.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 99.2,
+        "end": 102.0,
+        "text": "Extreme close-up of Alexander's face hardening into lethal, icy comprehension, realizing the depth of the frame-up.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 102.0,
+        "end": 106.8,
+        "text": "Medium close-up push-in on Gerald's face erupting into an ecstatic, wicked grin, bursting into triumphant laughter.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "GERALD (Gloating, Victorious):",
+        "start": 104.2,
+        "end": 106.6,
+        "text": "\"There it is. Ha!\"",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 106.8,
+        "end": 112.75,
+        "text": "Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its long chain, with Gerald blurred in the background grinning with sinister triumph as the scene hangs in a devastating freeze-frame.",
+        "scene": "02",
+        "scene_heading": "INT. COTTAGE – CONTINUOUS"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

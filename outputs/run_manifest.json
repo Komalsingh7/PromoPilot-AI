@@ -1,0 +1,7 @@
+{
+  "dataset": "I Married a Broken Soldier. He Was a Duke",
+  "episodes_in_input": 50,
+  "run_mode": "offline heuristic",
+  "command": "python run_analysis.py --heuristic",
+  "note": "Outputs are generated candidates, not editor-approved selections."
+}

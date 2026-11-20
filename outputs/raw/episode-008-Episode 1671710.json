@@ -1,0 +1,520 @@
+{
+  "episode": {
+    "source_file": "episode-008-Episode 1671710.txt",
+    "episode": "Episode 8",
+    "logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.",
+    "continuity_notes": "Picks up after Episode 7, where Alexander chased off Gerald and the mocking aristocratic visitors; quiet and intimacy now return inside the woodland cottage as evening approaches.",
+    "declared_duration_seconds": 78.0,
+    "last_event_seconds": 78.0,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 78.0,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 3.2,
+        "text": "Medium close-up of Juliana seated at a rustic wooden table beside a daylight-lit window, gently touching an aged leather-bound book.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 0.0,
+        "end": 3.2,
+        "text": "Juliana delicately runs her fingertips across the embossed leather cover of the worn botanical volume, noticing its weathered state.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Gentle, Somber):",
+        "start": 0.2,
+        "end": 3.2,
+        "text": "\"Some of the pages are ruined. Careful.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 3.2,
+        "end": 5.1,
+        "text": "Close-up on Juliana's hands carefully unlatching the metal clasp on the leather book.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 3.4,
+        "end": 4.5,
+        "text": "Soft metallic click of the book clasp loosening.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 5.1,
+        "end": 7.8,
+        "text": "Medium close-up of Juliana tenderly opening the cover and turning the brittle parchment pages.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Reflective, Reverent):",
+        "start": 5.1,
+        "end": 7.8,
+        "text": "\"Mother spent years writing this.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 7.8,
+        "end": 10.5,
+        "text": "Medium shot as Alexander enters the dim room behind Juliana, quietly stepping up to the rustic table.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 8.5,
+        "end": 10.5,
+        "text": "Alexander gently sets down a fresh bundle of small white herbal flowers tied with twine beside the open book.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Curious, Recognizing):",
+        "start": 10.5,
+        "end": 11.8,
+        "text": "\"Yarrow.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 10.5,
+        "end": 11.9,
+        "text": "Low-angle medium close-up of Juliana looking up toward Alexander in pleasant surprise.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 11.9,
+        "end": 15.0,
+        "text": "Close-up of Alexander looking down at her, the firelight catching the rugged scar across his face.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "ALEXANDER (Calm, Knowledgeable):",
+        "start": 12.0,
+        "end": 14.6,
+        "text": "\"Good for wounds. Fever, too.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 15.0,
+        "end": 16.3,
+        "text": "Medium close-up of Juliana looking up at him with genuine curiosity.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Inquiring, Soft):",
+        "start": 15.1,
+        "end": 16.1,
+        "text": "\"How do you know that?\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "ALEXANDER (Somber, Matter-of-Fact):",
+        "start": 16.3,
+        "end": 18.9,
+        "text": "\"Soldiers learn quickly which plants keep a man alive.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 16.3,
+        "end": 19.3,
+        "text": "Close-up of Alexander speaking in a steady, measured tone.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 19.3,
+        "end": 21.5,
+        "text": "Insert shot of Juliana's hands gently arranging several tied bundles of dried yarrow sprigs on the tabletop.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Observant, Lightly Teasing):",
+        "start": 19.4,
+        "end": 21.8,
+        "text": "\"You know more about healing than you let on.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 21.5,
+        "end": 24.3,
+        "text": "Close-up of Alexander, bathed in warm hearth embers, offering a subtle, knowing half-smile.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "ALEXANDER (Quiet, Gritty):",
+        "start": 22.8,
+        "end": 24.2,
+        "text": "\"Enough to survive.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 24.3,
+        "end": 26.5,
+        "text": "Medium close-up of Juliana setting down a bunch of flowers and looking intently at his rugged visage.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Hesitant, Soft):",
+        "start": 25.0,
+        "end": 26.8,
+        "text": "\"Your hair and beard...\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 26.5,
+        "end": 28.1,
+        "text": "Medium shot of Alexander standing tall over her, looking down patiently.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 28.1,
+        "end": 31.9,
+        "text": "Medium two-shot as Juliana rises from her stool to stand close in front of him, reaching an affectionate hand toward his temple.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Gentle, Tender):",
+        "start": 30.1,
+        "end": 31.9,
+        "text": "\"I could trim them for you.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 31.9,
+        "end": 33.2,
+        "text": "Close-up of Alexander's large, rough hand firmly but gently catching Juliana's wrist in midair.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "ALEXANDER (Firm, Low):",
+        "start": 33.2,
+        "end": 34.5,
+        "text": "\"Not yet.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 33.2,
+        "end": 35.5,
+        "text": "Medium two-shot profile of Alexander holding her wrist, his piercing gaze locked onto hers.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 35.5,
+        "end": 37.3,
+        "text": "Close-up of Juliana looking into his eyes, her brow lightly furrowed in bemused question.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Puzzled, Curious):",
+        "start": 35.8,
+        "end": 36.9,
+        "text": "\"Not yet?\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 37.3,
+        "end": 39.6,
+        "text": "Close-up of Alexander, still maintaining his gentle hold on her arm.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "ALEXANDER (Grounded, Steady):",
+        "start": 37.7,
+        "end": 38.9,
+        "text": "\"Let them grow.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 39.6,
+        "end": 42.3,
+        "text": "Close-up of Juliana smiling with playful warmth.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Playful, Amused):",
+        "start": 39.9,
+        "end": 42.0,
+        "text": "\"You prefer looking like a forest hermit?\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 42.3,
+        "end": 44.9,
+        "text": "Intimate two-shot as Alexander slowly lowers her hand, his expression softening.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "ALEXANDER (Dry, Droll):",
+        "start": 43.7,
+        "end": 44.9,
+        "text": "\"It has advantages.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 44.9,
+        "end": 46.9,
+        "text": "Medium shot of Juliana chuckling quietly as she steps back toward the table.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Fond, Resigned):",
+        "start": 45.5,
+        "end": 46.8,
+        "text": "\"Very well.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 46.9,
+        "end": 48.0,
+        "text": "Close-up of Alexander watching her with deep, affectionate attention.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 48.0,
+        "end": 50.0,
+        "text": "Close-up of Juliana grinning with sparkling eyes.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Teasing, Determined):",
+        "start": 48.1,
+        "end": 49.6,
+        "text": "\"But one day, I am trimming that beard.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 50.0,
+        "end": 51.3,
+        "text": "Close-up of Alexander lowering his head slightly with a faint smirk.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "ALEXANDER (Low, Amused):",
+        "start": 50.1,
+        "end": 51.2,
+        "text": "\"We'll see.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 51.3,
+        "end": 53.3,
+        "text": "Medium two-shot of both sitting back down at the table together, Alexander turning a brittle page of the herb book.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "ALEXANDER (Instructional, Calm):",
+        "start": 53.3,
+        "end": 57.0,
+        "text": "\"That one grows near the northern stream. Crushed leaves ease swelling.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 53.3,
+        "end": 57.1,
+        "text": "Close-up insert of Alexander's weathered finger pointing directly at a delicate botanical illustration of a flowering stem.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 57.1,
+        "end": 59.8,
+        "text": "Wide side-profile two-shot of Juliana and Alexander seated across from each other at the rustic table, the stone fireplace roaring warmly behind them.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Soft, Nostalgic):",
+        "start": 58.7,
+        "end": 60.2,
+        "text": "\"My mother wrote the same thing.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 59.8,
+        "end": 63.0,
+        "text": "Close-up of Juliana looking across at his battle-marked features with empathy.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Hesitant, Compassionate):",
+        "start": 60.5,
+        "end": 62.8,
+        "text": "\"And the scars... were they from the war?\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 63.0,
+        "end": 64.3,
+        "text": "Close-up of Alexander looking downward, memories clouding his eyes.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "ALEXANDER (Quiet, Subdued):",
+        "start": 63.2,
+        "end": 64.2,
+        "text": "\"Some were.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 64.3,
+        "end": 66.5,
+        "text": "Close-up of Juliana, her eyes filled with gentle understanding.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Tender, Aching):",
+        "start": 64.9,
+        "end": 66.3,
+        "text": "\"It must have been terrible.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 66.5,
+        "end": 68.5,
+        "text": "Close-up of Alexander lifting his gaze, heavy with past battles.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "ALEXANDER (Heavy, Somber):",
+        "start": 66.7,
+        "end": 67.6,
+        "text": "\"It was.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 68.5,
+        "end": 70.9,
+        "text": "Medium two-shot of Juliana smiling tenderly at him across the open book.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Reflective, Vulnerable):",
+        "start": 69.0,
+        "end": 72.1,
+        "text": "\"I thought losing wealth meant losing everything.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 70.9,
+        "end": 73.2,
+        "text": "Wide shot framing the warm silhouette of the two companions sitting peacefully beside the blazing stone hearth.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "JULIANA (Quiet, Transformed):",
+        "start": 73.2,
+        "end": 75.3,
+        "text": "\"Perhaps I was wrong.\"",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 73.2,
+        "end": 78.0,
+        "text": "Extreme close-up of Juliana's radiant face illuminated by firelight, a peaceful, contented smile spreading across her lips as she looks at him until the shot gently fades out.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 75.3,
+        "end": 78.0,
+        "text": "Juliana maintains her warm, peaceful gaze across the table as soft firelight flickers over her face into fade out.",
+        "scene": "01",
+        "scene_heading": "INT. WOODLAND COTTAGE – DAY"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

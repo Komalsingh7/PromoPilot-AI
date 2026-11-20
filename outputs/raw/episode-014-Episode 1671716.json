@@ -1,0 +1,424 @@
+{
+  "episode": {
+    "source_file": "episode-014-Episode 1671716.txt",
+    "episode": "Episode 14",
+    "logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again.",
+    "continuity_notes": "Picks up immediately from Episode 13's cliffhanger where Juliana grasped the emerald ring beneath the razor-sharp blackthorns.",
+    "declared_duration_seconds": 87.63,
+    "last_event_seconds": 87.63,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 87.63,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 5.6,
+        "text": "Close-up low angle looking through dense, sharp blackthorn branches onto the cracked, frozen soil.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 0.5,
+        "end": 5.5,
+        "text": "Juliana's blood-streaked, mud-caked hand slowly uncurls amidst the thorns, revealing the ornate emerald signet ring resting in her palm.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 1.0,
+        "end": 5.5,
+        "text": "Eerie cold wind whistling over the briars with deep, atmospheric cello chords.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 5.6,
+        "end": 9.5,
+        "text": "Medium close-up of Juliana stepping out from the briar patch, her cloak torn, cheeks scratched, holding the ring outward with unwavering resolve.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "JULIANA (Exhausted, Resolute):",
+        "start": 7.7,
+        "end": 9.0,
+        "text": "\"I found it.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 9.5,
+        "end": 13.5,
+        "text": "Wide shot of Juliana holding the ring out toward the austere Police Constable standing guard beside the frozen garden.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "JULIANA (Firm, Commanding):",
+        "start": 10.5,
+        "end": 12.7,
+        "text": "\"Now release my husband.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 12.5,
+        "end": 13.5,
+        "text": "The Constable takes the ring from her bloodied fingers.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 13.5,
+        "end": 15.5,
+        "text": "Tight shot on the iron shackles locking Alexander's wrists together against the thorny backdrop.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 14.2,
+        "end": 15.4,
+        "text": "Sharp metallic click and clinking rattle of heavy iron handcuffs unlocking and falling away.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 14.5,
+        "end": 15.6,
+        "text": "The Constable unlocks the cuffs, freeing Alexander's large hands.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 15.6,
+        "end": 18.5,
+        "text": "Tracking shot as Alexander lunges forward without hesitation, rushing past the Constable straight to Juliana.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Gasping, Urgent):",
+        "start": 16.8,
+        "end": 18.0,
+        "text": "\"Juliana.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 18.5,
+        "end": 23.0,
+        "text": "Close-up on Alexander's rugged hands tenderly grasping Juliana's bloodied, lacerated hands, turning them over with immense care.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 18.8,
+        "end": 23.0,
+        "text": "Alexander gently turns her palms up, his thumbs trembling as he inspects the deep, bleeding gashes gouged into her skin.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 23.0,
+        "end": 25.5,
+        "text": "Close-up on Alexander's agonized, furious expression as he stares at her wounds.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Trembling, Heartbroken):",
+        "start": 23.1,
+        "end": 25.0,
+        "text": "\"What have they done to you?\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 25.5,
+        "end": 29.5,
+        "text": "Close-up on Juliana's pale, tear-streaked face looking back into his eyes with tender relief.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "JULIANA (Softly, Stifling Pain):",
+        "start": 26.5,
+        "end": 28.5,
+        "text": "\"Nothing they didn't promise.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 29.5,
+        "end": 32.5,
+        "text": "Medium profile two-shot of Alexander and Juliana gazing into each other's eyes amidst the cold mist.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "JULIANA (Faint, Pleading):",
+        "start": 29.8,
+        "end": 32.0,
+        "text": "\"Take me home.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 32.5,
+        "end": 38.5,
+        "text": "Low-angle medium shot as Alexander effortlessly scoops Juliana into his arms, gathering her up against his chest.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 33.2,
+        "end": 37.0,
+        "text": "Alexander lifts Juliana bridal-style, wrapping his strong arms protectively around her as she rests against his shoulder.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Deep, Sorrowful):",
+        "start": 35.8,
+        "end": 38.5,
+        "text": "\"You should never have had to bleed for me.\"",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 38.5,
+        "end": 40.5,
+        "text": "Medium tracking shot behind stone balustrades as Alexander carries Juliana past the foggy estate grounds.",
+        "scene": "01",
+        "scene_heading": "EXT. BLACKTHORN GARDEN – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 40.5,
+        "end": 43.5,
+        "text": "Wide establishing shot of the humble stone cottage standing isolated beneath dark, overcast stormy skies on a rain-slicked dirt road.",
+        "scene": "02",
+        "scene_heading": "EXT. ALEXANDER'S COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 40.5,
+        "end": 43.5,
+        "text": "Gentle patter of rain and cold wind howling in the desolate countryside.",
+        "scene": "02",
+        "scene_heading": "EXT. ALEXANDER'S COTTAGE – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 43.5,
+        "end": 47.0,
+        "text": "Warm interior wide shot in front of a roaring hearth fire. Juliana sits on a wooden chair while Alexander kneels on the floor before her, a washbasin of water between them.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 44.0,
+        "end": 47.0,
+        "text": "Alexander gently wraps clean linen bandages around Juliana's torn wrist and palm.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 44.0,
+        "end": 47.5,
+        "text": "Crackling flames and wood popping in the open fireplace.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 47.0,
+        "end": 50.5,
+        "text": "Intimate over-the-shoulder close-up looking up into Juliana's face from Alexander's perspective.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "ALEXANDER (Hoarse, Stricken):",
+        "start": 47.2,
+        "end": 49.8,
+        "text": "\"You could have lost your hands.\"",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 50.5,
+        "end": 55.5,
+        "text": "Extreme close-up on Juliana's glistening eyes and trembling lips, firelight reflecting softly across her face.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "JULIANA (Whispered, Emotional):",
+        "start": 51.8,
+        "end": 54.0,
+        "text": "\"But I didn't lose you.\"",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 55.5,
+        "end": 58.5,
+        "text": "Close-up on Alexander's scarred, weathered fingers wrapping the cloth tightly yet gently around her lacerations.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "ALEXANDER (Quiet, Tender):",
+        "start": 58.5,
+        "end": 60.0,
+        "text": "\"I'm sorry.\"",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 58.5,
+        "end": 60.5,
+        "text": "Close-up on Alexander looking up at her with profound remorse and affection.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "JULIANA (Gentle, Reassuring):",
+        "start": 60.5,
+        "end": 62.5,
+        "text": "\"You didn't hurt me.\"",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 60.5,
+        "end": 63.5,
+        "text": "Close-up on Juliana smiling faintly through her tears, shaking her head.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 63.5,
+        "end": 66.0,
+        "text": "Side profile close-up of Alexander lowering his head solemnly in front of her.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "JULIANA (Loving, Earnest):",
+        "start": 66.0,
+        "end": 67.4,
+        "text": "\"You have taken my place today.\"",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 66.0,
+        "end": 70.5,
+        "text": "Medium two-shot as Alexander gently drapes a heavy warm woolen blanket across Juliana's lap and around her shoulders.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "JULIANA (Continuing):",
+        "start": 67.5,
+        "end": 69.8,
+        "text": "\"And you are doing it better than me.\"",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 70.5,
+        "end": 76.0,
+        "text": "Medium shot as Juliana rests her cheek against Alexander's chest; he embraces her tightly against him, cradling her head under his chin.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 71.0,
+        "end": 76.0,
+        "text": "Juliana closes her eyes in exhausted relief, sinking into Alexander's warmth as his broad arm encloses her safely.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 76.0,
+        "end": 83.5,
+        "text": "Tight close-up of Alexander holding Juliana against his bearded cheek, kissing the crown of her head before gently cradling her jaw in his scarred hand.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "ALEXANDER (Dark, Solemn Vow):",
+        "start": 76.5,
+        "end": 81.0,
+        "text": "\"No one will ever hurt you for protecting me again.\"",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 81.2,
+        "end": 83.5,
+        "text": "Alexander strokes her cheek with his thumb, his gaze hardening into deadly, protective conviction.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 83.5,
+        "end": 87.63,
+        "text": "Low-angle shot focusing down on two wooden buckets on the stone floor—one filled with dark, blood-soaked wash water reflecting the fireplace.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 84.0,
+        "end": 87.0,
+        "text": "Alexander's muscular arm drops into frame beside the bloody bucket; his scarred knuckles slowly and tightly clench into an iron fist of brewing vengeance.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 84.5,
+        "end": 87.63,
+        "text": "Ominous, resonating low bass boom swelling into sudden silence as the screen cuts to black.",
+        "scene": "03",
+        "scene_heading": "INT. ALEXANDER'S COTTAGE – NIGHT"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

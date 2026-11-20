@@ -1,0 +1,1056 @@
+[
+  {
+    "episode": "Episode 18",
+    "segments": [
+      {
+        "start": "00:00.00",
+        "end": "00:39.00"
+      }
+    ],
+    "duration_seconds": 39.0,
+    "hook": "Close-up overhead shot of Juliana asleep on her pillow as her eyelids flutter open, gasping and coughing violently from the choking smoke.",
+    "cliffhanger": "\"What happened?\"",
+    "why_it_works": "Opens on \"Close-up overhead shot of Juliana asleep on her pillow as her eyelids flutter open, gasping and coughing violently from the choking smoke.\", builds through \"Juliana! Get up!\", and cuts on \"What happened?\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.89,
+    "score_breakdown": {
+      "hook": 2.15,
+      "cliffhanger": 2.6,
+      "context": 3.7,
+      "coherence": 5.0,
+      "emotional_intensity": 1.9,
+      "arc_completeness": 1.81,
+      "duration_suitability": 4.2
+    },
+    "evidence_excerpt": "Hook (00:02.10): CAMERA: Close-up overhead shot of Juliana asleep on her pillow as her eyelids flutter open, gasping and coughing violently from the choking smoke. | Build (00:20.80): ALEXANDER (Authoritative, Urgency): \"Juliana! Get up!\" | Build context (00:20.10): CAMERA: Framed in the doorway engulfed by blazing orange light, Alexander bursts in, his dark hair flying, looking like an imposing guardian amid the smoke. | Payoff (00:26.50): JULIANA (Breathless, Distressed): \"What happened?\" | Payoff context (00:24.50): ACTION: Alexander reaches the bed, hoisting Juliana up by her arms into a standing embrace.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 1
+  },
+  {
+    "episode": "Episode 26",
+    "segments": [
+      {
+        "start": "01:11.80",
+        "end": "01:55.80"
+      }
+    ],
+    "duration_seconds": 44.0,
+    "hook": "\"Then tell me... why is a girl of such noble spirit working as a common maid?\"",
+    "cliffhanger": "\"Do not move!\"",
+    "why_it_works": "Opens on \"Then tell me... why is a girl of such noble spirit working as a common maid?\", builds through \"Extreme close-up of the Dowager Duchess gasping sharply, her eyes widening in profound shock as all color drains from her face.\", and cuts on \"Do not move!\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.85,
+    "score_breakdown": {
+      "hook": 1.95,
+      "cliffhanger": 2.1,
+      "context": 3.7,
+      "coherence": 5.0,
+      "emotional_intensity": 2.4,
+      "arc_completeness": 1.91,
+      "duration_suitability": 4.87
+    },
+    "evidence_excerpt": "Hook (01:13.80): DOWAGER DUCHESS (Curious, Searching): \"Then tell me... why is a girl of such noble spirit working as a common maid?\" | Hook context (01:11.80): CAMERA: Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing. | Build (01:30.80): CAMERA: Extreme close-up of the Dowager Duchess gasping sharply, her eyes widening in profound shock as all color drains from her face. | Payoff (01:49.20): DOWAGER DUCHESS (Stern, Desperate): \"Do not move!\" | Payoff context (01:49.00): CAMERA: Tight shot of the Duchess's frail hand clamping down with fierce, unexpected strength onto Juliana's dark sleeve.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 2
+  },
+  {
+    "episode": "Episode 31",
+    "segments": [
+      {
+        "start": "01:58.20",
+        "end": "02:40.00"
+      }
+    ],
+    "duration_seconds": 41.8,
+    "hook": "\"Then why are you so desperate to make me kneel?\"",
+    "cliffhanger": "Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhanger before an abrupt cut.",
+    "why_it_works": "Opens on \"Then why are you so desperate to make me kneel?\", builds through \"Close-up of Juliana screaming out in absolute anguish.\", and cuts on \"Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhan\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.8,
+    "score_breakdown": {
+      "hook": 2.6,
+      "cliffhanger": 1.8,
+      "context": 3.7,
+      "coherence": 5.0,
+      "emotional_intensity": 1.9,
+      "arc_completeness": 1.79,
+      "duration_suitability": 4.57
+    },
+    "evidence_excerpt": "Hook (01:58.40): JULIANA (Piercing, Provocative): \"Then why are you so desperate to make me kneel?\" | Hook context (01:58.20): CAMERA: Tight close-up of Juliana's face, tilting her head with an insightful, knowing smirk. | Build (02:23.80): CAMERA: Close-up of Juliana screaming out in absolute anguish. | Build context (02:24.00): JULIANA (Screaming, Agonized): \"No!\" | Payoff (02:35.20): CAMERA: Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhanger before an abrupt cut.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 3
+  },
+  {
+    "episode": "Episode 29",
+    "segments": [
+      {
+        "start": "00:53.80",
+        "end": "01:39.50"
+      }
+    ],
+    "duration_seconds": 45.7,
+    "hook": "Close-up of Juliana screaming back in raw outrage.",
+    "cliffhanger": "The heavy iron door slams shut with a deafening metallic thud, and the massive exterior bolt grates locked.",
+    "why_it_works": "Opens on \"Close-up of Juliana screaming back in raw outrage.\", builds through \"Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror washes over her.\", and cuts on \"The heavy iron door slams shut with a deafening metallic thud, and the massive exterior bolt grates locked.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.76,
+    "score_breakdown": {
+      "hook": 2.15,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 1.9,
+      "arc_completeness": 1.68,
+      "duration_suitability": 4.91
+    },
+    "evidence_excerpt": "Hook (00:56.60): CAMERA: Close-up of Juliana screaming back in raw outrage. | Hook context (00:56.70): JULIANA (Enraged, Defiant): \"You are doing this because I saved the Duchess!\" | Build (01:29.50): ACTION: Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror washes over her. | Payoff (01:26.50): SOUND FX: The heavy iron door slams shut with a deafening metallic thud, and the massive exterior bolt grates locked. | Payoff context (01:25.70): JULIANA (Crying Out, Broken): \"Please!\"",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 4
+  },
+  {
+    "episode": "Episode 38",
+    "segments": [
+      {
+        "start": "00:03.20",
+        "end": "00:47.50"
+      }
+    ],
+    "duration_seconds": 44.3,
+    "hook": "Echoing, heavy bootsteps approach down the corridor outside the cell.",
+    "cliffhanger": "\"Do you even know what happened to me?\"",
+    "why_it_works": "Opens on \"Echoing, heavy bootsteps approach down the corridor outside the cell.\", builds through \"Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite.\", and cuts on \"Do you even know what happened to me?\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.73,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 2.6,
+      "context": 3.7,
+      "coherence": 5.0,
+      "emotional_intensity": 1.2,
+      "arc_completeness": 1.78,
+      "duration_suitability": 4.91
+    },
+    "evidence_excerpt": "Hook (00:03.20): SOUND FX: Echoing, heavy bootsteps approach down the corridor outside the cell. | Build (00:27.80): ACTION: Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite. | Build context (00:26.00): JULIANA (Choked Up, Tearful): \"Thank you.\" | Payoff (00:40.00): JULIANA (Desperate, Trembling): \"Do you even know what happened to me?\" | Payoff context (00:39.50): CAMERA: Intimate close-up of Juliana looking upward, her tear-stained face filled with raw anguish.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 5
+  },
+  {
+    "episode": "Episode 38",
+    "segments": [
+      {
+        "start": "00:07.50",
+        "end": "00:53.50"
+      }
+    ],
+    "duration_seconds": 46.0,
+    "hook": "Tight close-up on Juliana's profile as her head turns toward the corridor, her blue eyes widening with cautious alarm.",
+    "cliffhanger": "\"Do you even know what happened to me?\"",
+    "why_it_works": "Opens on \"Tight close-up on Juliana's profile as her head turns toward the corridor, her blue eyes widening with cautious alarm.\", builds through \"Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite.\", and cuts on \"Do you even know what happened to me?\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.72,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 2.6,
+      "context": 3.7,
+      "coherence": 5.0,
+      "emotional_intensity": 1.2,
+      "arc_completeness": 1.78,
+      "duration_suitability": 4.87
+    },
+    "evidence_excerpt": "Hook (00:07.50): CAMERA: Tight close-up on Juliana's profile as her head turns toward the corridor, her blue eyes widening with cautious alarm. | Build (00:27.80): ACTION: Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite. | Build context (00:26.00): JULIANA (Choked Up, Tearful): \"Thank you.\" | Payoff (00:40.00): JULIANA (Desperate, Trembling): \"Do you even know what happened to me?\" | Payoff context (00:39.50): CAMERA: Intimate close-up of Juliana looking upward, her tear-stained face filled with raw anguish.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 6
+  },
+  {
+    "episode": "Episode 38",
+    "segments": [
+      {
+        "start": "00:45.50",
+        "end": "01:27.91"
+      }
+    ],
+    "duration_seconds": 42.41,
+    "hook": "\"What if I never see you again?\"",
+    "cliffhanger": "Dramatic cut to black.",
+    "why_it_works": "Opens on \"What if I never see you again?\", builds through \"I will not betray him.\", and cuts on \"Dramatic cut to black.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.7,
+    "score_breakdown": {
+      "hook": 2.7,
+      "cliffhanger": 1.8,
+      "context": 3.35,
+      "coherence": 5.0,
+      "emotional_intensity": 1.2,
+      "arc_completeness": 1.85,
+      "duration_suitability": 4.65
+    },
+    "evidence_excerpt": "Hook (00:47.80): JULIANA (Heartbroken): \"What if I never see you again?\" | Hook context (00:45.50): CAMERA: Tight macro shot on Juliana's chin and throat as she presses a trembling hand against her chest. | Build (01:02.80): JULIANA (Resolute): \"I will not betray him.\" | Build context (01:00.50): CAMERA: Tight close-up of Juliana turning toward the cell wall, her blue eyes flashing with fierce loyalty. | Payoff (01:24.50): CAMERA: Dramatic cut to black. | Payoff context (01:22.50): JULIANA (Hopeful, Tender): \"Alexander...\"",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 7
+  },
+  {
+    "episode": "Episode 31",
+    "segments": [
+      {
+        "start": "01:38.20",
+        "end": "02:35.20"
+      }
+    ],
+    "duration_seconds": 57.0,
+    "hook": "\"I have beauty, money, family, status! What do you have?\"",
+    "cliffhanger": "Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhanger before an abrupt cut.",
+    "why_it_works": "Opens on \"I have beauty, money, family, status! What do you have?\", builds through \"Then why are you so desperate to make me kneel?\", and cuts on \"Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhan\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.68,
+    "score_breakdown": {
+      "hook": 2.35,
+      "cliffhanger": 1.8,
+      "context": 3.7,
+      "coherence": 5.0,
+      "emotional_intensity": 1.9,
+      "arc_completeness": 1.79,
+      "duration_suitability": 3.4
+    },
+    "evidence_excerpt": "Hook (01:38.50): CATHERINE (Incensed, Boastful): \"I have beauty, money, family, status! What do you have?\" | Hook context (01:38.20): CAMERA: Medium shot of Catherine sweeping her arm out, flaunting her aristocratic privilege and opulence. | Build (01:58.40): JULIANA (Piercing, Provocative): \"Then why are you so desperate to make me kneel?\" | Build context (01:58.20): CAMERA: Tight close-up of Juliana's face, tilting her head with an insightful, knowing smirk. | Payoff (02:35.20): CAMERA: Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhanger before an abrupt cut.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 8
+  },
+  {
+    "episode": "Episode 1",
+    "segments": [
+      {
+        "start": "01:23.70",
+        "end": "02:17.00"
+      }
+    ],
+    "duration_seconds": 53.3,
+    "hook": "Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him.",
+    "cliffhanger": "Cut to black.",
+    "why_it_works": "Opens on \"Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him.\", builds through \"And I am what?\", and cuts on \"Cut to black.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.67,
+    "score_breakdown": {
+      "hook": 2.15,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 1.9,
+      "arc_completeness": 1.51,
+      "duration_suitability": 3.89
+    },
+    "evidence_excerpt": "Hook (01:23.70): CAMERA: Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him. | Build (01:45.40): LADY JULIANA (Raw, Painful): \"And I am what?\" | Build context (01:42.50): CAMERA: Medium profile two-shot of the Matriarch confronting Juliana face to face. | Payoff (02:17.00): CAMERA: Cut to black.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 9
+  },
+  {
+    "episode": "Episode 26",
+    "segments": [
+      {
+        "start": "01:26.50",
+        "end": "02:00.88"
+      }
+    ],
+    "duration_seconds": 34.38,
+    "hook": "Medium tracking down Juliana's apron to her hand as she rests it against the bed linens, revealing a distinctive engraved signet ring on her finger.",
+    "cliffhanger": "\"Do not move!\"",
+    "why_it_works": "Opens on \"Medium tracking down Juliana's apron to her hand as she rests it against the bed linens, revealing a distinctive engraved signet ring on her finger.\", builds through \"Where... where... Where did you get this ring? Speak to me!\", and cuts on \"Do not move!\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.64,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 2.1,
+      "context": 3.7,
+      "coherence": 5.0,
+      "emotional_intensity": 2.4,
+      "arc_completeness": 1.56,
+      "duration_suitability": 3.58
+    },
+    "evidence_excerpt": "Hook (01:26.50): CAMERA: Medium tracking down Juliana's apron to her hand as she rests it against the bed linens, revealing a distinctive engraved signet ring on her finger. | Build (01:51.00): DOWAGER DUCHESS (Intense, Demanding): \"Where... where... Where did you get this ring? Speak to me!\" | Build context (01:49.00): CAMERA: Tight shot of the Duchess's frail hand clamping down with fierce, unexpected strength onto Juliana's dark sleeve. | Payoff (01:49.20): DOWAGER DUCHESS (Stern, Desperate): \"Do not move!\" | Payoff context (01:50.80): CAMERA: Close-up of the Dowager Duchess looking up at Juliana with overwhelming urgency and tears brimming in her wide eyes.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 10
+  },
+  {
+    "episode": "Episode 36",
+    "segments": [
+      {
+        "start": "00:00.00",
+        "end": "00:38.70"
+      }
+    ],
+    "duration_seconds": 38.7,
+    "hook": "\"Then why did they never find you?\"",
+    "cliffhanger": "\"My position was leaked to the French... before I could expose what I had discovered.\"",
+    "why_it_works": "Opens on \"Then why did they never find you?\", builds through \"Medium close-up on Alexander's mother, her hood framing her pale, weathered face as shock deepens across her features.\", and cuts on \"My position was leaked to the French... before I could expose what I had discovered.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.61,
+    "score_breakdown": {
+      "hook": 2.7,
+      "cliffhanger": 1.5,
+      "context": 3.7,
+      "coherence": 5.0,
+      "emotional_intensity": 1.2,
+      "arc_completeness": 1.59,
+      "duration_suitability": 4.16
+    },
+    "evidence_excerpt": "Hook (00:00.80): ALEXANDER'S MOTHER (Whispering, Distraught): \"Then why did they never find you?\" | Hook context (00:00.00): ACTION: Alexander's mother leans forward with both hands on the rustic table, searching her son's scarred face in disbelief. | Build (00:08.50): CAMERA: Medium close-up on Alexander's mother, her hood framing her pale, weathered face as shock deepens across her features. | Build context (00:09.50): ALEXANDER'S MOTHER (Trembling): \"Who?\" | Payoff (00:23.70): ALEXANDER (Fierce): \"My position was leaked to the French... before I could expose what I had discovered.\" | Payoff context (00:23.60): CAMERA: Close-up on Alexander leaning over the table, his eyes locked onto his mother as suppressed rage surfaces.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 11
+  },
+  {
+    "episode": "Episode 25",
+    "segments": [
+      {
+        "start": "00:14.90",
+        "end": "01:13.80"
+      }
+    ],
+    "duration_seconds": 58.9,
+    "hook": "Alexander steps forward and reaches out, his gloved hand firmly grasping her left shoulder. Juliana winces sharply and gasps in sudden pain.",
+    "cliffhanger": "\"She was barely breathing when I found her. The doctor said she was simply growing old.\"",
+    "why_it_works": "Opens on \"Alexander steps forward and reaches out, his gloved hand firmly grasping her left shoulder. Juliana winces sharply and gasps in sudden pain.\", builds through \"Tight close-up of Alexander's face freezing in shock, his eyes widening as the revelation hits him.\", and cuts on \"She was barely breathing when I found her. The doctor said she was simply growing old.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.6,
+    "score_breakdown": {
+      "hook": 2.15,
+      "cliffhanger": 1.8,
+      "context": 3.7,
+      "coherence": 5.0,
+      "emotional_intensity": 1.9,
+      "arc_completeness": 1.58,
+      "duration_suitability": 3.15
+    },
+    "evidence_excerpt": "Hook (00:14.90): ACTION: Alexander steps forward and reaches out, his gloved hand firmly grasping her left shoulder. Juliana winces sharply and gasps in sudden pain. | Hook context (00:14.90): ALEXANDER (Sharp, Alarmed): \"You're hurt.\" | Build (00:57.50): CAMERA: Tight close-up of Alexander's face freezing in shock, his eyes widening as the revelation hits him. | Build context (00:55.60): JULIANA (Solemn): \"The Dowager Duchess.\" | Payoff (01:08.80): JULIANA (Fervent): \"She was barely breathing when I found her. The doctor said she was simply growing old.\" | Payoff context (01:08.50): CAMERA: Medium close-up of Juliana turning toward him, recounting the scene in the bedchamber.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 12
+  },
+  {
+    "episode": "Episode 21",
+    "segments": [
+      {
+        "start": "00:03.50",
+        "end": "00:45.50"
+      }
+    ],
+    "duration_seconds": 42.0,
+    "hook": "A loud wooden slam as the heavy double barn doors violently fly open.",
+    "cliffhanger": "\"He is only seven! If you do not come, he will die! You are his only hope, Lady Juliana!\"",
+    "why_it_works": "Opens on \"A loud wooden slam as the heavy double barn doors violently fly open.\", builds through \"High-angle looking down at Prudence kneeling before Lady Juliana, pleading upward.\", and cuts on \"He is only seven! If you do not come, he will die! You are his only hope, Lady Juliana!\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.56,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 2.1,
+      "context": 3.7,
+      "coherence": 5.0,
+      "emotional_intensity": 1.2,
+      "arc_completeness": 1.56,
+      "duration_suitability": 4.6
+    },
+    "evidence_excerpt": "Hook (00:03.50): SOUND FX: A loud wooden slam as the heavy double barn doors violently fly open. | Hook context (00:04.20): PRUDENCE (Desperate, Panicked): \"Lady Juliana! Please! You have to help me, Toby is dying!\" | Build (00:31.10): CAMERA: High-angle looking down at Prudence kneeling before Lady Juliana, pleading upward. | Build context (00:31.00): PRUDENCE (Pleading, Desperate): \"He is only seven! If you do not come, he will die! You are his only hope, Lady Juliana!\"",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 13
+  },
+  {
+    "episode": "Episode 25",
+    "segments": [
+      {
+        "start": "00:44.40",
+        "end": "01:25.00"
+      }
+    ],
+    "duration_seconds": 40.6,
+    "hook": "\"What were you doing there?\"",
+    "cliffhanger": "\"She was barely breathing when I found her. The doctor said she was simply growing old.\"",
+    "why_it_works": "Opens on \"What were you doing there?\", builds through \"Tight close-up of Alexander's face freezing in shock, his eyes widening as the revelation hits him.\", and cuts on \"She was barely breathing when I found her. The doctor said she was simply growing old.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.55,
+    "score_breakdown": {
+      "hook": 1.95,
+      "cliffhanger": 1.8,
+      "context": 3.7,
+      "coherence": 5.0,
+      "emotional_intensity": 1.2,
+      "arc_completeness": 1.53,
+      "duration_suitability": 4.41
+    },
+    "evidence_excerpt": "Hook (00:44.60): ALEXANDER (Incredulous, Demanding): \"What were you doing there?\" | Hook context (00:44.40): CAMERA: Close-up of Alexander, pressing her without hesitation. | Build (00:57.50): CAMERA: Tight close-up of Alexander's face freezing in shock, his eyes widening as the revelation hits him. | Build context (00:55.60): JULIANA (Solemn): \"The Dowager Duchess.\" | Payoff (01:08.80): JULIANA (Fervent): \"She was barely breathing when I found her. The doctor said she was simply growing old.\" | Payoff context (01:08.50): CAMERA: Medium close-up of Juliana turning toward him, recounting the scene in the bedchamber.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 14
+  },
+  {
+    "episode": "Episode 2",
+    "segments": [
+      {
+        "start": "00:23.80",
+        "end": "01:09.30"
+      }
+    ],
+    "duration_seconds": 45.5,
+    "hook": "\"A better choice? Is that what she is?\"",
+    "cliffhanger": "\"Oh, don't look so wounded, Juliana.\"",
+    "why_it_works": "Opens on \"A better choice? Is that what she is?\", builds through \"Why are you surprised, sister? Look at you.\", and cuts on \"Oh, don't look so wounded, Juliana.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.55,
+    "score_breakdown": {
+      "hook": 1.95,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 0.7,
+      "arc_completeness": 1.46,
+      "duration_suitability": 4.93
+    },
+    "evidence_excerpt": "Hook (00:24.00): LADY JULIANA (Shattered, Disbelieving): \"A better choice? Is that what she is?\" | Hook context (00:23.80): CAMERA: Medium close-up on Juliana clutching her chest, her voice quivering with disbelief. | Build (00:47.80): LADY IN GOLD GOWN (Mocking, Spiteful): \"Why are you surprised, sister? Look at you.\" | Build context (00:44.80): CAMERA: Extreme close-up on Juliana's tear-drenched eyes as the sting of her father's rejection lands. | Payoff (01:03.60): OFF-SCREEN VOICE (Cold, Scolding): \"Oh, don't look so wounded, Juliana.\" | Payoff context (01:03.50): CAMERA: High-angle wide shot of the grand cathedral aisle as a matriarch dressed in an ornate black velvet gown glides toward Juliana.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 15
+  },
+  {
+    "episode": "Episode 5",
+    "segments": [
+      {
+        "start": "00:04.20",
+        "end": "00:48.80"
+      }
+    ],
+    "duration_seconds": 44.6,
+    "hook": "Wide shot tracking Juliana and the Mysterious Bearded Man descending the grand stone steps of the cathedral courtyard. Behind them, Lord Ashcroft emerges from the vaulted doorway leaning on his cane.",
+    "cliffhanger": "\"...that belongs to this family.\"",
+    "why_it_works": "Opens on \"Wide shot tracking Juliana and the Mysterious Bearded Man descending the grand stone steps of the cathedral courtyard. Behind them, Lord Ashcroft emerges from the vaulted doorway l\", builds through \"Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest.\", and cuts on \"...that belongs to this family.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.52,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 1.2,
+      "arc_completeness": 1.42,
+      "duration_suitability": 4.95
+    },
+    "evidence_excerpt": "Hook (00:04.20): CAMERA: Wide shot tracking Juliana and the Mysterious Bearded Man descending the grand stone steps of the cathedral courtyard. Behind them, Lord Ashcroft emerges from the vaulted doorway leaning on his cane. | Hook context (00:04.20): LORD ASHCROFT (Stern, Commanding): \"Miss Ashcroft.\" | Build (00:25.00): CAMERA: Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest. | Build context (00:23.10): LORD ASHCROFT (O.S. / Continues): \"Your inheritance is revoked.\" | Payoff (00:46.80): LADY ASHCROFT (Venomous): \"...that belongs to this family.\" | Payoff context (00:46.00): CAMERA: Medium shot as Lady Ashcroft approaches Juliana menacingly.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 16
+  },
+  {
+    "episode": "Episode 19",
+    "segments": [
+      {
+        "start": "00:15.50",
+        "end": "01:01.30"
+      }
+    ],
+    "duration_seconds": 45.8,
+    "hook": "Medium shot of three villagers approaching through the burnt clearing: an elder villager carrying folded wool blankets, followed by a man and woman holding loaves of baked bread.",
+    "cliffhanger": "\"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\"",
+    "why_it_works": "Opens on \"Medium shot of three villagers approaching through the burnt clearing: an elder villager carrying folded wool blankets, followed by a man and woman holding loaves of baked bread.\", builds through \"Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly.\", and cuts on \"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.52,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 1.2,
+      "arc_completeness": 1.42,
+      "duration_suitability": 4.89
+    },
+    "evidence_excerpt": "Hook (00:15.50): CAMERA: Medium shot of three villagers approaching through the burnt clearing: an elder villager carrying folded wool blankets, followed by a man and woman holding loaves of baked bread. | Build (00:34.80): CAMERA: Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly. | Build context (00:33.30): ELDER VILLAGER (Nodding, Earnest): \"Neither will the village.\" | Payoff (00:55.30): INFORMANT (O.S.): \"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\" | Payoff context (00:55.30): CAMERA: Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 17
+  },
+  {
+    "episode": "Episode 18",
+    "segments": [
+      {
+        "start": "02:25.80",
+        "end": "03:12.00"
+      }
+    ],
+    "duration_seconds": 46.2,
+    "hook": "\"Why would anyone do this?\"",
+    "cliffhanger": "Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable resolve, the swelling score echoing a vow of vengeance into the final cut to black.",
+    "why_it_works": "Opens on \"Why would anyone do this?\", builds through \"Extreme close-up of Alexander's piercing eyes and combat scar bathed in the flickering orange glow of the fire.\", and cuts on \"Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable resolve, the swelling score echoing a vow of vengeance into the final cut to bl\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.48,
+    "score_breakdown": {
+      "hook": 1.95,
+      "cliffhanger": 1.8,
+      "context": 3.7,
+      "coherence": 5.0,
+      "emotional_intensity": 0.7,
+      "arc_completeness": 1.3,
+      "duration_suitability": 4.84
+    },
+    "evidence_excerpt": "Hook (02:25.80): JULIANA (Voice Breaking, Anguished): \"Why would anyone do this?\" | Hook context (02:25.80): ACTION: Juliana turns toward Alexander, her hand trembling as she reaches out and touches his chest. | Build (02:51.00): CAMERA: Extreme close-up of Alexander's piercing eyes and combat scar bathed in the flickering orange glow of the fire. | Build context (02:51.80): ALEXANDER (Cold Fury, Resolute): \"They took our home. I will not let them take anything else now.\" | Payoff (03:06.50): CAMERA: Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable resolve, the swelling score echoing a vow of vengeance into the final cut to black. | Payoff context (03:04.20): JULIANA (Trembling, Apprehensive): \"What are you going to do?\"",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 18
+  },
+  {
+    "episode": "Episode 5",
+    "segments": [
+      {
+        "start": "00:06.60",
+        "end": "00:57.50"
+      }
+    ],
+    "duration_seconds": 50.9,
+    "hook": "Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft.",
+    "cliffhanger": "\"...that belongs to this family.\"",
+    "why_it_works": "Opens on \"Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft.\", builds through \"Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest.\", and cuts on \"...that belongs to this family.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.48,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 1.2,
+      "arc_completeness": 1.42,
+      "duration_suitability": 4.21
+    },
+    "evidence_excerpt": "Hook (00:06.60): ACTION: Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft. | Hook context (00:06.80): LORD ASHCROFT (Cold, Condemnatory): \"You will not leave this church carrying the Ashcroft name.\" | Build (00:25.00): CAMERA: Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest. | Build context (00:23.10): LORD ASHCROFT (O.S. / Continues): \"Your inheritance is revoked.\" | Payoff (00:46.80): LADY ASHCROFT (Venomous): \"...that belongs to this family.\" | Payoff context (00:46.00): CAMERA: Medium shot as Lady Ashcroft approaches Juliana menacingly.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 19
+  },
+  {
+    "episode": "Episode 19",
+    "segments": [
+      {
+        "start": "00:35.50",
+        "end": "01:28.90"
+      }
+    ],
+    "duration_seconds": 53.4,
+    "hook": "Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black.",
+    "cliffhanger": "\"Then Ashburg will remember who it belongs to.\"",
+    "why_it_works": "Opens on \"Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene f\", builds through \"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\", and cuts on \"Then Ashburg will remember who it belongs to.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.47,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 1.2,
+      "arc_completeness": 1.48,
+      "duration_suitability": 3.88
+    },
+    "evidence_excerpt": "Hook (00:38.00): ACTION: Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black. | Hook context (00:35.50): JULIANA (Choked Up, Mournful): \"Goodbye, Blackwood.\" | Build (00:55.30): INFORMANT (O.S.): \"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\" | Build context (00:55.30): CAMERA: Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens. | Payoff (01:25.90): ALEXANDER (Vow of Vengeance, Resolute): \"Then Ashburg will remember who it belongs to.\" | Payoff context (01:25.50): CAMERA: Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 20
+  },
+  {
+    "episode": "Episode 37",
+    "segments": [
+      {
+        "start": "01:35.50",
+        "end": "02:21.00"
+      }
+    ],
+    "duration_seconds": 45.5,
+    "hook": "Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid.",
+    "cliffhanger": "\"That was her greatest mistake. She could have accepted what happened. She could have disappeared quietly.\"",
+    "why_it_works": "Opens on \"Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid.\", builds through \"After what she has been accused of? Of course.\", and cuts on \"That was her greatest mistake. She could have accepted what happened. She could have disappeared quietly.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.47,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 0.7,
+      "arc_completeness": 1.47,
+      "duration_suitability": 4.93
+    },
+    "evidence_excerpt": "Hook (01:35.50): CAMERA: Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid. | Build (02:00.50): LADY CLARISSA (Dismissive, Certain): \"After what she has been accused of? Of course.\" | Build context (02:00.00): CAMERA: Close-up of Clarissa giving a slight, dismissive scoff before turning to him with cold certainty. | Payoff (02:07.50): LADY CLARISSA (Bitter, Cold): \"That was her greatest mistake. She could have accepted what happened. She could have disappeared quietly.\" | Payoff context (02:04.50): CAMERA: Medium close-up of the nobleman looking down pensively at the open execution clause on the table.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 21
+  },
+  {
+    "episode": "Episode 2",
+    "segments": [
+      {
+        "start": "00:32.40",
+        "end": "01:16.40"
+      }
+    ],
+    "duration_seconds": 44.0,
+    "hook": "Medium shot of Juliana turning toward her father in the pews, imploring him.",
+    "cliffhanger": "\"Oh, don't look so wounded, Juliana.\"",
+    "why_it_works": "Opens on \"Medium shot of Juliana turning toward her father in the pews, imploring him.\", builds through \"Why are you surprised, sister? Look at you.\", and cuts on \"Oh, don't look so wounded, Juliana.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.45,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 0.7,
+      "arc_completeness": 1.34,
+      "duration_suitability": 4.87
+    },
+    "evidence_excerpt": "Hook (00:34.20): CAMERA: Medium shot of Juliana turning toward her father in the pews, imploring him. | Hook context (00:34.30): LADY JULIANA (Choked with Tears): \"Surely you will not let him humiliate me like this?\" | Build (00:47.80): LADY IN GOLD GOWN (Mocking, Spiteful): \"Why are you surprised, sister? Look at you.\" | Build context (00:44.80): CAMERA: Extreme close-up on Juliana's tear-drenched eyes as the sting of her father's rejection lands. | Payoff (01:03.60): OFF-SCREEN VOICE (Cold, Scolding): \"Oh, don't look so wounded, Juliana.\" | Payoff context (01:03.50): CAMERA: High-angle wide shot of the grand cathedral aisle as a matriarch dressed in an ornate black velvet gown glides toward Juliana.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 22
+  },
+  {
+    "episode": "Episode 37",
+    "segments": [
+      {
+        "start": "01:32.00",
+        "end": "02:12.50"
+      }
+    ],
+    "duration_seconds": 40.5,
+    "hook": "Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid.",
+    "cliffhanger": "\"That was her greatest mistake. She could have accepted what happened. She could have disappeared quietly.\"",
+    "why_it_works": "Opens on \"Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid.\", builds through \"After what she has been accused of? Of course.\", and cuts on \"That was her greatest mistake. She could have accepted what happened. She could have disappeared quietly.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.44,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 0.7,
+      "arc_completeness": 1.47,
+      "duration_suitability": 4.4
+    },
+    "evidence_excerpt": "Hook (01:32.00): CAMERA: Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid. | Build (02:00.50): LADY CLARISSA (Dismissive, Certain): \"After what she has been accused of? Of course.\" | Build context (02:00.00): CAMERA: Close-up of Clarissa giving a slight, dismissive scoff before turning to him with cold certainty. | Payoff (02:07.50): LADY CLARISSA (Bitter, Cold): \"That was her greatest mistake. She could have accepted what happened. She could have disappeared quietly.\" | Payoff context (02:04.50): CAMERA: Medium close-up of the nobleman looking down pensively at the open execution clause on the table.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 23
+  },
+  {
+    "episode": "Episode 19",
+    "segments": [
+      {
+        "start": "00:47.10",
+        "end": "01:37.80"
+      }
+    ],
+    "duration_seconds": 50.7,
+    "hook": "Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority.",
+    "cliffhanger": "\"Then Ashburg will remember who it belongs to.\"",
+    "why_it_works": "Opens on \"Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority.\", builds through \"And when we have the proof?\", and cuts on \"Then Ashburg will remember who it belongs to.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.43,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 0.7,
+      "arc_completeness": 1.47,
+      "duration_suitability": 4.24
+    },
+    "evidence_excerpt": "Hook (00:47.10): CAMERA: Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority. | Hook context (00:47.10): ALEXANDER (Authoritative, Direct): \"Tell me what is happening in Ashburg.\" | Build (01:24.00): INFORMANT (Inquiring, Tense): \"And when we have the proof?\" | Build context (01:21.20): CAMERA: Extreme close-up of Alexander's scarred eye and grimly set mouth. | Payoff (01:25.90): ALEXANDER (Vow of Vengeance, Resolute): \"Then Ashburg will remember who it belongs to.\" | Payoff context (01:25.50): CAMERA: Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 24
+  },
+  {
+    "episode": "Episode 19",
+    "segments": [
+      {
+        "start": "00:35.50",
+        "end": "01:10.50"
+      }
+    ],
+    "duration_seconds": 35.0,
+    "hook": "Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black.",
+    "cliffhanger": "\"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\"",
+    "why_it_works": "Opens on \"Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene f\", builds through \"Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority.\", and cuts on \"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.43,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 1.2,
+      "arc_completeness": 1.28,
+      "duration_suitability": 3.67
+    },
+    "evidence_excerpt": "Hook (00:38.00): ACTION: Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black. | Hook context (00:35.50): JULIANA (Choked Up, Mournful): \"Goodbye, Blackwood.\" | Build (00:46.00): CAMERA: Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority. | Build context (00:44.30): INFORMANT (Subservient, Urgent): \"Your Grace.\" | Payoff (00:55.30): INFORMANT (O.S.): \"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him.\" | Payoff context (00:55.30): CAMERA: Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 25
+  },
+  {
+    "episode": "Episode 20",
+    "segments": [
+      {
+        "start": "01:02.60",
+        "end": "01:49.00"
+      }
+    ],
+    "duration_seconds": 46.4,
+    "hook": "The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern.",
+    "cliffhanger": "\"...Ashbury will finally belong to us.\"",
+    "why_it_works": "Opens on \"The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and conc\", builds through \"Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold.\", and cuts on \"...Ashbury will finally belong to us.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.43,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 0.7,
+      "arc_completeness": 1.28,
+      "duration_suitability": 4.81
+    },
+    "evidence_excerpt": "Hook (01:02.60): ACTION: The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern. | Hook context (01:02.60): SEAMUS (Empathetic): \"Your palms are still raw from the fire. You shouldn't be working in this freezing draft.\" | Build (01:39.20): CAMERA: Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold. | Build context (01:41.50): CATHERINE (Possessive): \"...Ashbury will finally belong to us.\"",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 26
+  },
+  {
+    "episode": "Episode 49",
+    "segments": [
+      {
+        "start": "00:01.00",
+        "end": "00:46.50"
+      }
+    ],
+    "duration_seconds": 45.5,
+    "hook": "Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure stepping in.",
+    "cliffhanger": "\"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\"",
+    "why_it_works": "Opens on \"Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure steppi\", builds through \"You didn't need them the first time, either. I just prefer my secrets thorough.\", and cuts on \"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.41,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 3.7,
+      "coherence": 5.0,
+      "emotional_intensity": 0.7,
+      "arc_completeness": 1.31,
+      "duration_suitability": 4.93
+    },
+    "evidence_excerpt": "Hook (00:01.00): CAMERA: Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure stepping in. | Build (00:27.80): CATHERINE (Unfazed): \"You didn't need them the first time, either. I just prefer my secrets thorough.\" | Build context (00:27.50): CAMERA: Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly. | Payoff (00:42.00): CATHERINE (Assertive, Warning): \"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\" | Payoff context (00:41.80): CAMERA: Close-up of Catherine's face hardening into a stern, focused expression.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 27
+  },
+  {
+    "episode": "Episode 42",
+    "segments": [
+      {
+        "start": "00:01.00",
+        "end": "00:54.00"
+      }
+    ],
+    "duration_seconds": 53.0,
+    "hook": "Low-angle shot through drifting smoke and rubble across the stone floor, tilting up as polished boots step over splintered wood, revealing an imposing nobleman in a gold-embroidered navy coat.",
+    "cliffhanger": "\"I saw you again... but seeing you like this... I see my son as he was always meant to be.\"",
+    "why_it_works": "Opens on \"Low-angle shot through drifting smoke and rubble across the stone floor, tilting up as polished boots step over splintered wood, revealing an imposing nobleman in a gold-embroidere\", builds through \"Why?!\", and cuts on \"I saw you again... but seeing you like this... I see my son as he was always meant to be.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.4,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 0.7,
+      "arc_completeness": 1.42,
+      "duration_suitability": 3.93
+    },
+    "evidence_excerpt": "Hook (00:01.00): CAMERA: Low-angle shot through drifting smoke and rubble across the stone floor, tilting up as polished boots step over splintered wood, revealing an imposing nobleman in a gold-embroidered navy coat. | Build (00:25.50): BLOND NOBLEMAN (Desperate, Unhinged): \"Why?!\" | Build context (00:23.40): CAMERA: Close-up on Rupert, veins bulging in his neck as his composure shatters. | Payoff (00:54.00): ALEXANDER'S MOTHER (Tearful, Proud): \"I saw you again... but seeing you like this... I see my son as he was always meant to be.\" | Payoff context (00:54.00): CAMERA: Medium two-shot framed down the ruined nave between Alexander and his mother.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 28
+  },
+  {
+    "episode": "Episode 2",
+    "segments": [
+      {
+        "start": "00:12.00",
+        "end": "01:05.80"
+      }
+    ],
+    "duration_seconds": 53.8,
+    "hook": "Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him.",
+    "cliffhanger": "\"Oh, don't look so wounded, Juliana.\"",
+    "why_it_works": "Opens on \"Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him.\", builds through \"A better choice? Is that what she is?\", and cuts on \"Oh, don't look so wounded, Juliana.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.39,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 0.7,
+      "arc_completeness": 1.37,
+      "duration_suitability": 3.83
+    },
+    "evidence_excerpt": "Hook (00:12.00): CAMERA: Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him. | Hook context (00:12.00): THE FORMER GROOM (Arrogant, Conceited): \"...and completely beneath the future I deserve.\" | Build (00:24.00): LADY JULIANA (Shattered, Disbelieving): \"A better choice? Is that what she is?\" | Build context (00:23.80): CAMERA: Medium close-up on Juliana clutching her chest, her voice quivering with disbelief. | Payoff (01:03.60): OFF-SCREEN VOICE (Cold, Scolding): \"Oh, don't look so wounded, Juliana.\" | Payoff context (01:03.50): CAMERA: High-angle wide shot of the grand cathedral aisle as a matriarch dressed in an ornate black velvet gown glides toward Juliana.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 29
+  },
+  {
+    "episode": "Episode 49",
+    "segments": [
+      {
+        "start": "00:05.20",
+        "end": "00:52.80"
+      }
+    ],
+    "duration_seconds": 47.6,
+    "hook": "Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure stepping in.",
+    "cliffhanger": "\"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\"",
+    "why_it_works": "Opens on \"Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure steppi\", builds through \"You didn't need them the first time, either. I just prefer my secrets thorough.\", and cuts on \"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.39,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 3.7,
+      "coherence": 5.0,
+      "emotional_intensity": 0.7,
+      "arc_completeness": 1.31,
+      "duration_suitability": 4.65
+    },
+    "evidence_excerpt": "Hook (00:05.20): CAMERA: Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure stepping in. | Build (00:27.80): CATHERINE (Unfazed): \"You didn't need them the first time, either. I just prefer my secrets thorough.\" | Build context (00:27.50): CAMERA: Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly. | Payoff (00:42.00): CATHERINE (Assertive, Warning): \"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\" | Payoff context (00:41.80): CAMERA: Close-up of Catherine's face hardening into a stern, focused expression.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 30
+  },
+  {
+    "episode": "Episode 20",
+    "segments": [
+      {
+        "start": "00:48.50",
+        "end": "01:43.70"
+      }
+    ],
+    "duration_seconds": 55.2,
+    "hook": "Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust.",
+    "cliffhanger": "\"...Ashbury will finally belong to us.\"",
+    "why_it_works": "Opens on \"Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust.\", builds through \"The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and conc\", and cuts on \"...Ashbury will finally belong to us.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.38,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 0.7,
+      "arc_completeness": 1.4,
+      "duration_suitability": 3.64
+    },
+    "evidence_excerpt": "Hook (00:48.50): CAMERA: Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust. | Build (01:00.00): ACTION: The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern. | Build context (01:00.50): SEAMUS (Gentle, Concerned): \"Let me take that basket, Lady Juliana.\" | Payoff (01:41.50): CATHERINE (Possessive): \"...Ashbury will finally belong to us.\" | Payoff context (01:39.20): CAMERA: Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 31
+  },
+  {
+    "episode": "Episode 18",
+    "segments": [
+      {
+        "start": "02:08.50",
+        "end": "03:06.50"
+      }
+    ],
+    "duration_seconds": 58.0,
+    "hook": "Wide shot of villagers running toward the cottage carrying wooden water buckets through the smoke-filled darkness.",
+    "cliffhanger": "Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable resolve, the swelling score echoing a vow of vengeance into the final cut to black.",
+    "why_it_works": "Opens on \"Wide shot of villagers running toward the cottage carrying wooden water buckets through the smoke-filled darkness.\", builds through \"Why would anyone do this?\", and cuts on \"Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable resolve, the swelling score echoing a vow of vengeance into the final cut to bl\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.31,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.8,
+      "context": 3.7,
+      "coherence": 5.0,
+      "emotional_intensity": 0.7,
+      "arc_completeness": 1.34,
+      "duration_suitability": 3.27
+    },
+    "evidence_excerpt": "Hook (02:08.50): CAMERA: Wide shot of villagers running toward the cottage carrying wooden water buckets through the smoke-filled darkness. | Build (02:25.80): JULIANA (Voice Breaking, Anguished): \"Why would anyone do this?\" | Build context (02:24.00): ACTION: Juliana turns toward Alexander, her hand trembling as she reaches out and touches his chest. | Payoff (03:06.50): CAMERA: Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable resolve, the swelling score echoing a vow of vengeance into the final cut to black. | Payoff context (03:04.20): JULIANA (Trembling, Apprehensive): \"What are you going to do?\"",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 32
+  },
+  {
+    "episode": "Episode 37",
+    "segments": [
+      {
+        "start": "01:32.00",
+        "end": "02:04.20"
+      }
+    ],
+    "duration_seconds": 32.2,
+    "hook": "Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid.",
+    "cliffhanger": "\"After what she has been accused of? Of course.\"",
+    "why_it_works": "Opens on \"Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid.\", builds through \"Extreme close-up of Juliana's blue eyes snapping open, blazing with unyielding defiance.\", and cuts on \"After what she has been accused of? Of course.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.27,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.55,
+      "context": 4.0,
+      "coherence": 5.0,
+      "emotional_intensity": 0.7,
+      "arc_completeness": 1.17,
+      "duration_suitability": 3.29
+    },
+    "evidence_excerpt": "Hook (01:32.00): CAMERA: Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid. | Build (01:40.50): CAMERA: Extreme close-up of Juliana's blue eyes snapping open, blazing with unyielding defiance. | Build context (01:40.80): JULIANA (Fierce Resolve): \"They think fear will make me beg.\" | Payoff (02:00.50): LADY CLARISSA (Dismissive, Certain): \"After what she has been accused of? Of course.\" | Payoff context (02:00.00): CAMERA: Close-up of Clarissa giving a slight, dismissive scoff before turning to him with cold certainty.",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 33
+  },
+  {
+    "episode": "Episode 37",
+    "segments": [
+      {
+        "start": "01:40.50",
+        "end": "02:07.00"
+      }
+    ],
+    "duration_seconds": 26.5,
+    "hook": "Extreme close-up of Juliana's blue eyes snapping open, blazing with unyielding defiance.",
+    "cliffhanger": "\"After what she has been accused of? Of course.\"",
+    "why_it_works": "Opens on \"Extreme close-up of Juliana's blue eyes snapping open, blazing with unyielding defiance.\", builds through \"Close-up of Clarissa giving a slight, dismissive scoff before turning to him with cold certainty.\", and cuts on \"After what she has been accused of? Of course.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+    "score": 2.2,
+    "score_breakdown": {
+      "hook": 1.5,
+      "cliffhanger": 1.55,
+      "context": 4.0,
+      "coherence": 4.88,
+      "emotional_intensity": 0.7,
+      "arc_completeness": 1.17,
+      "duration_suitability": 2.53
+    },
+    "evidence_excerpt": "Hook (01:40.50): CAMERA: Extreme close-up of Juliana's blue eyes snapping open, blazing with unyielding defiance. | Hook context (01:40.80): JULIANA (Fierce Resolve): \"They think fear will make me beg.\" | Build (02:00.00): CAMERA: Close-up of Clarissa giving a slight, dismissive scoff before turning to him with cold certainty. | Build context (02:00.50): LADY CLARISSA (Dismissive, Certain): \"After what she has been accused of? Of course.\"",
+    "method": "heuristic",
+    "needs_human_review": true,
+    "validation": {
+      "valid": true,
+      "message": "ok"
+    },
+    "rank": 34
+  }
+]

@@ -1,0 +1,581 @@
+{
+  "episode": {
+    "source_file": "episode-049-Episode 1688398.txt",
+    "episode": "Episode 49",
+    "logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance.",
+    "continuity_notes": "Directly follows Catherine sending Agnes to fetch Father Thomas under cover of darkness; now in Episode 49, Father Thomas slips into the secluded wing for their covert rendezvous.",
+    "declared_duration_seconds": 144.75,
+    "last_event_seconds": 144.75,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 144.75,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 5.2,
+        "text": "Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure stepping in.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 1.0,
+        "end": 4.5,
+        "text": "Hinges creaking softly followed by the muffled thud of a heavy wooden door clicking shut.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 1.8,
+        "end": 5.2,
+        "text": "Father Thomas, clad in a hooded dark mantle over priestly black robes, secures the door behind him and steps into the shadows of the abandoned corridor.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 5.2,
+        "end": 7.0,
+        "text": "Medium shot on Catherine, draped in a dark hooded cloak over a lavish crimson bodice, holding a brass candlestick aloft.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CATHERINE (Quietly Chiding):",
+        "start": 5.4,
+        "end": 6.8,
+        "text": "\"You took your time.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 7.0,
+        "end": 8.8,
+        "text": "Over-the-shoulder shot past Father Thomas's cloaked back looking toward Catherine illuminated in warm candlelight.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 8.8,
+        "end": 15.5,
+        "text": "Medium close-up of Father Thomas under his black hood, his stern face framed by the clerical collar and silver crucifix resting on his chest.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "FATHER THOMAS (Low, Measured):",
+        "start": 9.0,
+        "end": 15.2,
+        "text": "\"Agnes is thorough. She made me wait for a groom to finish his rounds before she'd let me past the stables.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 15.5,
+        "end": 19.8,
+        "text": "Close-up profile of Catherine, turning with a slight, knowing smirk.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CATHERINE (Pleased, Cold):",
+        "start": 15.8,
+        "end": 18.8,
+        "text": "\"Good. That's what I pay her for.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 19.8,
+        "end": 22.0,
+        "text": "Medium two-shot as Catherine steps forward and sets the heavy candleholder onto a small round table draped in grey cloth between them.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 20.0,
+        "end": 22.0,
+        "text": "Catherine sets down the brass candleholder, the flame flickering across their faces.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 22.0,
+        "end": 27.5,
+        "text": "Tight close-up on Father Thomas's face, the candlelight dancing in his calculating eyes.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "FATHER THOMAS (Grave):",
+        "start": 22.2,
+        "end": 27.2,
+        "text": "\"No shadows tonight, Catherine. Just us and an empty wing.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 27.5,
+        "end": 33.2,
+        "text": "Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CATHERINE (Unfazed):",
+        "start": 27.8,
+        "end": 33.0,
+        "text": "\"You didn't need them the first time, either. I just prefer my secrets thorough.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 33.2,
+        "end": 41.8,
+        "text": "Medium close-up of Father Thomas, glancing down momentarily before fixing his piercing gaze back on her.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "FATHER THOMAS (Dry, Cynical):",
+        "start": 33.5,
+        "end": 41.5,
+        "text": "\"A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 41.8,
+        "end": 46.8,
+        "text": "Close-up of Catherine's face hardening into a stern, focused expression.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CATHERINE (Assertive, Warning):",
+        "start": 42.0,
+        "end": 46.5,
+        "text": "\"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 46.8,
+        "end": 48.5,
+        "text": "Close-up on Father Thomas listening impassively.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 48.5,
+        "end": 53.0,
+        "text": "Medium wide two-shot across the candlelit table, Catherine leaning slightly forward.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CATHERINE (Scheming):",
+        "start": 48.8,
+        "end": 52.8,
+        "text": "\"Today went better than either of us planned for. The whole court watched you humiliate her.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 53.0,
+        "end": 59.8,
+        "text": "Medium close-up on Father Thomas as he turns his head slightly, scanning the dusty shadowed recesses of the abandoned room.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "FATHER THOMAS (Reflective, Brooding):",
+        "start": 53.2,
+        "end": 59.5,
+        "text": "\"Fitting choice, this room. A place the family forgot for a conversation they mustn't remember.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 59.8,
+        "end": 62.8,
+        "text": "Close-up on Catherine, her lips curling into an amused, knowing smile.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CATHERINE (Amused):",
+        "start": 60.0,
+        "end": 62.5,
+        "text": "\"You always did have a taste for symbolism.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 62.8,
+        "end": 67.2,
+        "text": "Medium shot of Father Thomas, a subtle smirk breaking through his austere demeanor.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "FATHER THOMAS (Intimate, Candid):",
+        "start": 63.0,
+        "end": 67.1,
+        "text": "\"And you always did have a taste for using me. It's why we suit each other.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 67.2,
+        "end": 72.4,
+        "text": "Close-up on Catherine, her expression turning razor-sharp and commanding.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CATHERINE (Strict, Urgent):",
+        "start": 67.4,
+        "end": 72.2,
+        "text": "\"Then make certain the council remembers that for the full ten days, not just the first hour.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 72.4,
+        "end": 77.0,
+        "text": "Side profile close-up on Father Thomas, his brow furrowing with impatient resolve.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "FATHER THOMAS (Direct):",
+        "start": 72.6,
+        "end": 76.8,
+        "text": "\"What is it you actually need from me, Catherine? Say it plainly, for once.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 77.0,
+        "end": 84.0,
+        "text": "Medium close-up of Catherine raising one hand slightly, emphasizing her terms.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CATHERINE (Calculating, Determined):",
+        "start": 77.2,
+        "end": 83.8,
+        "text": "\"First, the hearing stays unresolved as long as possible. Every extension, every delay, every excuse to reconvene.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 84.0,
+        "end": 91.4,
+        "text": "Frontal close-up of Catherine raising two fingers in the candlelight, her eyes burning with ruthless intent.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CATHERINE (Fierce, Uncompromising):",
+        "start": 84.2,
+        "end": 91.2,
+        "text": "\"Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 91.4,
+        "end": 94.2,
+        "text": "Close-up on Father Thomas absorbing the audacity of her demand.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "FATHER THOMAS (Skeptical):",
+        "start": 91.6,
+        "end": 94.0,
+        "text": "\"You want eyes inside the council chamber itself?\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 94.2,
+        "end": 98.0,
+        "text": "Close-up low angle on Catherine, tilting her chin up in defiant pride.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CATHERINE (Haughty, Imperious):",
+        "start": 94.4,
+        "end": 97.8,
+        "text": "\"I want eyes and ears everywhere that decides my future.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 98.0,
+        "end": 103.8,
+        "text": "Full two-shot of Catherine and Father Thomas facing off across the small table in the cavernous hallway.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 98.2,
+        "end": 102.5,
+        "text": "Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CATHERINE (Bitterly Resolute):",
+        "start": 98.3,
+        "end": 103.2,
+        "text": "\"Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 103.8,
+        "end": 113.0,
+        "text": "Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "FATHER THOMAS (Wary, Grave):",
+        "start": 104.2,
+        "end": 112.8,
+        "text": "\"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 113.0,
+        "end": 118.0,
+        "text": "Medium two-shot tracking closer as Catherine steps closer toward him.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CATHERINE (Seductive, Reassuring):",
+        "start": 113.2,
+        "end": 117.8,
+        "text": "\"Then make certain he doesn't find out. You're careful. I've seen how careful.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 118.0,
+        "end": 124.8,
+        "text": "Tight close-up on Father Thomas's intense, brooding face.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "FATHER THOMAS (Stern, Stark):",
+        "start": 118.2,
+        "end": 124.5,
+        "text": "\"Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 124.8,
+        "end": 128.8,
+        "text": "Close-up on Catherine, her lips parting into an alluring, promising smile.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CATHERINE (Tempting):",
+        "start": 125.0,
+        "end": 128.5,
+        "text": "\"Careful men who help me also get remembered.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 128.8,
+        "end": 134.5,
+        "text": "Split focus close-up between Father Thomas's intense gaze and Catherine leaning in close, whispering with lethal conviction.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CATHERINE (Whispering, Promising):",
+        "start": 129.2,
+        "end": 134.2,
+        "text": "\"A grateful Duchess collects debts differently than a desperate one.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 134.5,
+        "end": 139.8,
+        "text": "Medium two-shot as Father Thomas extends his open right hand between them.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 135.0,
+        "end": 139.5,
+        "text": "Father Thomas slowly raises his right hand, palm turned upward in invitation and pact.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "FATHER THOMAS (Low, Resigned):",
+        "start": 135.2,
+        "end": 139.5,
+        "text": "\"The rest depends on how well you keep your part of this quiet.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 139.8,
+        "end": 142.8,
+        "text": "Close-up on Father Thomas looking down into her eyes.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "FATHER THOMAS (Softly):",
+        "start": 140.0,
+        "end": 142.5,
+        "text": "\"Then we understand each other.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 140.5,
+        "end": 142.8,
+        "text": "Catherine reaches out and places her slender hand firmly into Father Thomas's open palm.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 142.8,
+        "end": 144.0,
+        "text": "Close-up of Catherine gazing up at him, her eyes glistening in the candlelight.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CATHERINE (Intimate):",
+        "start": 143.0,
+        "end": 144.0,
+        "text": "\"We always have.\"",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 144.0,
+        "end": 144.75,
+        "text": "Extreme close-up as Father Thomas gently raises his other hand and cups Catherine's cheek tenderly, her hand resting against his chest as she leans into his touch before cutting to black.",
+        "scene": "01",
+        "scene_heading": "INT. FORGOTTEN MANOR WING - NIGHT"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": [
+    {
+      "episode": "Episode 49",
+      "segments": [
+        {
+          "start": "00:01.00",
+          "end": "00:46.50"
+        }
+      ],
+      "duration_seconds": 45.5,
+      "hook": "Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure stepping in.",
+      "cliffhanger": "\"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\"",
+      "why_it_works": "Opens on \"Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure steppi\", builds through \"You didn't need them the first time, either. I just prefer my secrets thorough.\", and cuts on \"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.41,
+      "score_breakdown": {
+        "hook": 1.5,
+        "cliffhanger": 1.8,
+        "context": 3.7,
+        "coherence": 5.0,
+        "emotional_intensity": 0.7,
+        "arc_completeness": 1.31,
+        "duration_suitability": 4.93
+      },
+      "evidence_excerpt": "Hook (00:01.00): CAMERA: Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure stepping in. | Build (00:27.80): CATHERINE (Unfazed): \"You didn't need them the first time, either. I just prefer my secrets thorough.\" | Build context (00:27.50): CAMERA: Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly. | Payoff (00:42.00): CATHERINE (Assertive, Warning): \"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\" | Payoff context (00:41.80): CAMERA: Close-up of Catherine's face hardening into a stern, focused expression.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    },
+    {
+      "episode": "Episode 49",
+      "segments": [
+        {
+          "start": "00:05.20",
+          "end": "00:52.80"
+        }
+      ],
+      "duration_seconds": 47.6,
+      "hook": "Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure stepping in.",
+      "cliffhanger": "\"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\"",
+      "why_it_works": "Opens on \"Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure steppi\", builds through \"You didn't need them the first time, either. I just prefer my secrets thorough.\", and cuts on \"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.39,
+      "score_breakdown": {
+        "hook": 1.5,
+        "cliffhanger": 1.8,
+        "context": 3.7,
+        "coherence": 5.0,
+        "emotional_intensity": 0.7,
+        "arc_completeness": 1.31,
+        "duration_suitability": 4.65
+      },
+      "evidence_excerpt": "Hook (00:05.20): CAMERA: Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure stepping in. | Build (00:27.80): CATHERINE (Unfazed): \"You didn't need them the first time, either. I just prefer my secrets thorough.\" | Build context (00:27.50): CAMERA: Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly. | Payoff (00:42.00): CATHERINE (Assertive, Warning): \"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\" | Payoff context (00:41.80): CAMERA: Close-up of Catherine's face hardening into a stern, focused expression.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    }
+  ]
+}

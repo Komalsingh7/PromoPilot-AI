@@ -1,0 +1,699 @@
+{
+  "episode": {
+    "source_file": "episode-002-Episode 1671704.txt",
+    "episode": "Episode 2",
+    "logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.",
+    "continuity_notes": "Picks up directly from Episode 1's cliffhanger. Gerald has turned away from Juliana at the altar, leaving her devastated before the entire aristocratic congregation.",
+    "declared_duration_seconds": 110.0,
+    "last_event_seconds": 110.0,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 110.0,
+    "events": [
+      {
+        "label": "THE FORMER GROOM (Cold, Callous):",
+        "start": 0.0,
+        "end": 2.5,
+        "text": "\"I cannot marry you, Juliana.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 2.8,
+        "text": "Medium low-angle shot on Gerald at the altar steps, looking down dismissively, while Clarissa in her shimmering gold gown stands behind him gloating.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 2.8,
+        "end": 4.6,
+        "text": "Medium close-up on Juliana trembling in disbelief, her hands clasped tightly to her chest.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 2.8,
+        "end": 4.6,
+        "text": "Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 4.6,
+        "end": 6.6,
+        "text": "Medium shot returning to Gerald, sneering down at Juliana.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "THE FORMER GROOM (Cruel, Derisive):",
+        "start": 4.7,
+        "end": 6.5,
+        "text": "\"You are far too plain...\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 6.6,
+        "end": 9.5,
+        "text": "Close-up on Juliana's tear-streaked face, crushed under his biting words.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "THE FORMER GROOM (Off-screen) (Dismissive):",
+        "start": 6.8,
+        "end": 9.5,
+        "text": "\"...far too silent...\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 9.5,
+        "end": 12.0,
+        "text": "Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "THE FORMER GROOM (Arrogant, Conceited):",
+        "start": 9.6,
+        "end": 12.0,
+        "text": "\"...and completely beneath the future I deserve.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 12.0,
+        "end": 15.8,
+        "text": "Wide shot down the aisle as Juliana takes an agonizing step forward toward the altar, extending a trembling hand.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Desperate, Pleading):",
+        "start": 12.4,
+        "end": 15.5,
+        "text": "\"Gerald... Look at me.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 15.8,
+        "end": 18.0,
+        "text": "Close-up on Gerald's cold, merciless face staring ahead unblinkingly.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 18.0,
+        "end": 20.7,
+        "text": "Tight insert on Juliana's hand clutching the heirloom amethyst pendant resting against her gown.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Trembling, Betrayed):",
+        "start": 18.2,
+        "end": 20.6,
+        "text": "\"You gave me your word before both our families.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 20.7,
+        "end": 23.8,
+        "text": "Medium two-shot of Gerald and Clarissa standing side by side before the priest.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "THE FORMER GROOM (Indifferent, Unapologetic):",
+        "start": 20.9,
+        "end": 23.7,
+        "text": "\"Promises change when a better choice appears.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 23.8,
+        "end": 27.6,
+        "text": "Medium close-up on Juliana clutching her chest, her voice quivering with disbelief.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Shattered, Disbelieving):",
+        "start": 24.0,
+        "end": 27.4,
+        "text": "\"A better choice? Is that what she is?\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 27.6,
+        "end": 30.6,
+        "text": "Wide shot from behind Juliana looking up the altar stairs at Gerald with Clarissa linked to his arm.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "THE FORMER GROOM (Resolute, Harsh):",
+        "start": 27.8,
+        "end": 30.5,
+        "text": "\"She is what I should have chosen from the beginning.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 30.6,
+        "end": 32.4,
+        "text": "Medium shot of Juliana's father seated prominently in the family pew, clutching his gold-topped cane.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Off-screen) (Vulnerable, Begging):",
+        "start": 30.9,
+        "end": 32.4,
+        "text": "\"Father...\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 32.4,
+        "end": 34.2,
+        "text": "Close-up of the father's stern, unyielding face.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 34.2,
+        "end": 37.2,
+        "text": "Medium shot of Juliana turning toward her father in the pews, imploring him.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Choked with Tears):",
+        "start": 34.3,
+        "end": 37.1,
+        "text": "\"Surely you will not let him humiliate me like this?\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 37.2,
+        "end": 42.5,
+        "text": "Medium shot tracking in on Juliana's father as he leans firmly upon his cane, looking down coldly.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Stern, Cold):",
+        "start": 37.5,
+        "end": 42.3,
+        "text": "\"Gerald has made his choice. Accept it, Juliana.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "BLOND NOBLEMAN (Severely, Harsh):",
+        "start": 42.5,
+        "end": 44.7,
+        "text": "\"Do not disgrace us further.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 42.5,
+        "end": 44.8,
+        "text": "Close-up on the father's hardening eyes, entirely unsympathetic.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 44.8,
+        "end": 47.6,
+        "text": "Extreme close-up on Juliana's tear-drenched eyes as the sting of her father's rejection lands.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Whispering, Crushed):",
+        "start": 45.3,
+        "end": 47.4,
+        "text": "\"You won't even look at me.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 47.6,
+        "end": 51.5,
+        "text": "Medium shot on Clarissa, beaming smugly as she clings to Gerald's arm.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Mocking, Spiteful):",
+        "start": 47.8,
+        "end": 51.4,
+        "text": "\"Why are you surprised, sister? Look at you.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 51.5,
+        "end": 53.4,
+        "text": "Tight insert on Clarissa's gloved fingers contemptuously pinching the satin folds of Juliana's gown.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Off-screen) (Scornful):",
+        "start": 51.6,
+        "end": 53.2,
+        "text": "\"That plain, old-fashioned gown.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 53.4,
+        "end": 56.7,
+        "text": "Medium shot of Clarissa smiling radiantly, condescendingly gesturing at Juliana.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Taunting, Giggling):",
+        "start": 53.5,
+        "end": 56.7,
+        "text": "\"You look like a kitchen maid who wandered into the wrong wedding.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 56.7,
+        "end": 58.2,
+        "text": "Close-up on Juliana, whose tearful expression begins to tighten with quiet indignation.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Off-screen) (Snide):",
+        "start": 56.8,
+        "end": 58.2,
+        "text": "\"And that quiet little face.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 58.2,
+        "end": 58.6,
+        "text": "Wide over-the-shoulder shot from behind Clarissa and Gerald, framing Juliana standing solitary down the center aisle.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 58.6,
+        "end": 60.5,
+        "text": "Medium shot returning to Clarissa laughing at Juliana's expense.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Conceited, Spiteful):",
+        "start": 58.7,
+        "end": 60.5,
+        "text": "\"Gerald needs a real lady...\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 60.5,
+        "end": 63.5,
+        "text": "Close-up on Juliana staring straight ahead as Clarissa insults her mother's memory.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY IN GOLD GOWN (Off-screen) (Vicious):",
+        "start": 60.6,
+        "end": 63.5,
+        "text": "\"...not a dull creature who hides in her mother's apothecary herbs.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 63.5,
+        "end": 66.0,
+        "text": "High-angle wide shot of the grand cathedral aisle as a matriarch dressed in an ornate black velvet gown glides toward Juliana.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 63.5,
+        "end": 66.0,
+        "text": "The matriarch steps into the center aisle, glaring down at Juliana with cold superiority.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "OFF-SCREEN VOICE (Cold, Scolding):",
+        "start": 63.6,
+        "end": 65.8,
+        "text": "\"Oh, don't look so wounded, Juliana.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 66.0,
+        "end": 69.3,
+        "text": "Medium profile two-shot of the matriarch confronting Juliana face-to-face.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "OFF-SCREEN VOICE (Dismissive, Condescending):",
+        "start": 66.1,
+        "end": 69.3,
+        "text": "\"You should be grateful you're at least allowed to attend the wedding.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 69.3,
+        "end": 72.8,
+        "text": "Medium shot of Gerald stepping forward on the altar steps, impatiently gesturing Juliana toward the church exit.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "THE FORMER GROOM (Impatient, Commanding):",
+        "start": 69.4,
+        "end": 72.7,
+        "text": "\"Go home quietly, Juliana. At least leave this chapel with some dignity.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 72.8,
+        "end": 74.2,
+        "text": "Profile close-up of Juliana turning her face back toward the altar, tears still shimmering on her cheeks.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 74.2,
+        "end": 76.5,
+        "text": "Direct close-up on Juliana's face as a steely, defiant smile emerges through her pain.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Bitter, Defiant):",
+        "start": 74.4,
+        "end": 76.4,
+        "text": "\"Dignity?\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 76.5,
+        "end": 79.0,
+        "text": "Full shot of Juliana standing tall, her posture completely transforming into regal composure before the seated guests.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Clear, Accusing):",
+        "start": 76.5,
+        "end": 79.0,
+        "text": "\"You abandoned a woman who trusted you...\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 79.0,
+        "end": 81.8,
+        "text": "Medium profile close-up on Gerald's hardening jawline, Clarissa blurred in the background.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Off-screen) (Sharp, Piercing):",
+        "start": 79.2,
+        "end": 82.5,
+        "text": "\"...because another woman promised you greater beauty and wealth.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 81.8,
+        "end": 82.8,
+        "text": "Closer angle on Gerald's uneasy expression as Juliana's voice commands the room.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 82.8,
+        "end": 86.7,
+        "text": "Medium wide shot framing Juliana confronting Gerald from the foot of the altar stairs.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Steely, Resolute):",
+        "start": 83.0,
+        "end": 86.5,
+        "text": "\"Do not mistake my heartbreak for your victory, Gerald.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 86.7,
+        "end": 90.8,
+        "text": "Medium close-up push-in on Juliana, her blue eyes shining with fierce conviction.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Powerful, Unyielding):",
+        "start": 86.8,
+        "end": 93.0,
+        "text": "\"You wanted this entire chapel to believe that I was not worthy of you. But you have shown them something far more valuable.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 90.8,
+        "end": 93.2,
+        "text": "Medium profile on Juliana looking up at Gerald, holding the entire hall spellbound.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 93.2,
+        "end": 96.8,
+        "text": "Close-up on Juliana's face, calm, dignified, and unwavering.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Decisive, Scathing):",
+        "start": 93.4,
+        "end": 96.6,
+        "text": "\"You have shown them exactly what your word is worth.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 96.8,
+        "end": 98.2,
+        "text": "Medium shot on Gerald standing frozen on the altar steps, stunned and speechless under her public rebuke.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 98.2,
+        "end": 102.8,
+        "text": "Low-angle wide shot of the grand cathedral nave, framing Juliana in pristine white at the center of the vaulted aisle.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 98.2,
+        "end": 102.8,
+        "text": "Juliana lifts her chin high, commanding the space with unassailable dignity.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Resolute, Proud):",
+        "start": 98.5,
+        "end": 102.4,
+        "text": "\"I may leave this chapel without a husband...\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 102.8,
+        "end": 110.0,
+        "text": "Dramatic medium close-up holding steadily on Juliana's radiant, proud face as she delivers her final proclamation.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "LADY JULIANA (Defiant, Triumphant in Spirit):",
+        "start": 103.0,
+        "end": 107.4,
+        "text": "\"...but I will not leave it believing I was the one who should be ashamed.\"",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 107.4,
+        "end": 110.0,
+        "text": "Juliana breathes with steady resolve, holding her head high as the solemn orchestral score swells into the final beat.",
+        "scene": "01",
+        "scene_heading": "INT. CATHEDRAL – CONTINUOUS"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": [
+    {
+      "episode": "Episode 2",
+      "segments": [
+        {
+          "start": "00:23.80",
+          "end": "01:09.30"
+        }
+      ],
+      "duration_seconds": 45.5,
+      "hook": "\"A better choice? Is that what she is?\"",
+      "cliffhanger": "\"Oh, don't look so wounded, Juliana.\"",
+      "why_it_works": "Opens on \"A better choice? Is that what she is?\", builds through \"Why are you surprised, sister? Look at you.\", and cuts on \"Oh, don't look so wounded, Juliana.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.55,
+      "score_breakdown": {
+        "hook": 1.95,
+        "cliffhanger": 1.8,
+        "context": 4.0,
+        "coherence": 5.0,
+        "emotional_intensity": 0.7,
+        "arc_completeness": 1.46,
+        "duration_suitability": 4.93
+      },
+      "evidence_excerpt": "Hook (00:24.00): LADY JULIANA (Shattered, Disbelieving): \"A better choice? Is that what she is?\" | Hook context (00:23.80): CAMERA: Medium close-up on Juliana clutching her chest, her voice quivering with disbelief. | Build (00:47.80): LADY IN GOLD GOWN (Mocking, Spiteful): \"Why are you surprised, sister? Look at you.\" | Build context (00:44.80): CAMERA: Extreme close-up on Juliana's tear-drenched eyes as the sting of her father's rejection lands. | Payoff (01:03.60): OFF-SCREEN VOICE (Cold, Scolding): \"Oh, don't look so wounded, Juliana.\" | Payoff context (01:03.50): CAMERA: High-angle wide shot of the grand cathedral aisle as a matriarch dressed in an ornate black velvet gown glides toward Juliana.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    },
+    {
+      "episode": "Episode 2",
+      "segments": [
+        {
+          "start": "00:32.40",
+          "end": "01:16.40"
+        }
+      ],
+      "duration_seconds": 44.0,
+      "hook": "Medium shot of Juliana turning toward her father in the pews, imploring him.",
+      "cliffhanger": "\"Oh, don't look so wounded, Juliana.\"",
+      "why_it_works": "Opens on \"Medium shot of Juliana turning toward her father in the pews, imploring him.\", builds through \"Why are you surprised, sister? Look at you.\", and cuts on \"Oh, don't look so wounded, Juliana.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.45,
+      "score_breakdown": {
+        "hook": 1.5,
+        "cliffhanger": 1.8,
+        "context": 4.0,
+        "coherence": 5.0,
+        "emotional_intensity": 0.7,
+        "arc_completeness": 1.34,
+        "duration_suitability": 4.87
+      },
+      "evidence_excerpt": "Hook (00:34.20): CAMERA: Medium shot of Juliana turning toward her father in the pews, imploring him. | Hook context (00:34.30): LADY JULIANA (Choked with Tears): \"Surely you will not let him humiliate me like this?\" | Build (00:47.80): LADY IN GOLD GOWN (Mocking, Spiteful): \"Why are you surprised, sister? Look at you.\" | Build context (00:44.80): CAMERA: Extreme close-up on Juliana's tear-drenched eyes as the sting of her father's rejection lands. | Payoff (01:03.60): OFF-SCREEN VOICE (Cold, Scolding): \"Oh, don't look so wounded, Juliana.\" | Payoff context (01:03.50): CAMERA: High-angle wide shot of the grand cathedral aisle as a matriarch dressed in an ornate black velvet gown glides toward Juliana.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    },
+    {
+      "episode": "Episode 2",
+      "segments": [
+        {
+          "start": "00:12.00",
+          "end": "01:05.80"
+        }
+      ],
+      "duration_seconds": 53.8,
+      "hook": "Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him.",
+      "cliffhanger": "\"Oh, don't look so wounded, Juliana.\"",
+      "why_it_works": "Opens on \"Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him.\", builds through \"A better choice? Is that what she is?\", and cuts on \"Oh, don't look so wounded, Juliana.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.39,
+      "score_breakdown": {
+        "hook": 1.5,
+        "cliffhanger": 1.8,
+        "context": 4.0,
+        "coherence": 5.0,
+        "emotional_intensity": 0.7,
+        "arc_completeness": 1.37,
+        "duration_suitability": 3.83
+      },
+      "evidence_excerpt": "Hook (00:12.00): CAMERA: Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him. | Hook context (00:12.00): THE FORMER GROOM (Arrogant, Conceited): \"...and completely beneath the future I deserve.\" | Build (00:24.00): LADY JULIANA (Shattered, Disbelieving): \"A better choice? Is that what she is?\" | Build context (00:23.80): CAMERA: Medium close-up on Juliana clutching her chest, her voice quivering with disbelief. | Payoff (01:03.60): OFF-SCREEN VOICE (Cold, Scolding): \"Oh, don't look so wounded, Juliana.\" | Payoff context (01:03.50): CAMERA: High-angle wide shot of the grand cathedral aisle as a matriarch dressed in an ornate black velvet gown glides toward Juliana.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    }
+  ]
+}

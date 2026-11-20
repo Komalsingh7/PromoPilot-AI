@@ -1,0 +1,336 @@
+{
+  "episode": {
+    "source_file": "episode-050-Episode 1697563.txt",
+    "episode": "Episode 50",
+    "logline": "Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control—unaware that Agnes has walked in and witnessed their scandalous intimacy.",
+    "continuity_notes": "Directly follows Episode 49, where Father Thomas and Catherine sealed their covert alliance in the secluded wing; now, their secret affair deepens into political extortion before being shattered by an unexpected witness.",
+    "declared_duration_seconds": 80.0,
+    "last_event_seconds": 80.0,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 80.0,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 1.8,
+        "text": "High overhead birds-eye shot looking straight down at the unkempt bed, where Catherine lies curled in a silk chemise against Father Thomas's bare chest.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "ACTION:",
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Father Thomas lies flat on his back, breathless, while Catherine rests beside him, her fingers tracing across his bare skin.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CATHERINE (Playful, Seductive):",
+        "start": 1.8,
+        "end": 5.8,
+        "text": "\"A man in your collar isn't supposed to have that much left in him, Thomas.\"",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 1.8,
+        "end": 7.0,
+        "text": "Low-angle medium close-up on Catherine looking down adoringly into Father Thomas's face, a single candle flickering in the dark background.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "ACTION:",
+        "start": 5.8,
+        "end": 7.2,
+        "text": "Catherine runs her hand gently down his chest, smiling with triumphant affection.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 7.0,
+        "end": 11.8,
+        "text": "Close-up on Father Thomas turning his head toward her on the pillow, his voice raspy and dry.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "FATHER THOMAS (Low, Ironical):",
+        "start": 7.2,
+        "end": 11.2,
+        "text": "\"A man in my collar isn't supposed to be in this bed at all.\"",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 11.8,
+        "end": 15.8,
+        "text": "Close-up pushing in on Catherine as she leans lower over his face, her gaze sharpening with dangerous intimacy.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CATHERINE (Intense, Whispering):",
+        "start": 12.0,
+        "end": 15.5,
+        "text": "\"Then let's stop pretending this was only appetite.\"",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 15.8,
+        "end": 18.8,
+        "text": "Medium two-shot from the side as both sit up in bed, sheets pulled up around their waists.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CATHERINE (Direct, Transactional):",
+        "start": 16.8,
+        "end": 18.5,
+        "text": "\"Name your price.\"",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 18.8,
+        "end": 26.5,
+        "text": "Medium profile close-up on Father Thomas sitting up tall and bare-chested, Catherine resting her hand firmly over his heart.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "FATHER THOMAS (Calculated, Demanding):",
+        "start": 19.4,
+        "end": 25.0,
+        "text": "\"The west territory. Tax collection, all of it. Routed through my office.\"",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 26.5,
+        "end": 30.5,
+        "text": "Slight pull back as Catherine pulls her hand back slightly, staring at him in disbelief.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CATHERINE (Scoffing, Incredulous):",
+        "start": 27.2,
+        "end": 30.2,
+        "text": "\"That's not absolution, Thomas. That's a fortune.\"",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 30.5,
+        "end": 35.8,
+        "text": "Two-shot centering on Father Thomas leaning toward her, his expression resolute and uncompromising.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "FATHER THOMAS (Steady, Cold):",
+        "start": 31.0,
+        "end": 35.0,
+        "text": "\"Absolution is free. Discretion has a price.\"",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 35.8,
+        "end": 39.8,
+        "text": "Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CATHERINE (Soft, Calculating):",
+        "start": 36.5,
+        "end": 39.4,
+        "text": "\"Unsupervised. In your hands alone.\"",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 39.8,
+        "end": 43.0,
+        "text": "Tight close-up as Father Thomas reaches up and firmly clasps Catherine's hand at his neck.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "FATHER THOMAS (Grave):",
+        "start": 40.4,
+        "end": 42.5,
+        "text": "\"For as long as it holds.\"",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 43.0,
+        "end": 48.5,
+        "text": "Medium close-up as Catherine breaks into a knowing, seductive smile and taps his chest with her index finger.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CATHERINE (Softly, Teasing):",
+        "start": 43.2,
+        "end": 48.0,
+        "text": "\"Done. You told yourself this ends when the hearing does.\"",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 48.5,
+        "end": 54.5,
+        "text": "Close-up on Father Thomas letting out a soft, self-deprecating chuckle before meeting her eyes with smoldering hunger.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "FATHER THOMAS (Chuckle, Resigned):",
+        "start": 49.8,
+        "end": 54.0,
+        "text": "\"I've told myself that since the dawn in your bedchamber, and here we are again.\"",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 54.5,
+        "end": 59.8,
+        "text": "Extreme close-up of their lips almost grazing, warm candlelight catching the edges of their profiles.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CATHERINE (Murmuring):",
+        "start": 54.8,
+        "end": 56.5,
+        "text": "\"In another room no one uses?\"",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "FATHER THOMAS (Whispering):",
+        "start": 56.8,
+        "end": 59.2,
+        "text": "\"Perhaps I like rooms no one uses.\"",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 59.8,
+        "end": 65.5,
+        "text": "Close-up profile as Catherine slides both hands into the dark hair at the back of his neck, pulling him closer.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CATHERINE (Low, Carnal):",
+        "start": 60.3,
+        "end": 64.8,
+        "text": "\"Or perhaps discretion isn't the only thing you've developed a taste for.\"",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 65.5,
+        "end": 70.5,
+        "text": "Medium two-shot as Father Thomas pulls Catherine into a fierce, suffocating embrace, burying his face in her neck while she clings to his broad shoulders.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "ACTION:",
+        "start": 65.8,
+        "end": 70.5,
+        "text": "Catherine closes her eyes in surrender as Father Thomas holds her tight against his naked chest, lost in their forbidden entanglement.",
+        "scene": "01",
+        "scene_heading": "INT. ABANDONED BEDCHAMBER – PRE-DAWN"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 70.5,
+        "end": 73.5,
+        "text": "Medium tracking shot following Agnes as she walks cautiously down the dimly lit stone corridor, holding a black iron lantern.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR CORRIDOR – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 70.8,
+        "end": 73.5,
+        "text": "Agnes scans the desolate hallway nervously, her lantern casting elongated shadows against the wall.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR CORRIDOR – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 73.5,
+        "end": 76.5,
+        "text": "Over-the-shoulder shot behind Agnes as she stops dead in front of an open doorway, peering inside.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR CORRIDOR – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 74.0,
+        "end": 76.5,
+        "text": "Through the crack of the door, Agnes sees Catherine and the shirtless priest locked in an intimate, passionate embrace upon the bed.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR CORRIDOR – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 76.5,
+        "end": 78.5,
+        "text": "Tight close-up on Agnes's face, drained of all color, her eyes bulging in pure terror.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR CORRIDOR – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 76.8,
+        "end": 78.5,
+        "text": "Agnes's jaw drops open in shock as she stifles a cry.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR CORRIDOR – CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 77.2,
+        "end": 78.6,
+        "text": "Sharp, terrified gasp catching in Agnes's throat.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR CORRIDOR – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 78.5,
+        "end": 80.0,
+        "text": "Frantic backward tracking close-up on Agnes stumbling back into the shadows of the hallway, horrified by the lethal secret she has uncovered before an abrupt cut to black.",
+        "scene": "02",
+        "scene_heading": "INT. MANOR CORRIDOR – CONTINUOUS"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}

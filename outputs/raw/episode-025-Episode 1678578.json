@@ -1,0 +1,837 @@
+{
+  "episode": {
+    "source_file": "episode-025-Episode 1678578.txt",
+    "episode": "Episode 25",
+    "logline": "Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic.",
+    "continuity_notes": "Picks up immediately following Juliana's ordeal at Ashburg Manor, where she escaped punishment after hiding the antidote and now encounters Alexander awaiting her on the woodland trail.",
+    "declared_duration_seconds": 168.0,
+    "last_event_seconds": 168.0,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 168.0,
+    "events": [
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 4.2,
+        "text": "Wide tracking shot through a dense, sun-dappled forest as mist curls around towering tree trunks and tangled roots.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 0.6,
+        "end": 4.2,
+        "text": "Juliana walks hurriedly along the leaf-strewn forest path, clutching her dark hooded cloak tightly around her shoulders, breathing heavily.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 4.2,
+        "end": 7.0,
+        "text": "Medium low-angle shot panning up as Alexander emerges from behind a moss-covered tree, blocking the trail.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Grave, Alert):",
+        "start": 5.1,
+        "end": 6.4,
+        "text": "\"Juliana.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 7.0,
+        "end": 8.5,
+        "text": "Close-up of Juliana stopping abruptly, her expression guarded and weary.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Concerned, Suspicious):",
+        "start": 7.8,
+        "end": 9.6,
+        "text": "\"Why are you walking like that?\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 8.5,
+        "end": 13.2,
+        "text": "Medium close-up of Juliana clutching the collar of her cloak with trembling fingers.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Deflective, Breathless):",
+        "start": 10.2,
+        "end": 12.8,
+        "text": "\"I am tired. That is all.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 13.2,
+        "end": 16.0,
+        "text": "Alexander steps forward and reaches out, his gloved hand firmly grasping her left shoulder. Juliana winces sharply and gasps in sudden pain.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 13.2,
+        "end": 16.2,
+        "text": "Two-shot profile of Alexander grabbing Juliana's shoulder as she recoils.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Sharp, Alarmed):",
+        "start": 14.9,
+        "end": 16.1,
+        "text": "\"You're hurt.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 16.2,
+        "end": 18.8,
+        "text": "Close-up of Juliana gritting her teeth against the pain, shaking her head.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Strained, Minimizing):",
+        "start": 16.8,
+        "end": 18.5,
+        "text": "\"It is nothing.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 18.8,
+        "end": 22.5,
+        "text": "Alexander's gloved fingers pull back the torn fabric of her cloak and sleeve, revealing a raw, bloody welt slashing across her bare shoulder.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 18.8,
+        "end": 22.8,
+        "text": "Tight close-up of the fresh riding-crop laceration cut across Juliana's shoulder.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 22.8,
+        "end": 25.8,
+        "text": "Close-up of Alexander's scarred face darkening with volatile fury, his jaw tightening.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Seething, Dangerous):",
+        "start": 24.0,
+        "end": 25.5,
+        "text": "\"Who did this?\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 25.8,
+        "end": 29.8,
+        "text": "Medium close-up of Juliana averting her eyes, her head bowed in quiet resignation.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Subdued, Weary):",
+        "start": 27.5,
+        "end": 29.3,
+        "text": "\"It does not matter.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 29.8,
+        "end": 32.8,
+        "text": "Tight shot of Alexander, his eyes burning with intense anger.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Demanding, Stern):",
+        "start": 32.8,
+        "end": 33.8,
+        "text": "\"Who?\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 32.8,
+        "end": 34.5,
+        "text": "Alexander steps directly into her space, firmly taking her hand in his.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 34.5,
+        "end": 38.5,
+        "text": "Close-up of Juliana looking up into his eyes, whispering the truth.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Quiet, Apprehensive):",
+        "start": 36.0,
+        "end": 37.8,
+        "text": "\"Lady Catherine.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 38.5,
+        "end": 41.2,
+        "text": "Close-up of Alexander, his gaze piercing and hard.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Low, Interrogating):",
+        "start": 39.2,
+        "end": 41.0,
+        "text": "\"Where did you meet her?\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Hedged):",
+        "start": 41.2,
+        "end": 44.2,
+        "text": "\"I was in the wrong chamber. I was punished as a maid.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 41.2,
+        "end": 44.4,
+        "text": "Close-up of Juliana recounting the incident.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 44.4,
+        "end": 46.8,
+        "text": "Close-up of Alexander, pressing her without hesitation.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Incredulous, Demanding):",
+        "start": 44.6,
+        "end": 46.4,
+        "text": "\"What were you doing there?\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 46.8,
+        "end": 51.5,
+        "text": "Medium two-shot of Alexander leaning down toward her against the dim forest backdrop.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Fierce, Urgent):",
+        "start": 47.0,
+        "end": 51.2,
+        "text": "\"Juliana... why were you inside Ashburg Manor?\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 51.5,
+        "end": 54.2,
+        "text": "Close-up of Juliana holding his gaze resolutely.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Earnest):",
+        "start": 52.2,
+        "end": 54.2,
+        "text": "\"I went there to help someone.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Blunt):",
+        "start": 54.4,
+        "end": 55.2,
+        "text": "\"Who?\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 54.5,
+        "end": 57.5,
+        "text": "Medium close-up profile of both of them locked in stillness.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Solemn):",
+        "start": 55.6,
+        "end": 57.2,
+        "text": "\"The Dowager Duchess.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 57.5,
+        "end": 63.5,
+        "text": "Tight close-up of Alexander's face freezing in shock, his eyes widening as the revelation hits him.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Stunned, Disbelieving):",
+        "start": 60.8,
+        "end": 62.5,
+        "text": "\"The Dowager?\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 63.5,
+        "end": 68.5,
+        "text": "Medium profile tracking shot as Juliana begins walking slowly along the trail, Alexander following closely by her side.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Urgent):",
+        "start": 66.2,
+        "end": 68.5,
+        "text": "\"Prudence told me she was dying.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 68.5,
+        "end": 73.8,
+        "text": "Medium close-up of Juliana turning toward him, recounting the scene in the bedchamber.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Fervent):",
+        "start": 68.8,
+        "end": 73.8,
+        "text": "\"She was barely breathing when I found her. The doctor said she was simply growing old.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 73.8,
+        "end": 76.8,
+        "text": "Two-shot as Juliana stops and looks up into Alexander's grim expression.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Chilling, Definite):",
+        "start": 74.2,
+        "end": 75.8,
+        "text": "\"But it wasn't age.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 76.8,
+        "end": 79.5,
+        "text": "Medium shot of Alexander staring down at her, waiting for the dark truth.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Grim, Low):",
+        "start": 77.4,
+        "end": 78.9,
+        "text": "\"What did you find?\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 79.5,
+        "end": 82.5,
+        "text": "Tight close-up on Juliana's trembling lips.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Hushed, Horrified):",
+        "start": 80.2,
+        "end": 81.8,
+        "text": "\"Poison.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 82.5,
+        "end": 86.2,
+        "text": "Slightly wider close-up as Juliana's eyes well with distress.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Sober):",
+        "start": 83.5,
+        "end": 85.0,
+        "text": "\"Arsenic.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 86.2,
+        "end": 90.0,
+        "text": "Alexander's hand drops to his side and clenches into a white-knuckled fist, the thick scar across his hand tightening with intense restraint.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 86.2,
+        "end": 90.2,
+        "text": "Close-up on Alexander's fist clenching tightly in fury.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Pained, Troubled):",
+        "start": 90.2,
+        "end": 97.4,
+        "text": "\"Someone has been giving it to her again and again. Small amounts. Enough to make her weaker without killing her quickly.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 90.2,
+        "end": 97.8,
+        "text": "Medium close-up of Juliana, her voice filled with mounting dread.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 97.8,
+        "end": 100.2,
+        "text": "Close-up of Alexander processing the sinister calculation behind the poisoning.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 100.2,
+        "end": 105.2,
+        "text": "Two-shot as Juliana looks up at him with quiet hope.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Sincere, Earnest):",
+        "start": 100.4,
+        "end": 104.8,
+        "text": "\"I made her medicine. She was still barely conscious, but her breathing became easier.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 105.2,
+        "end": 107.8,
+        "text": "Close-up of Alexander's startled gaze.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Incredulous):",
+        "start": 105.6,
+        "end": 107.0,
+        "text": "\"You treated her?\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Firm):",
+        "start": 107.2,
+        "end": 108.0,
+        "text": "\"Yes.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 107.8,
+        "end": 111.8,
+        "text": "Close-up profile of the two facing each other.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Tense):",
+        "start": 108.4,
+        "end": 109.4,
+        "text": "\"Alone?\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Soft):",
+        "start": 109.8,
+        "end": 111.2,
+        "text": "\"With Prudence.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 111.8,
+        "end": 114.8,
+        "text": "Close-up of Alexander, his brow furrowed with deep protective worry.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Anxious):",
+        "start": 112.2,
+        "end": 114.4,
+        "text": "\"Will you be going there again?\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 114.8,
+        "end": 117.5,
+        "text": "Close-up of Juliana, her eyes filled with resolute purpose.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Determined):",
+        "start": 115.2,
+        "end": 116.8,
+        "text": "\"I have to.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Pleading, Defiant):",
+        "start": 117.5,
+        "end": 120.2,
+        "text": "\"She is still sick. I cannot leave her there.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 117.5,
+        "end": 121.0,
+        "text": "Juliana places her gentle hand against Alexander's broad chest, trying to soothe his rising anger.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 117.5,
+        "end": 121.5,
+        "text": "Two-shot of Juliana leaning in, her hand resting over Alexander's coat.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 121.0,
+        "end": 125.0,
+        "text": "Alexander takes both of her hands into his own, gripping them tightly.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 121.5,
+        "end": 125.5,
+        "text": "Medium two-shot of Alexander holding Juliana's hands in the dusky woods.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 125.5,
+        "end": 128.0,
+        "text": "Close-up of Juliana looking up into his darkened face with questioning concern.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Gentle, Perplexed):",
+        "start": 125.8,
+        "end": 127.5,
+        "text": "\"Alexander... why are you so angry?\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 128.0,
+        "end": 134.5,
+        "text": "Close-up of Alexander speaking through clenched teeth, barely containing his protective fury.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Fierce, Reproachful):",
+        "start": 128.2,
+        "end": 133.8,
+        "text": "\"Because you were standing inside a house where someone is poisoning a woman... and you never told me.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 134.5,
+        "end": 137.2,
+        "text": "Medium shot of Juliana looking down sheepishly before raising her eyes.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Vulnerable):",
+        "start": 135.0,
+        "end": 137.0,
+        "text": "\"I knew you would worry.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 137.2,
+        "end": 142.0,
+        "text": "Tight close-up of Alexander, his voice trembling with terrified passion.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Furious, Tormented):",
+        "start": 137.4,
+        "end": 142.4,
+        "text": "\"Worry? They struck you. They could have killed you.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 142.0,
+        "end": 145.0,
+        "text": "Two-shot as Juliana looks up into his eyes, holding firm.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Defiant, Soothing):",
+        "start": 143.2,
+        "end": 144.6,
+        "text": "\"But they didn't.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 145.0,
+        "end": 148.5,
+        "text": "Close-up of their clasped hands, panning up to Alexander's tormented gaze.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Grim, Fearful):",
+        "start": 145.2,
+        "end": 146.4,
+        "text": "\"This time.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Sincere, Steadfast):",
+        "start": 147.0,
+        "end": 148.8,
+        "text": "\"I am being careful.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 148.5,
+        "end": 152.0,
+        "text": "Two-shot as Juliana looks at him earnestly.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "JULIANA (Resolute):",
+        "start": 149.0,
+        "end": 151.2,
+        "text": "\"I cannot abandon her.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 151.2,
+        "end": 154.0,
+        "text": "Alexander closes his eyes for a brief, agonizing second, exhaling deeply as he yields to her unshakeable conviction.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 152.0,
+        "end": 156.5,
+        "text": "Close-up of Alexander opening his piercing eyes, resignation and steadfast devotion washing over his features.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Resigned, Steely):",
+        "start": 153.8,
+        "end": 156.2,
+        "text": "\"Then tell me everything.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 156.5,
+        "end": 163.0,
+        "text": "Medium two-shot as Alexander holds her gaze in the twilight shadows.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ALEXANDER (Low, Uncompromising):",
+        "start": 157.4,
+        "end": 159.2,
+        "text": "\"Everything you saw.\"",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "ACTION:",
+        "start": 162.5,
+        "end": 168.0,
+        "text": "Alexander turns, falling into step beside Juliana. Together, side by side, they begin their quiet walk down the darkening forest path into the twilight.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 163.0,
+        "end": 168.0,
+        "text": "Wide tracking shot from behind Alexander and Juliana as their silhouettes disappear into the shadowy, mist-veiled forest as emotional strings swell to a resolving chord.",
+        "scene": "01",
+        "scene_heading": "EXT. MISTY FOREST TRAIL – DUSK"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": [
+    {
+      "episode": "Episode 25",
+      "segments": [
+        {
+          "start": "00:14.90",
+          "end": "01:13.80"
+        }
+      ],
+      "duration_seconds": 58.9,
+      "hook": "Alexander steps forward and reaches out, his gloved hand firmly grasping her left shoulder. Juliana winces sharply and gasps in sudden pain.",
+      "cliffhanger": "\"She was barely breathing when I found her. The doctor said she was simply growing old.\"",
+      "why_it_works": "Opens on \"Alexander steps forward and reaches out, his gloved hand firmly grasping her left shoulder. Juliana winces sharply and gasps in sudden pain.\", builds through \"Tight close-up of Alexander's face freezing in shock, his eyes widening as the revelation hits him.\", and cuts on \"She was barely breathing when I found her. The doctor said she was simply growing old.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.6,
+      "score_breakdown": {
+        "hook": 2.15,
+        "cliffhanger": 1.8,
+        "context": 3.7,
+        "coherence": 5.0,
+        "emotional_intensity": 1.9,
+        "arc_completeness": 1.58,
+        "duration_suitability": 3.15
+      },
+      "evidence_excerpt": "Hook (00:14.90): ACTION: Alexander steps forward and reaches out, his gloved hand firmly grasping her left shoulder. Juliana winces sharply and gasps in sudden pain. | Hook context (00:14.90): ALEXANDER (Sharp, Alarmed): \"You're hurt.\" | Build (00:57.50): CAMERA: Tight close-up of Alexander's face freezing in shock, his eyes widening as the revelation hits him. | Build context (00:55.60): JULIANA (Solemn): \"The Dowager Duchess.\" | Payoff (01:08.80): JULIANA (Fervent): \"She was barely breathing when I found her. The doctor said she was simply growing old.\" | Payoff context (01:08.50): CAMERA: Medium close-up of Juliana turning toward him, recounting the scene in the bedchamber.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    },
+    {
+      "episode": "Episode 25",
+      "segments": [
+        {
+          "start": "00:44.40",
+          "end": "01:25.00"
+        }
+      ],
+      "duration_seconds": 40.6,
+      "hook": "\"What were you doing there?\"",
+      "cliffhanger": "\"She was barely breathing when I found her. The doctor said she was simply growing old.\"",
+      "why_it_works": "Opens on \"What were you doing there?\", builds through \"Tight close-up of Alexander's face freezing in shock, his eyes widening as the revelation hits him.\", and cuts on \"She was barely breathing when I found her. The doctor said she was simply growing old.\". That progression gives a first-time viewer a clear setup, rising stakes, and a specific payoff or unresolved turn.",
+      "score": 2.55,
+      "score_breakdown": {
+        "hook": 1.95,
+        "cliffhanger": 1.8,
+        "context": 3.7,
+        "coherence": 5.0,
+        "emotional_intensity": 1.2,
+        "arc_completeness": 1.53,
+        "duration_suitability": 4.41
+      },
+      "evidence_excerpt": "Hook (00:44.60): ALEXANDER (Incredulous, Demanding): \"What were you doing there?\" | Hook context (00:44.40): CAMERA: Close-up of Alexander, pressing her without hesitation. | Build (00:57.50): CAMERA: Tight close-up of Alexander's face freezing in shock, his eyes widening as the revelation hits him. | Build context (00:55.60): JULIANA (Solemn): \"The Dowager Duchess.\" | Payoff (01:08.80): JULIANA (Fervent): \"She was barely breathing when I found her. The doctor said she was simply growing old.\" | Payoff context (01:08.50): CAMERA: Medium close-up of Juliana turning toward him, recounting the scene in the bedchamber.",
+      "method": "heuristic",
+      "needs_human_review": true,
+      "validation": {
+        "valid": true,
+        "message": "ok"
+      }
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "episode": {
+    "source_file": "episode-030-Episode 1678583.txt",
+    "episode": "Episode 30",
+    "logline": "When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows.",
+    "continuity_notes": "Follows directly from Episode 29 where Juliana was locked away in the castle's subterranean wet cells, vowing never to let them take Alexander from her.",
+    "declared_duration_seconds": 151.21,
+    "last_event_seconds": 151.21,
+    "duration_gap_seconds": 0.0,
+    "duration_seconds": 151.21,
+    "events": [
+      {
+        "label": "SOUND FX:",
+        "start": 0.0,
+        "end": 4.5,
+        "text": "Rhythmic, heavy footsteps and the sharp metallic click of a cane striking the polished stone floor.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 0.0,
+        "end": 5.2,
+        "text": "Low-angle tracking shot following polished black dress shoes and the tip of a gold-handled cane striding deliberately along a sunlit marble hallway, tilting up gradually to reveal an austere, grey-haired elder nobleman.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 3.0,
+        "end": 5.5,
+        "text": "The Elder Nobleman walks with stern, unhurried authority, dressed in an immaculate black tailcoat and dark vest with a gold pocket watch chain.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 5.2,
+        "end": 7.5,
+        "text": "Medium close-up of Rupert standing nervously beside ornate double doors, wearing black gloves and an embroidered dark coat, glancing up with anxiety.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 6.8,
+        "end": 7.9,
+        "text": "A firm tap of the wooden walking stick halting against the floor.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 7.5,
+        "end": 13.5,
+        "text": "Two-shot profile of the Elder Nobleman facing Rupert in the vaulted corridor.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "ELDER NOBLEMAN (Cold, Accusatory):",
+        "start": 8.8,
+        "end": 13.3,
+        "text": "\"You have a rat in your cellar, Rupert. And the servants are beginning to smell it.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 13.5,
+        "end": 16.9,
+        "text": "Close-up of Rupert defensive and agitated.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "RUPERT (Defensive, Anxious):",
+        "start": 13.6,
+        "end": 16.8,
+        "text": "\"The Ashcroft girl is locked tight. Nobody knows she is down there.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 16.9,
+        "end": 26.0,
+        "text": "Medium close-up of the Elder Nobleman fixing Rupert with a piercing, contemptuous glare.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "ELDER NOBLEMAN (Stern, Disapproving):",
+        "start": 17.3,
+        "end": 25.8,
+        "text": "\"The kitchen maids are whispering. They see the soup bowls returned unwiped. They see your guards outside the lower grates.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 26.0,
+        "end": 29.8,
+        "text": "Medium shot of Rupert looking down, nervously pulling at his black leather gloves as dread creeps over his face.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "RUPERT (Muttered, Paranoid):",
+        "start": 26.5,
+        "end": 29.2,
+        "text": "\"She knows the Duchess was poisoned.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 29.8,
+        "end": 32.0,
+        "text": "Tight close-up on the Elder Nobleman's unyielding eyes narrowing in cold calculation.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 32.0,
+        "end": 33.4,
+        "text": "Tight close-up of Rupert swallows hard, breathless with dread.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "RUPERT (Fearful):",
+        "start": 32.1,
+        "end": 33.3,
+        "text": "\"If she speaks...\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "ACTION:",
+        "start": 33.4,
+        "end": 35.2,
+        "text": "The Elder Nobleman thrusts the gold knob of his walking stick directly against Rupert's chest, pinning him against the wall.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 33.4,
+        "end": 39.8,
+        "text": "Medium two-shot as the Elder Nobleman lunges forward aggressively, stepping into Rupert's personal space.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "ELDER NOBLEMAN (Fierce, Venomous):",
+        "start": 33.6,
+        "end": 39.8,
+        "text": "\"Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 39.8,
+        "end": 43.8,
+        "text": "Low-angle close-up of Rupert gasping softly, intimidated by the cane pressed firmly beneath his cravat.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "RUPERT (Faltering, Submissive):",
+        "start": 41.8,
+        "end": 43.5,
+        "text": "\"What are you suggesting?\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 43.8,
+        "end": 47.6,
+        "text": "Medium shot as the Elder Nobleman withdraws his cane and turns sharply toward the library doors.",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "ELDER NOBLEMAN (Calculated, Ominous):",
+        "start": 44.8,
+        "end": 47.3,
+        "text": "\"We stop hiding the prisoner.\"",
+        "scene": "01",
+        "scene_heading": "INT. CASTLE CORRIDOR – DAY"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 47.6,
+        "end": 51.0,
+        "text": "Tracking shot from behind the Elder Nobleman as he pushes open the heavy double doors into the dark wood-paneled library.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 48.0,
+        "end": 50.5,
+        "text": "The heavy creak of massive mahogany doors gliding open on brass hinges.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 51.0,
+        "end": 54.6,
+        "text": "Front medium shot of the Elder Nobleman pausing inside the library doorway, Rupert following behind him.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "ELDER NOBLEMAN (Deadpan, Sinister):",
+        "start": 51.2,
+        "end": 54.0,
+        "text": "\"We give them a reason to condemn her.\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 54.6,
+        "end": 58.8,
+        "text": "Wide shot of Catherine standing regally before the roaring stone hearth, dressed in an ornate burgundy and gold brocade gown, slowly unfurling a red lace fan.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Inquiring, Sharp):",
+        "start": 57.0,
+        "end": 58.8,
+        "text": "\"You have a solution?\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 58.8,
+        "end": 62.8,
+        "text": "Side profile close-up of the Elder Nobleman speaking with icy confidence.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "ELDER NOBLEMAN (Ruthless):",
+        "start": 59.4,
+        "end": 62.5,
+        "text": "\"We use the law to destroy her.\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 62.8,
+        "end": 64.8,
+        "text": "Close-up of Rupert looking bewildered.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "RUPERT (Confused):",
+        "start": 63.1,
+        "end": 64.3,
+        "text": "\"The law?\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 64.8,
+        "end": 73.5,
+        "text": "Tracking medium shot as the Elder Nobleman paces slowly behind the massive mahogany desk lined with books and a glass of whiskey.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "ELDER NOBLEMAN (Pragmatic, Scheming):",
+        "start": 65.3,
+        "end": 72.8,
+        "text": "\"A maid with herbs in her possession, a secret medicine, an unauthorized visit to the Duchess's chamber.\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "ACTION:",
+        "start": 70.8,
+        "end": 73.2,
+        "text": "The Elder Nobleman leans both hands against the desk, leaning forward intently.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 73.5,
+        "end": 74.8,
+        "text": "Medium close-up of Catherine fluttering her fan beneath her chin, smirking approvingly.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 74.8,
+        "end": 82.8,
+        "text": "Medium shot framing the Elder Nobleman seated at the desk beside Catherine standing in the firelight.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "ELDER NOBLEMAN (Cold, Calculating):",
+        "start": 75.0,
+        "end": 82.5,
+        "text": "\"Give those facts to a magistrate in the right order, and she becomes a poisoner.\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 82.8,
+        "end": 85.6,
+        "text": "Medium close-up of Catherine gently moving her fan, raising an intrigued brow.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Curious, Conniving):",
+        "start": 83.2,
+        "end": 85.4,
+        "text": "\"And if she claims she is a healer?\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 85.6,
+        "end": 88.5,
+        "text": "Tight close-up of the Elder Nobleman's face illuminated by warm firelight.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "ELDER NOBLEMAN (Sinister):",
+        "start": 85.8,
+        "end": 87.8,
+        "text": "\"Then call it witchcraft.\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 88.5,
+        "end": 91.8,
+        "text": "Close-up of Rupert wide-eyed with shock at the severity of the plan.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "RUPERT (Stunned):",
+        "start": 89.0,
+        "end": 91.3,
+        "text": "\"Witchcraft is a capital charge.\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 91.8,
+        "end": 94.5,
+        "text": "Straight-on close-up of the Elder Nobleman staring back without a flicker of remorse.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "ELDER NOBLEMAN (Unflinching):",
+        "start": 92.0,
+        "end": 93.4,
+        "text": "\"Precisely.\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 94.5,
+        "end": 101.9,
+        "text": "Medium three-shot framing Rupert, the Elder Nobleman between them, and Catherine listening closely.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "ELDER NOBLEMAN (Authoritative, Command):",
+        "start": 94.6,
+        "end": 101.8,
+        "text": "\"Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 101.9,
+        "end": 104.4,
+        "text": "Close-up of Catherine smiling with malicious satisfaction, fluttering her fan.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Scheming):",
+        "start": 102.2,
+        "end": 103.9,
+        "text": "\"Her botanical ledger...\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 104.4,
+        "end": 106.6,
+        "text": "Close-up of the Elder Nobleman nodding slowly.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "ELDER NOBLEMAN (Confirming):",
+        "start": 104.8,
+        "end": 106.0,
+        "text": "\"Exactly.\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 106.6,
+        "end": 109.0,
+        "text": "Close-up of Catherine leaning slightly forward.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Inquiring):",
+        "start": 107.3,
+        "end": 108.8,
+        "text": "\"And the Dowager?\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 109.0,
+        "end": 116.8,
+        "text": "Medium shot of the Elder Nobleman gesturing dismissively with one gloved hand.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "ELDER NOBLEMAN (Dismissive):",
+        "start": 109.5,
+        "end": 116.5,
+        "text": "\"She is weak, confused. No magistrate will trust a dying woman's accusations against a respected household.\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 116.8,
+        "end": 121.9,
+        "text": "Medium close-up of Rupert exhaling deeply, processing the horrifying certainty of their conspiracy.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "RUPERT (Hesitant):",
+        "start": 120.0,
+        "end": 121.5,
+        "text": "\"And Juliana?\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 121.9,
+        "end": 125.1,
+        "text": "Medium close-up of the Elder Nobleman staring sternly across the desk.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "ELDER NOBLEMAN (Cold, Resolute):",
+        "start": 122.4,
+        "end": 124.9,
+        "text": "\"She goes before the magistrate tomorrow.\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 125.1,
+        "end": 133.5,
+        "text": "Close-up of Catherine beaming with venomous glee, spreading her red fan wide.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CATHERINE (Cruel, Exultant):",
+        "start": 125.5,
+        "end": 133.0,
+        "text": "\"She will hang. A perfect solution. The town will cheer as the witch's disgraced daughter faces the noose.\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 133.5,
+        "end": 136.8,
+        "text": "Medium shot of Rupert pulling out the desk chair and seating himself with dark resolve.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "RUPERT (Resolute, Vengeful):",
+        "start": 134.1,
+        "end": 136.2,
+        "text": "\"I will write the arrest warrant myself.\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 136.8,
+        "end": 144.5,
+        "text": "Extreme close-up of the Elder Nobleman's weathered face, his eyes cold and predatory in the firelight.",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "ELDER NOBLEMAN (Chilling, Decisive):",
+        "start": 137.5,
+        "end": 143.5,
+        "text": "\"Tomorrow, she stops being a prisoner. She becomes a witch.\"",
+        "scene": "02",
+        "scene_heading": "INT. CASTLE STUDY / LIBRARY – CONTINUOUS"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 144.5,
+        "end": 148.5,
+        "text": "High-angle shot peering down through the heavy iron dungeon grate into the flooded, pitch-black subterranean wet cells where water drips continuously.",
+        "scene": "03",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "SOUND FX:",
+        "start": 144.5,
+        "end": 151.21,
+        "text": "Echoing, hollow water droplets splashing into dark pools beneath stone vaults, accompanied by a somber orchestral swell.",
+        "scene": "03",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "CAMERA:",
+        "start": 148.5,
+        "end": 151.21,
+        "text": "Low-angle medium shot pushing in on Juliana huddled against the wet stone wall, chained by the wrists, shivering in wet rags as faint moonlight filters down through the grate above.",
+        "scene": "03",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      },
+      {
+        "label": "ACTION:",
+        "start": 148.5,
+        "end": 151.21,
+        "text": "Juliana clutches a rough burlap rag to her trembling chest, her tear-stained face lifting upward in dread and fragile hope as the frame holds, cutting abruptly to black.",
+        "scene": "03",
+        "scene_heading": "INT. CASTLE SUBTERRANEAN WET CELLS – NIGHT"
+      }
+    ],
+    "parse_warnings": []
+  },
+  "promos": []
+}
