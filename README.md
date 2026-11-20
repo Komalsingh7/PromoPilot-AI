@@ -8,7 +8,7 @@ PromoPilot AI recommends and ranks 20–60 second moments from screenplay text. 
 
 ## Assignment deliverables
 
-- [Two-page solution document](submission/PromoPilot_AI_Solution.pdf)
+- [Two-page solution document](submission/Komal_Singh_KUKUFM.pdf)
 - [Full-pack raw output archive (50 episodes)](submission/PromoPilot_AI_Raw_Outputs.zip)
 - [Ranked candidate JSON](outputs/ranked_promos.json)
 - [Ranked candidate CSV](outputs/ranked_promos.csv)
